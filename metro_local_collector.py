@@ -641,8 +641,8 @@ class Collector:
         out_dir.mkdir(parents=True, exist_ok=True)
 
         stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        out_path = out_dir / f"southside_digest_{stamp}.json"
-        latest_path = out_dir / "latest.json"
+        out_path = out_dir / f"digest_{stamp}.json"
+        latest_path = out_dir / "digest_latest.json"
 
         encoded = json.dumps(result, indent=2, ensure_ascii=False)
         out_path.write_text(encoded, encoding="utf-8")
