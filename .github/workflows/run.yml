@@ -1,4 +1,4 @@
-name: Run Python Script
+name: Run Local-Dirt Scrape and Report script
 
 permissions:
   contents: write
