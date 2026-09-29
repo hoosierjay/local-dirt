@@ -30,4 +30,4 @@ jobs:
 
       # Step 4: Execute your script
       - name: Run Python Script
-        run: py metro_local_collector.py  
+        run: python metro_local_collector.py  
