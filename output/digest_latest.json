@@ -1,8 +1,8 @@
 {
   "project": "MetroLocal Indy South",
-  "started_at": "2026-09-29T01:23:53+00:00",
-  "finished_at": "2026-09-29T01:34:33+00:00",
-  "item_count": 52,
+  "started_at": "2026-09-30T00:37:26+00:00",
+  "finished_at": "2026-09-30T00:48:36+00:00",
+  "item_count": 64,
   "error_count": 13,
   "checked_source_count": 72,
   "skipped_source_count": 0,
@@ -14,7 +14,7 @@
     "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate."
   ],
   "stale_skipped_count": 143,
-  "robots_blocked_count": 9,
+  "robots_blocked_count": 11,
   "robots_blocked": [
     "https://www.ihsaa.org/sites/default/files/documents/2024-25%20Physical%20Form.pdf",
     "https://irp.cdn-website.com/e16b7284/files/uploaded/BGPD-Records-Request-Form-v2.pdf",
@@ -22,6 +22,8 @@
     "https://irp.cdn-website.com/e16b7284/files/uploaded/BG_Parks_Board_bylaws_12132023.pdf",
     "https://irp.cdn-website.com/e16b7284/files/uploaded/6LL9097+-+Declaratory+Resolution+2025-5+with+2025+Consoidated+Plan+Attachment.PDF",
     "https://irp.cdn-website.com/e16b7284/files/uploaded/BeechGroveRDCAnnualPresentation_4May2023-41-.pdf",
+    "https://go.boarddocs.com/in/greenw/Board.nsf/Public?open&id=policies",
+    "https://go.boarddocs.com/in/cpsin/Board.nsf/goto?open&id=DQXS7S7158AA",
     "https://www.ihsaa.org/Portals/0/ihsaa/documents/quick%20resources/Physical%20Form.pdf",
     "https://www.ibj.com/rss/news",
     "https://scorestream.com/explore/r/indiana/high-school/football/scores"
@@ -30,362 +32,362 @@
     {
       "source": "Franklin Township Community School Corp",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:23:54+00:00"
+      "checked_at": "2026-09-30T00:37:29+00:00"
     },
     {
       "source": "Franklin Township School Board Agendas",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:23:55+00:00"
+      "checked_at": "2026-09-30T00:37:30+00:00"
     },
     {
       "source": "Franklin Central Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:24:00+00:00"
+      "checked_at": "2026-09-30T00:37:36+00:00"
     },
     {
       "source": "Franklin Central Athletics Events",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:24:00+00:00"
+      "checked_at": "2026-09-30T00:37:36+00:00"
     },
     {
       "source": "Perry Township Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:24:01+00:00"
+      "checked_at": "2026-09-30T00:37:36+00:00"
     },
     {
       "source": "Perry Township School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:24:01+00:00"
+      "checked_at": "2026-09-30T00:37:36+00:00"
     },
     {
       "source": "Perry Meridian Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:24:13+00:00"
+      "checked_at": "2026-09-30T00:37:50+00:00"
     },
     {
       "source": "Southport Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:24:25+00:00"
+      "checked_at": "2026-09-30T00:38:03+00:00"
     },
     {
       "source": "City of Beech Grove",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:24:41+00:00"
+      "checked_at": "2026-09-30T00:38:20+00:00"
     },
     {
       "source": "Beech Grove Common Council",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:24:41+00:00"
+      "checked_at": "2026-09-30T00:38:20+00:00"
     },
     {
       "source": "Beech Grove City Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:25:03+00:00"
+      "checked_at": "2026-09-30T00:38:22+00:00"
     },
     {
       "source": "Beech Grove School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:25:03+00:00"
+      "checked_at": "2026-09-30T00:38:23+00:00"
     },
     {
       "source": "Beech Grove Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:25:17+00:00"
+      "checked_at": "2026-09-30T00:38:37+00:00"
     },
     {
       "source": "City of Southport",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:25:40+00:00"
+      "checked_at": "2026-09-30T00:38:58+00:00"
     },
     {
       "source": "City of Greenwood",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:26:06+00:00"
+      "checked_at": "2026-09-30T00:39:24+00:00"
     },
     {
       "source": "Greenwood Common Council Documents",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:26:31+00:00"
+      "checked_at": "2026-09-30T00:39:50+00:00"
     },
     {
       "source": "Greenwood City Projects",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:26:38+00:00"
+      "checked_at": "2026-09-30T00:39:57+00:00"
     },
     {
       "source": "Greenwood Community Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:26:39+00:00"
+      "checked_at": "2026-09-30T00:40:02+00:00"
     },
     {
       "source": "Greenwood School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:26:40+00:00"
+      "checked_at": "2026-09-30T00:40:02+00:00"
     },
     {
       "source": "Greenwood Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:26:54+00:00"
+      "checked_at": "2026-09-30T00:40:16+00:00"
     },
     {
       "source": "Greenwood Athletics Events",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:26:54+00:00"
+      "checked_at": "2026-09-30T00:40:16+00:00"
     },
     {
       "source": "Center Grove Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:27:00+00:00"
+      "checked_at": "2026-09-30T00:40:22+00:00"
     },
     {
       "source": "Center Grove School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:27:04+00:00"
+      "checked_at": "2026-09-30T00:40:25+00:00"
     },
     {
       "source": "Center Grove Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:27:29+00:00"
+      "checked_at": "2026-09-30T00:40:53+00:00"
     },
     {
       "source": "Clark-Pleasant Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:27:30+00:00"
+      "checked_at": "2026-09-30T00:41:03+00:00"
     },
     {
       "source": "Clark-Pleasant School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:27:31+00:00"
+      "checked_at": "2026-09-30T00:41:03+00:00"
     },
     {
       "source": "Clark-Pleasant Live Feed",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:27:32+00:00"
+      "checked_at": "2026-09-30T00:41:04+00:00"
     },
     {
       "source": "Whiteland Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:27:45+00:00"
+      "checked_at": "2026-09-30T00:41:18+00:00"
     },
     {
       "source": "Whiteland Athletics Events",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:27:55+00:00"
+      "checked_at": "2026-09-30T00:41:28+00:00"
     },
     {
       "source": "Town of Bargersville",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:27:56+00:00"
+      "checked_at": "2026-09-30T00:41:30+00:00"
     },
     {
       "source": "Town of Whiteland",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:28:24+00:00"
+      "checked_at": "2026-09-30T00:42:12+00:00"
     },
     {
       "source": "Whiteland Town Council",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:28:24+00:00"
+      "checked_at": "2026-09-30T00:42:12+00:00"
     },
     {
       "source": "Town of New Whiteland",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:28:48+00:00"
+      "checked_at": "2026-09-30T00:42:33+00:00"
     },
     {
       "source": "New Whiteland Town Council",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:28:48+00:00"
+      "checked_at": "2026-09-30T00:42:33+00:00"
     },
     {
       "source": "Town of Trafalgar",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:29:15+00:00"
+      "checked_at": "2026-09-30T00:43:19+00:00"
     },
     {
       "source": "Town of Edinburgh",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:29:45+00:00"
+      "checked_at": "2026-09-30T00:43:49+00:00"
     },
     {
       "source": "Town of Prince's Lakes",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:30:11+00:00"
+      "checked_at": "2026-09-30T00:44:13+00:00"
     },
     {
       "source": "City of Franklin",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:30:49+00:00"
+      "checked_at": "2026-09-30T00:44:51+00:00"
     },
     {
       "source": "Franklin City Document Center",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:30:50+00:00"
+      "checked_at": "2026-09-30T00:44:53+00:00"
     },
     {
       "source": "Franklin Community Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:31:06+00:00"
+      "checked_at": "2026-09-30T00:45:08+00:00"
     },
     {
       "source": "Franklin Community School Board",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:31:06+00:00"
+      "checked_at": "2026-09-30T00:45:08+00:00"
     },
     {
       "source": "Johnson County Government",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:31:32+00:00"
+      "checked_at": "2026-09-30T00:45:35+00:00"
     },
     {
       "source": "Johnson County Meetings",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:31:32+00:00"
+      "checked_at": "2026-09-30T00:45:35+00:00"
     },
     {
       "source": "Johnson County Council Documents",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:31:57+00:00"
+      "checked_at": "2026-09-30T00:46:01+00:00"
     },
     {
       "source": "Johnson County Planning and Zoning Documents",
       "refresh_minutes": 180,
-      "checked_at": "2026-09-29T01:32:19+00:00"
+      "checked_at": "2026-09-30T00:46:23+00:00"
     },
     {
       "source": "Indian Creek Schools",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:32:30+00:00"
+      "checked_at": "2026-09-30T00:46:34+00:00"
     },
     {
       "source": "Roncalli Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:32:50+00:00"
+      "checked_at": "2026-09-30T00:46:52+00:00"
     },
     {
       "source": "Lutheran High School Athletics",
       "refresh_minutes": 1440,
-      "checked_at": "2026-09-29T01:33:00+00:00"
+      "checked_at": "2026-09-30T00:47:03+00:00"
     },
     {
       "source": "Franklin Township Civic League",
       "refresh_minutes": 180,
-      "checked_at": "2026-09-29T01:33:06+00:00"
+      "checked_at": "2026-09-30T00:47:11+00:00"
     },
     {
       "source": "Daily Journal",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:06+00:00"
+      "checked_at": "2026-09-30T00:47:11+00:00"
     },
     {
       "source": "WTHR",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:26+00:00"
+      "checked_at": "2026-09-30T00:47:31+00:00"
     },
     {
       "source": "WISH-TV",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:27+00:00"
+      "checked_at": "2026-09-30T00:47:33+00:00"
     },
     {
       "source": "FOX59",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:29+00:00"
+      "checked_at": "2026-09-30T00:47:34+00:00"
     },
     {
       "source": "WRTV",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:29+00:00"
+      "checked_at": "2026-09-30T00:47:34+00:00"
     },
     {
       "source": "IndyStar",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:30+00:00"
+      "checked_at": "2026-09-30T00:47:35+00:00"
     },
     {
       "source": "Indianapolis Business Journal",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:30+00:00"
+      "checked_at": "2026-09-30T00:47:35+00:00"
     },
     {
       "source": "Indianapolis City-County Council",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:33:32+00:00"
+      "checked_at": "2026-09-30T00:47:36+00:00"
     },
     {
       "source": "Indianapolis DMD Meetings",
       "refresh_minutes": 180,
-      "checked_at": "2026-09-29T01:33:33+00:00"
+      "checked_at": "2026-09-30T00:47:38+00:00"
     },
     {
       "source": "INDOT",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:34+00:00"
+      "checked_at": "2026-09-30T00:47:39+00:00"
     },
     {
       "source": "INDOT Major Projects",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:38+00:00"
+      "checked_at": "2026-09-30T00:47:43+00:00"
     },
     {
       "source": "INDOT Restrictions and Closings",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:39+00:00"
+      "checked_at": "2026-09-30T00:47:44+00:00"
     },
     {
       "source": "National Weather Service Indianapolis",
       "refresh_minutes": 15,
-      "checked_at": "2026-09-29T01:33:40+00:00"
+      "checked_at": "2026-09-30T00:47:45+00:00"
     },
     {
       "source": "HS Football Scores - SI Indiana",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:42+00:00"
+      "checked_at": "2026-09-30T00:47:47+00:00"
     },
     {
       "source": "HS Scores - ScoreStream Indiana",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:42+00:00"
+      "checked_at": "2026-09-30T00:47:47+00:00"
     },
     {
       "source": "HS Scores - MaxPreps Indiana",
       "refresh_minutes": 30,
-      "checked_at": "2026-09-29T01:33:46+00:00"
+      "checked_at": "2026-09-30T00:47:49+00:00"
     },
     {
       "source": "Daily Journal - Beyond the Headlines",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:33:47+00:00"
+      "checked_at": "2026-09-30T00:47:50+00:00"
     },
     {
       "source": "Marion County Public Health Department",
       "refresh_minutes": 720,
-      "checked_at": "2026-09-29T01:33:53+00:00"
+      "checked_at": "2026-09-30T00:47:55+00:00"
     },
     {
       "source": "Daily Journal - Restaurant Inspections",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:33:53+00:00"
+      "checked_at": "2026-09-30T00:47:55+00:00"
     },
     {
       "source": "Daily Journal - Police Incidents",
       "refresh_minutes": 180,
-      "checked_at": "2026-09-29T01:33:53+00:00"
+      "checked_at": "2026-09-30T00:47:55+00:00"
     },
     {
       "source": "Daily Journal - Local Sports",
       "refresh_minutes": 120,
-      "checked_at": "2026-09-29T01:33:53+00:00"
+      "checked_at": "2026-09-30T00:47:55+00:00"
     },
     {
       "source": "Daily Journal - Public Notices",
       "refresh_minutes": 360,
-      "checked_at": "2026-09-29T01:33:53+00:00"
+      "checked_at": "2026-09-30T00:47:55+00:00"
     },
     {
       "source": "Johnson County Board of Health",
       "refresh_minutes": 720,
-      "checked_at": "2026-09-29T01:34:33+00:00"
+      "checked_at": "2026-09-30T00:48:36+00:00"
     }
   ],
   "skipped_sources": [],
@@ -399,7 +401,7 @@
       "title": "Elections, Buc'ees & More Greenwood Developments Underway| September 16, 2026",
       "url": "https://rss.buzzsprout.com/2596246.rss",
       "published": "Sat, 26 Sep 2026 06:00:00 -0400",
-      "fetched_at": "2026-09-29T01:33:47+00:00",
+      "fetched_at": "2026-09-30T00:47:50+00:00",
       "matched_keywords": [
         "Greenwood",
         "Johnson County"
@@ -415,56 +417,26 @@
       "title": "Church family remembers 2 innocent civilians killed during police pursuit in Indianapolis",
       "url": "https://fox59.com/news/indycrime/church-family-remembers-2-innocent-drivers-killed-during-police-pursuit-in-indianapolis",
       "published": "Mon, 28 Sep 2026 21:18:57 +0000",
-      "fetched_at": "2026-09-29T01:33:29+00:00",
+      "fetched_at": "2026-09-30T00:47:34+00:00",
       "matched_keywords": [
         "Southport"
       ],
       "text": "INDIANAPOLIS — Indiana State Police are investigating a deadly police pursuit that resulted in an innocent driver and passenger losing their lives. The suspect police were reportedly chasing remains hospitalized. FOX59/CBS4's Rachael Wilkerson spoke to the decedents' loved ones and examined the Southport Police Department's pursuit policy on Monday. Lori Lawrence — a 58-year-old who [...]"
     },
     {
-      "id": "69e973862bc16f2321cbcc68",
-      "source": "FOX59",
-      "source_scope": "broad",
-      "category": "news",
-      "item_type": "feed",
-      "title": "INDOT closes Fletcher Place exit on I-65 South",
-      "url": "https://fox59.com/news/indot-closes-fletcher-place-exit-on-i-65-south",
-      "published": "Mon, 28 Sep 2026 20:52:46 +0000",
-      "fetched_at": "2026-09-29T01:33:29+00:00",
-      "matched_keywords": [
-        "I-65 south"
-      ],
-      "text": "INDIANAPOLIS - There are some new traffic pattern changes on I-65 South heading into downtown. The Fletcher Place exit ramp is closed as crews waste no time getting to work. Fletcher was closed on Friday, so excavators could begin ripping up the road reflectors on Monday. “We're going to be doing some pavement work on [...]"
-    },
-    {
-      "id": "d30594138caf55bdadb5cab0",
-      "source": "WISH-TV",
-      "source_scope": "broad",
-      "category": "news",
-      "item_type": "feed",
-      "title": "Woman dies, 2 injured after chase ends in crash south of downtown Indianapolis",
-      "url": "https://www.wishtv.com/news/police-chase-southport-crash-death",
-      "published": "Mon, 28 Sep 2026 18:49:58 +0000",
-      "fetched_at": "2026-09-29T01:33:27+00:00",
-      "matched_keywords": [
-        "Southport"
-      ],
-      "text": "A woman was killed and two people were critically injured after a police pursuit ended in a head-on collision on Indianapolis' south side on Saturday."
-    },
-    {
-      "id": "577e54ed818170723a89b8ed",
+      "id": "7b29363ab8601a13c67c06e9",
       "source": "Town of Trafalgar",
       "source_scope": "southside",
       "category": "town",
       "item_type": "listing_or_page",
       "title": "Events Archive - Town of Trafalgar, Indiana",
       "url": "https://townoftrafalgar.org/events/today/?shortcode=42cf1b8c",
-      "published": "2026-09-28",
-      "fetched_at": "2026-09-29T01:29:10+00:00",
+      "published": "2026-09-29",
+      "fetched_at": "2026-09-30T00:43:13+00:00",
       "matched_keywords": [
         "Trafalgar"
       ],
-      "text": "Live Meeting Link\nCalendar\nPay Water Bill\nGet A Permit\nOrdinances\nHome\nAbout Us Careers\nCareers\nAdministration Boards & Commissions Board of Zoning Appeals (BZA) Planning Commission (PC) Redevelopment Commission (RDC) Municipal Facilities Building Corp Park Advisory Board Park Board Board of Metropolitan Police Commission Local Board of Finance Street Commissioner and Utility Superintendent Clerk-Treasurer Public Records Request Town Council Town Manager Town Manager Advisory Board Utility Billing Clerk & Office Manager Chief Morale Officer – Dixie\nBoards & Commissions Board of Zoning Appeals (BZA) Planning Commission (PC) Redevelopment Commission (RDC) Municipal Facilities Building Corp Park Advisory Board Park Board Board of Metropolitan Police Commission Local Board of Finance Street Commissioner and Utility Superintendent\nBoard of Zoning Appeals (BZA)\nPlanning Commission (PC)\nRedevelopment Commission (RDC)\nMunicipal Facilities Building Corp\nPark Advisory Board\nPark Board\nBoard of Metropolitan Police Commission\nLocal Board of Finance\nStreet Commissioner and Utility Superintendent\nClerk-Treasurer Public Records Request\nPublic Records Request\nTown Council\nTown Manager Town Manager Advisory Board\nTown Manager Advisory Board\nUtility Billing Clerk & Office Manager\nChief Morale Officer – Dixie\nDepartments Fire Department Police Department Planning and Zoning Utility Department\nFire Department\nPolice Department\nPlanning and Zoning\nUtility Department\nCommunity Community Building Farmers Market Churches Trafalgar Area Chamber of Commerce: Coming Soon!\nCommunity Building\nFarmers Market\nChurches\nTrafalgar Area Chamber of Commerce: Coming Soon!\nResources Trash Services Best Way Brock Enterprises: 317-878-5041 Rumpke Ordinances Civic Support Coordinator The Lord’s Locker State Board of Accounts Department of Local Government Finance 2026 Meeting Dates\nTrash Services Best Way Brock Enterprises: 317-878-5041 Rumpke\nBest Way\nBrock Enterprises: 317-878-5041\nRumpke\nCivic Support Coordinator\nThe Lord’s Locker\nState Board of Accounts\nDepartment of Local Government Finance\n2026 Meeting Dates\nContact Us Report a Concern Public Records Request\nReport a Concern\nEvents for September 28, 2026\nEvents Search and Views Navigation\nEvent Views Navigation\nList\nMonth\nDay\nPrevious Day\nNext Day\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live\nExport .ics file\nExport Outlook .ics file\nTown Hall Address: 2770 W St. Rd. 252, Trafalgar, IN\nMailing Address: P.O. Box 57, Trafalgar, IN\nOffice Hours Monday - Tuesday: 9:00 AM - 3:00 PM Wednesday: 9:00 AM - 12:00 PM Thursday: Closed Friday: 9:00 AM - 3:00 PM Or by appointment\nEmployee Portal\nPrivacy Statement\nAccessibility Statement\nTerms of Use\n© 2026 Town Of Trafalgar, Indiana.\nWebsite Designed and Developed in Indiana By Plaski Advertising\nQuick Links\nStay Connected"
+      "text": "Live Meeting Link\nCalendar\nPay Water Bill\nGet A Permit\nOrdinances\nHome\nAbout Us Careers\nCareers\nAdministration Boards & Commissions Board of Zoning Appeals (BZA) Planning Commission (PC) Redevelopment Commission (RDC) Municipal Facilities Building Corp Park Advisory Board Park Board Board of Metropolitan Police Commission Local Board of Finance Street Commissioner and Utility Superintendent Clerk-Treasurer Public Records Request Town Council Town Manager Town Manager Advisory Board Utility Billing Clerk & Office Manager Chief Morale Officer – Dixie\nBoards & Commissions Board of Zoning Appeals (BZA) Planning Commission (PC) Redevelopment Commission (RDC) Municipal Facilities Building Corp Park Advisory Board Park Board Board of Metropolitan Police Commission Local Board of Finance Street Commissioner and Utility Superintendent\nBoard of Zoning Appeals (BZA)\nPlanning Commission (PC)\nRedevelopment Commission (RDC)\nMunicipal Facilities Building Corp\nPark Advisory Board\nPark Board\nBoard of Metropolitan Police Commission\nLocal Board of Finance\nStreet Commissioner and Utility Superintendent\nClerk-Treasurer Public Records Request\nPublic Records Request\nTown Council\nTown Manager Town Manager Advisory Board\nTown Manager Advisory Board\nUtility Billing Clerk & Office Manager\nChief Morale Officer – Dixie\nDepartments Fire Department Police Department Planning and Zoning Utility Department\nFire Department\nPolice Department\nPlanning and Zoning\nUtility Department\nCommunity Community Building Farmers Market Churches Trafalgar Area Chamber of Commerce: Coming Soon!\nCommunity Building\nFarmers Market\nChurches\nTrafalgar Area Chamber of Commerce: Coming Soon!\nResources Trash Services Best Way Brock Enterprises: 317-878-5041 Rumpke Ordinances Civic Support Coordinator The Lord’s Locker State Board of Accounts Department of Local Government Finance 2026 Meeting Dates\nTrash Services Best Way Brock Enterprises: 317-878-5041 Rumpke\nBest Way\nBrock Enterprises: 317-878-5041\nRumpke\nCivic Support Coordinator\nThe Lord’s Locker\nState Board of Accounts\nDepartment of Local Government Finance\n2026 Meeting Dates\nContact Us Report a Concern Public Records Request\nReport a Concern\nEvents for September 29, 2026\nEvents Search and Views Navigation\nEvent Views Navigation\nList\nMonth\nDay\nPrevious Day\nNext Day\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live\nExport .ics file\nExport Outlook .ics file\nTown Hall Address: 2770 W St. Rd. 252, Trafalgar, IN\nMailing Address: P.O. Box 57, Trafalgar, IN\nOffice Hours Monday - Tuesday: 9:00 AM - 3:00 PM Wednesday: 9:00 AM - 12:00 PM Thursday: Closed Friday: 9:00 AM - 3:00 PM Or by appointment\nEmployee Portal\nPrivacy Statement\nAccessibility Statement\nTerms of Use\n© 2026 Town Of Trafalgar, Indiana.\nWebsite Designed and Developed in Indiana By Plaski Advertising\nQuick Links\nStay Connected"
     },
     {
       "id": "162abcdf6224e52a73d79f67",
@@ -475,7 +447,7 @@
       "title": "Quarterly Newsletter",
       "url": "https://www.in.gov/cities/southport/quarterly-newsletter",
       "published": "2024-01-30T09:59:28-05:00",
-      "fetched_at": "2026-09-29T01:25:29+00:00",
+      "fetched_at": "2026-09-30T00:38:48+00:00",
       "matched_keywords": [
         "Southport"
       ],
@@ -490,7 +462,7 @@
       "title": "Redevelopment Commission",
       "url": "https://www.in.gov/cities/southport/redevelopment-commission",
       "published": "2023-06-19T13:32:15-04:00",
-      "fetched_at": "2026-09-29T01:25:19+00:00",
+      "fetched_at": "2026-09-30T00:38:39+00:00",
       "matched_keywords": [
         "Southport"
       ],
@@ -505,7 +477,7 @@
       "title": "Town Council Agenda",
       "url": "https://www.in.gov/towns/new-whiteland/town-council/town-council-agenda",
       "published": "2021-03-05T07:40:16-05:00",
-      "fetched_at": "2026-09-29T01:28:30+00:00",
+      "fetched_at": "2026-09-30T00:42:17+00:00",
       "matched_keywords": [
         "Whiteland",
         "New Whiteland",
@@ -514,7 +486,7 @@
       "text": "Breadcrumbs\nNew Whiteland\nTown Council\nCurrent: Town Council Agenda\nTown Council Agenda\nNEW WHITELAND TOWN COUNCIL\nNOTICE OF SPECIAL MEETING.\nThe New Whiteland Town Council will meet at 5:00 p.m. on Wednesday, September 28, 2026 in the Meeting Room (Suite C) at 540 Tracy Road, New Whiteland.\nTENTATIVE AGENDA\nSeptember 28, 2026\n5:00 p.m.\n1. Call the Meeting to Order\n2. Opening Prayer\n3. Old Business:\n4. New Business:\na. Police Car Quotes……………………………………………….…..Joe Rynerson\n5. Legislative Business\na. Resolution 2026-04…………………………………………………John Perrin\nAuthorizing CCMG Agreement & Authorization to Sign Documents\n6. Adjourn\nIn accordance with the Americans with Disabilities Act, if any person wishes to attend the public meeting referred to above and is in need of reasonable accommodation in order to attend, hear or present information at the meeting, please contact the office of the Clerk-Treasurer for the Town of New Whiteland so accommodations can be made. The Clerk-Treasurer can be contacted at 540 Tracy Road, Suite A, New Whiteland, Indiana 46184, (317) 535-9487, or facsimile number (317) 535-7889.\n***This agenda is subject to change ** Posted September 23, 2026"
     },
     {
-      "id": "bc05e3c960d91152b5eec040",
+      "id": "eddb1da22fba57af9d0cbcaf",
       "source": "Johnson County Board of Health",
       "source_scope": "southside",
       "category": "health",
@@ -522,14 +494,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?eGov_searchDepartment=28&eGov_searchType=12",
       "published": null,
-      "fetched_at": "2026-09-29T01:34:14+00:00",
+      "fetched_at": "2026-09-30T00:48:17+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 89\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n195\n679 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n205\n97 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n329\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n386\n114 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n345\n117 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n397\n119 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n419\n102 KB\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n444\n118 KB\nHealth Board Meeting Minutes 4-23-25\n458\n132 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n439\n411 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n421\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n316\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nHealth Board Meeting Minutes 2-28-24\n319\n252 KB\nHealth Board Meeting Minutes 12-6-23\n218\nHealth Board Meeting Minutes 10-25-23\n230 KB\nHealth Board Meeting Minutes 8-23-23\n247\n236 KB\nHealth Board Meeting Minutes 6-28-23\n269\n188 KB\nHealth Board Meeting Minutes 4-26-23\n438 KB\nHealth Board Meeting Minutes 2-22-23\n230\n133 KB\nHealth Board Meeting Minutes 12-7-22\n270\n191 KB\nHealth Board Meeting Minutes 10-26-22\n245\n1,387 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 89\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n197\n679 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n209\n97 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n331\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n390\n114 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n349\n117 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n398\n119 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n421\n102 KB\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n446\n118 KB\nHealth Board Meeting Minutes 4-23-25\n459\n132 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n440\n411 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n422\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n317\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nHealth Board Meeting Minutes 2-28-24\n321\n252 KB\nHealth Board Meeting Minutes 12-6-23\n219\nHealth Board Meeting Minutes 10-25-23\n208\n230 KB\nHealth Board Meeting Minutes 8-23-23\n248\n236 KB\nHealth Board Meeting Minutes 6-28-23\n271\n188 KB\nHealth Board Meeting Minutes 4-26-23\n438 KB\nHealth Board Meeting Minutes 2-22-23\n231\n133 KB\nHealth Board Meeting Minutes 12-7-22\n191 KB\nHealth Board Meeting Minutes 10-26-22\n247\n1,387 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "1ca88fc031b7adb61e9a7949",
+      "id": "df932f07ce1eacd52239fa4e",
       "source": "Johnson County Board of Health",
       "source_scope": "southside",
       "category": "health",
@@ -537,14 +509,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?eGov_searchDepartment=28&eGov_searchType=11",
       "published": null,
-      "fetched_at": "2026-09-29T01:34:13+00:00",
+      "fetched_at": "2026-09-30T00:48:16+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-10 of 10\nDate\nType\nTitle\nViews\nSize\nInfo\n08/24/2026\n2026 Health Board Agenda August 26\n159\n96 KB\n06/09/2026\n2026 Health Board Agenda June 24\n322\n95 KB\n04/08/2026\n2026 Health Board Agenda April 22\n356\n02/17/2026\n2026 Health Board Agenda February 25\n373\n100 KB\n12/09/2025\n2025 Health Board Agenda December 10\n362\n108 KB\n10/15/2025\n2025 Health Board Agenda October 22\n342\n109 KB\n08/28/2025\n2025 Health Board Agenda August 27\n312\n06/23/2025\n2025 Health Board Agenda June 25\n295\n111 KB\n03/25/2025\n2025 Health Board Agenda April 23\n288\n388 KB\n02/25/2025\n2025 Health Board Agenda February 26\n269\n379 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-10 of 10\nDate\nType\nTitle\nViews\nSize\nInfo\n08/24/2026\n2026 Health Board Agenda August 26\n161\n96 KB\n06/09/2026\n2026 Health Board Agenda June 24\n326\n95 KB\n04/08/2026\n2026 Health Board Agenda April 22\n358\n02/17/2026\n2026 Health Board Agenda February 25\n375\n100 KB\n12/09/2025\n2025 Health Board Agenda December 10\n363\n108 KB\n10/15/2025\n2025 Health Board Agenda October 22\n344\n109 KB\n08/28/2025\n2025 Health Board Agenda August 27\n314\n06/23/2025\n2025 Health Board Agenda June 25\n297\n111 KB\n03/25/2025\n2025 Health Board Agenda April 23\n290\n388 KB\n02/25/2025\n2025 Health Board Agenda February 26\n270\n379 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "8941911475a685c427071f85",
+      "id": "3c818a6d5016553e6c5de53d",
       "source": "Johnson County Board of Health",
       "source_scope": "southside",
       "category": "health",
@@ -552,14 +524,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?eGov_searchDepartment=28",
       "published": null,
-      "fetched_at": "2026-09-29T01:34:12+00:00",
+      "fetched_at": "2026-09-30T00:48:14+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 99\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n195\n679 KB\n08/24/2026\n2026 Health Board Agenda August 26\n159\n96 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n205\n97 KB\n06/09/2026\n2026 Health Board Agenda June 24\n322\n95 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n329\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n386\n114 KB\n2026 Health Board Agenda April 22\n356\n02/17/2026\n2026 Health Board Agenda February 25\n373\n100 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n345\n117 KB\n12/09/2025\n2025 Health Board Agenda December 10\n362\n108 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n397\n119 KB\n10/15/2025\n2025 Health Board Agenda October 22\n342\n109 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n419\n102 KB\n2025 Health Board Agenda August 27\n312\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n444\n118 KB\nHealth Board Meeting Minutes 4-23-25\n458\n132 KB\n06/23/2025\n2025 Health Board Agenda June 25\n295\n111 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n439\n411 KB\n03/25/2025\n2025 Health Board Agenda April 23\n288\n388 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n421\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n316\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 99\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n197\n679 KB\n08/24/2026\n2026 Health Board Agenda August 26\n161\n96 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n209\n97 KB\n06/09/2026\n2026 Health Board Agenda June 24\n326\n95 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n331\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n390\n114 KB\n2026 Health Board Agenda April 22\n358\n02/17/2026\n2026 Health Board Agenda February 25\n375\n100 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n349\n117 KB\n12/09/2025\n2025 Health Board Agenda December 10\n363\n108 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n398\n119 KB\n10/15/2025\n2025 Health Board Agenda October 22\n344\n109 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n421\n102 KB\n2025 Health Board Agenda August 27\n314\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n446\n118 KB\nHealth Board Meeting Minutes 4-23-25\n459\n132 KB\n06/23/2025\n2025 Health Board Agenda June 25\n297\n111 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n440\n411 KB\n03/25/2025\n2025 Health Board Agenda April 23\n290\n388 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n422\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n317\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "99927382e385aa2ad7a7e3a1",
+      "id": "5923ffa357636343c56b2a1f",
       "source": "Johnson County Board of Health",
       "source_scope": "southside",
       "category": "health",
@@ -567,14 +539,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=browse&eGov_searchType=12&eGov_searchDepartment=28",
       "published": null,
-      "fetched_at": "2026-09-29T01:34:10+00:00",
+      "fetched_at": "2026-09-30T00:48:13+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 89\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n195\n679 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n205\n97 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n329\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n386\n114 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n345\n117 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n397\n119 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n419\n102 KB\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n444\n118 KB\nHealth Board Meeting Minutes 4-23-25\n458\n132 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n439\n411 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n421\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n316\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nHealth Board Meeting Minutes 2-28-24\n319\n252 KB\nHealth Board Meeting Minutes 12-6-23\n218\nHealth Board Meeting Minutes 10-25-23\n230 KB\nHealth Board Meeting Minutes 8-23-23\n247\n236 KB\nHealth Board Meeting Minutes 6-28-23\n269\n188 KB\nHealth Board Meeting Minutes 4-26-23\n438 KB\nHealth Board Meeting Minutes 2-22-23\n230\n133 KB\nHealth Board Meeting Minutes 12-7-22\n270\n191 KB\nHealth Board Meeting Minutes 10-26-22\n245\n1,387 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 89\n1 2 3 4 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/27/2026\nHealth Board Meeting Minutes 8-26-26\n197\n679 KB\n07/15/2026\nHealth Board Meeting Minutes 6-24-26\n209\n97 KB\n05/18/2026\nHealth Board Meeting Minutes 4-22-26\n331\n113 KB\n04/08/2026\nHealth Board Meeting Minutes 2-25-26\n390\n114 KB\n01/15/2026\nHealth Board Meeting Minutes 12-10-25\n349\n117 KB\n10/27/2025\nHealth Board Meeting Minutes 10-22-25\n398\n119 KB\n08/28/2025\nHealth Board Meeting Minutes 8-27-25\n421\n102 KB\n07/22/2025\nHealth Board Meeting Minutes 6-25-25\n446\n118 KB\nHealth Board Meeting Minutes 4-23-25\n459\n132 KB\n04/14/2025\nHealth Board Meeting Minutes 4-10-25\n440\n411 KB\n03/05/2025\nHealth Board Meeting Minutes 2-26-25\n422\n423 KB\n03/04/2025\nHealth Board Meeting Minutes 12-11-24\n328\n436 KB\nHealth Board Meeting Minutes 10-23-24\n317\n430 KB\nHealth Board Meeting Minutes 8-28-24\n217\n244 KB\nHealth Board Meeting Minutes 6-26-24\n237\n307 KB\nHealth Board Meeting Minutes 4-24-24\n296\n250 KB\nHealth Board Meeting Minutes 2-28-24\n321\n252 KB\nHealth Board Meeting Minutes 12-6-23\n219\nHealth Board Meeting Minutes 10-25-23\n208\n230 KB\nHealth Board Meeting Minutes 8-23-23\n248\n236 KB\nHealth Board Meeting Minutes 6-28-23\n271\n188 KB\nHealth Board Meeting Minutes 4-26-23\n438 KB\nHealth Board Meeting Minutes 2-22-23\n231\n133 KB\nHealth Board Meeting Minutes 12-7-22\n191 KB\nHealth Board Meeting Minutes 10-26-22\n247\n1,387 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "3e5603a0b6509cc3ca2c352e",
+      "id": "65ee6255c6e1e316b857651f",
       "source": "Johnson County Board of Health",
       "source_scope": "southside",
       "category": "health",
@@ -582,11 +554,27 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=browse&eGov_searchType=11&eGov_searchDepartment=28",
       "published": null,
-      "fetched_at": "2026-09-29T01:34:02+00:00",
+      "fetched_at": "2026-09-30T00:48:05+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-10 of 10\nDate\nType\nTitle\nViews\nSize\nInfo\n08/24/2026\n2026 Health Board Agenda August 26\n159\n96 KB\n06/09/2026\n2026 Health Board Agenda June 24\n322\n95 KB\n04/08/2026\n2026 Health Board Agenda April 22\n356\n02/17/2026\n2026 Health Board Agenda February 25\n373\n100 KB\n12/09/2025\n2025 Health Board Agenda December 10\n362\n108 KB\n10/15/2025\n2025 Health Board Agenda October 22\n342\n109 KB\n08/28/2025\n2025 Health Board Agenda August 27\n312\n06/23/2025\n2025 Health Board Agenda June 25\n295\n111 KB\n03/25/2025\n2025 Health Board Agenda April 23\n288\n388 KB\n02/25/2025\n2025 Health Board Agenda February 26\n269\n379 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-10 of 10\nDate\nType\nTitle\nViews\nSize\nInfo\n08/24/2026\n2026 Health Board Agenda August 26\n161\n96 KB\n06/09/2026\n2026 Health Board Agenda June 24\n326\n95 KB\n04/08/2026\n2026 Health Board Agenda April 22\n358\n02/17/2026\n2026 Health Board Agenda February 25\n375\n100 KB\n12/09/2025\n2025 Health Board Agenda December 10\n363\n108 KB\n10/15/2025\n2025 Health Board Agenda October 22\n344\n109 KB\n08/28/2025\n2025 Health Board Agenda August 27\n314\n06/23/2025\n2025 Health Board Agenda June 25\n297\n111 KB\n03/25/2025\n2025 Health Board Agenda April 23\n290\n388 KB\n02/25/2025\n2025 Health Board Agenda February 26\n270\n379 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+    },
+    {
+      "id": "c0fc4e0c896b9bc254138fb8",
+      "source": "Johnson County Board of Health",
+      "source_scope": "southside",
+      "category": "health",
+      "item_type": "listing_or_page",
+      "title": "Health Board",
+      "url": "https://johnsoncounty.in.gov/department/board.php?structureid=28",
+      "published": null,
+      "fetched_at": "2026-09-30T00:47:57+00:00",
+      "matched_keywords": [
+        "Johnson County",
+        "health department"
+      ],
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nHealth\nHealth Board\nJohnson County Health Board Members\nJames Pease, M.D., Chairman\nPaul Hass, Health Board Attorney\nAmanda Stevenson - Holmes\nSusan Baker\nMichael Pauszek, M.D.\nSteven Stropes, D.V.M.\nChele Heid\nRuth Freese, Anthropologist\n2026 Meeting Schedule:\nFebruary 25 April 22 June 25 August 26 October 28 December 9\n*All meetings will start at 7:30 AM and meet at the Johnson County Health Department\nAgendas\n2026 Health Board Agenda August 26\n2026 Health Board Agenda June 24\n2026 Health Board Agenda April 22\n2026 Health Board Agenda February 25\n2025 Health Board Agenda December 10\nMinutes\nHealth Board Meeting Minutes 8-26-26\nHealth Board Meeting Minutes 6-24-26\nHealth Board Meeting Minutes 4-22-26\nHealth Board Meeting Minutes 2-25-26\nHealth Board Meeting Minutes 12-10-25\nContact Us\nGet Directions\nStaff Directory\nIn this Department\nIndiana Back on Track\nAll Hazards Preparedness\nEnvironmental\nNursing\nVital Records\nChild Passenger Safety\nHealth Education\nWIC\nAbout Us\nSharps Program\nBreathe Easy Johnson County\nSchool Health & Immunization Clinics\nHealth First Indiana Grant Program\nRabies Information\nMore Info\nDocument Center Agendas Minutes\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies"
     },
     {
       "id": "fe0ae0e8264a847e4808fbb9",
@@ -597,14 +585,14 @@
       "title": "Roncalli High School Athletics | Home of The Royals",
       "url": "https://athletics.roncalli.org",
       "published": null,
-      "fetched_at": "2026-09-29T01:32:34+00:00",
+      "fetched_at": "2026-09-30T00:46:37+00:00",
       "matched_keywords": [
         "Roncalli"
       ],
       "text": "Boys Sports Baseball Schedules Rosters Coaches Basketball Schedules Rosters Coaches Bowling Schedules Rosters Coaches Cross Country Schedules Rosters Coaches Football Schedules Rosters Coaches Golf Schedules Rosters Coaches Lacrosse Schedules Rosters Coaches Soccer Schedules Rosters Coaches Swimming & Diving Schedules Rosters Coaches Tennis Schedules Rosters Coaches Track & Field Schedules Rosters Coaches Unified Track & Field Schedules Rosters Coaches Volleyball Schedules Rosters Coaches Wrestling Schedules Rosters Coaches\nBaseball Schedules Rosters Coaches\nSchedules\nRosters\nCoaches\nBasketball Schedules Rosters Coaches\nBowling Schedules Rosters Coaches\nCross Country Schedules Rosters Coaches\nFootball Schedules Rosters Coaches\nGolf Schedules Rosters Coaches\nLacrosse Schedules Rosters Coaches\nSoccer Schedules Rosters Coaches\nSwimming & Diving Schedules Rosters Coaches\nTennis Schedules Rosters Coaches\nTrack & Field Schedules Rosters Coaches\nUnified Track & Field Schedules Rosters Coaches\nVolleyball Schedules Rosters Coaches\nWrestling Schedules Rosters Coaches\nGirls Sports Basketball Schedules Rosters Coaches Bowling Schedules Rosters Coaches Cheerleading – Fall Rosters Coaches Cheerleading – Winter Rosters Coaches Cross Country Schedules Rosters Coaches Flag Football Schedules Rosters Coaches Golf Schedules Rosters Coaches Gymnastics Schedules Rosters Coaches Tennis Schedules Rosters Coaches Lacrosse Schedules Rosters Coaches Soccer Schedules Rosters Coaches Softball Schedules Rosters Coaches Swimming & Diving Schedules Rosters Coaches Track & Field Schedules Rosters Coaches Unified Track & Field Schedules Rosters Coaches Volleyball Schedules Rosters Coaches Wrestling Schedules Roster Coaches\nCheerleading – Fall Rosters Coaches\nCheerleading – Winter Rosters Coaches\nFlag Football Schedules Rosters Coaches\nGymnastics Schedules Rosters Coaches\nSoftball Schedules Rosters Coaches\nWrestling Schedules Roster Coaches\nRoster\nInside Athletics Welcome from the Athletic Director Event Ticket Information Summer Sports Camps Team Summer Workout Schedules Roncalli Athletic Boosters Club (RABC) Athletic Training Meet the Medical Staff Student Athletic Training Staff Downloads RankOne IHSAA Physical Form\nWelcome from the Athletic Director\nEvent Ticket Information\nSummer Sports Camps\nTeam Summer Workout Schedules\nRoncalli Athletic Boosters Club (RABC)\nAthletic Training Meet the Medical Staff Student Athletic Training Staff Downloads\nMeet the Medical Staff\nStudent Athletic Training Staff\nDownloads\nRankOne\nIHSAA Physical Form\nRoncalli Media Network Watch Listen\nWatch\nListen\nReturn to Main Site\nWe use cookies to improve your experience. By clicking \"Accept,\" you consent to our use of cookies.\nWelcome to Roncalli High School Athletics\nHome of the Royals\nThe Roncalli High School athletic program is a ministry of the Catholic Church that is committed to the growth of student-athletes as Christian leaders in body, mind and spirit.\nUpcoming Athletics Schedule\n5:00 PM\nBoys V"
     },
     {
-      "id": "dd99e5062db22fd57f0378d5",
+      "id": "2199ad88e0a87dfa550002a0",
       "source": "Johnson County Planning and Zoning Documents",
       "source_scope": "southside",
       "category": "planning_zoning",
@@ -612,14 +600,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?eGov_searchDepartment=41&eGov_searchType=11",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:58+00:00",
+      "fetched_at": "2026-09-30T00:46:02+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 188\n1 2 3 4 5 6 7 8 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/22/2026\nSeptember 28th 2026 Plan Commission Agenda and Staff Report\n122\n826 KB\nSeptember 29, 2026 Board of Zoning Appeals Agenda and Staff Report\n123\n16,156 KB\n08/19/2026\nAugust 24th, 2026 Plan Commission Agenda and Staff Report\n360\n3,681 KB\n07/23/2026\nJuly 28th 2026, Johnson County Board of Zoning Appeals - Additional to staff report\n265\n996 KB\n07/21/2026\nJuly 28th 2026, Johnson County Board of Zoning Appeals Agenda and Staff Report\n328\n23,700 KB\n06/17/2026\nJune 23rd, 2026 Board of Zoning Appeals Agenda and Staff Report\n348\n8,528 KB\n05/19/2026\nMay 26th 2026 Board of Zoning Appeals Agenda and Staff Report\n395\n6,784 KB\n04/21/2026\nApril 28th 2026 Board of Zoning Appeals Agenda and Staff Report\n441\n17,088 KB\n03/16/2026\nMarch 24, 2026 Board of Zoning Appeals Agenda and Staff Report\n563\n7,588 KB\nMarch 23, 2026 Plan Commission Agenda and Staff Report\n602\n5,165 KB\n01/21/2026\nFebruary 23, 2026 Plan Commission Agenda and Staff Report\n549\n2,832 KB\nJanuary 27 2026 Board of Zoning Appeals Agenda and Staff Report\n414\n7,597 KB\n12/10/2025\nDecember 16th 2025 Board of Zoning Appeals Agenda\n406\n5,903 KB\n11/12/2025\nNovember 18th 2025 Board of Zoning Appeals Agenda and Staff Report\n394\n4,996 KB\nNovember 17, 2025 Plan Commission Agenda and Staff Report\n540\n482 KB\n10/21/2025\nOctober 28th, 2025 Board of Zoning Appeals Agenda and Staff Report\n355\n14,850 KB\nOctober 27th 2025 Plan Commissioner Agenda and Staff Report\n411\n2,543 KB\n09/15/2025\nSeptember 23, 2025 Board of Zoning Appeals Agenda and Staff Report\n398\n5,185 KB\n07/22/2025\nJuly 28th 2025 Plat Committee Agenda and Staff Report\n516\n14,420 KB\nJuly 28th 2025 Plan Commission Agenda and Staff Report\n479\n8,374 KB\n06/17/2025\nJune 23 2025 Plan Commission Agenda and Staff Report\n496\n5,887 KB\nJune 24, 2025 Board of Zoning Appeals Agenda and Staff Report\n478\n4,308 KB\n05/16/2025\nMay 20, 2025 Board of Zoning Appeals Agenda and Staff Report\n481\n8,644 KB\nMay 19, 2025 Plan Commission Agenda and Staff Report\n1084\n1,601 KB\n04/23/2025\nApril 29, 2025 Board of Zoning Appeals Agenda and Staff Report\n542\n6,297 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 188\n1 2 3 4 5 6 7 8 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/22/2026\nSeptember 28th 2026 Plan Commission Agenda and Staff Report\n144\n826 KB\nSeptember 29, 2026 Board of Zoning Appeals Agenda and Staff Report\n162\n16,156 KB\n08/19/2026\nAugust 24th, 2026 Plan Commission Agenda and Staff Report\n368\n3,681 KB\n07/23/2026\nJuly 28th 2026, Johnson County Board of Zoning Appeals - Additional to staff report\n269\n996 KB\n07/21/2026\nJuly 28th 2026, Johnson County Board of Zoning Appeals Agenda and Staff Report\n331\n23,700 KB\n06/17/2026\nJune 23rd, 2026 Board of Zoning Appeals Agenda and Staff Report\n352\n8,528 KB\n05/19/2026\nMay 26th 2026 Board of Zoning Appeals Agenda and Staff Report\n398\n6,784 KB\n04/21/2026\nApril 28th 2026 Board of Zoning Appeals Agenda and Staff Report\n445\n17,088 KB\n03/16/2026\nMarch 24, 2026 Board of Zoning Appeals Agenda and Staff Report\n565\n7,588 KB\nMarch 23, 2026 Plan Commission Agenda and Staff Report\n603\n5,165 KB\n01/21/2026\nFebruary 23, 2026 Plan Commission Agenda and Staff Report\n551\n2,832 KB\nJanuary 27 2026 Board of Zoning Appeals Agenda and Staff Report\n415\n7,597 KB\n12/10/2025\nDecember 16th 2025 Board of Zoning Appeals Agenda\n407\n5,903 KB\n11/12/2025\nNovember 18th 2025 Board of Zoning Appeals Agenda and Staff Report\n395\n4,996 KB\nNovember 17, 2025 Plan Commission Agenda and Staff Report\n542\n482 KB\n10/21/2025\nOctober 28th, 2025 Board of Zoning Appeals Agenda and Staff Report\n358\n14,850 KB\nOctober 27th 2025 Plan Commissioner Agenda and Staff Report\n414\n2,543 KB\n09/15/2025\nSeptember 23, 2025 Board of Zoning Appeals Agenda and Staff Report\n399\n5,185 KB\n07/22/2025\nJuly 28th 2025 Plat Committee Agenda and Staff Report\n520\n14,420 KB\nJuly 28th 2025 Plan Commission Agenda and Staff Report\n480\n8,374 KB\n06/17/2025\nJune 23 2025 Plan Commission Agenda and Staff Report\n500\n5,887 KB\nJune 24, 2025 Board of Zoning Appeals Agenda and Staff Report\n4,308 KB\n05/16/2025\nMay 20, 2025 Board of Zoning Appeals Agenda and Staff Report\n483\n8,644 KB\nMay 19, 2025 Plan Commission Agenda and Staff Report\n1085\n1,601 KB\n04/23/2025\nApril 29, 2025 Board of Zoning Appeals Agenda and Staff Report\n545\n6,297 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "f080402feca3fd46129617d8",
+      "id": "eaf8be2126b2198a2539554d",
       "source": "Johnson County Council Documents",
       "source_scope": "southside",
       "category": "county_council",
@@ -627,14 +615,14 @@
       "title": "Document Center",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=home;",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:36+00:00",
+      "fetched_at": "2026-09-30T00:45:39+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center\nDate\nType\nTitle\nViews\nSize\nInfo\n09/23/2026\nMUST Meeting Agenda\n141\n140 KB\n08/12/2021\nCounty Council District Map\n2261\n3,804 KB\n01/09/2026\nJohnson County, Indiana Title VI Nondiscrimination Implementation Plan\n1511\n8,618 KB\n09/09/2025\nCouncil Minutes 8-11-2025\n1133\n1,896 KB\n11/15/2022\nCounty Council Meeting Schedule 2023\n1052\n82 KB\n10/29/2025\n2026 Approved Budget\n1033\n802 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center\nDate\nType\nTitle\nViews\nSize\nInfo\n09/23/2026\nMUST Meeting Agenda\n171\n140 KB\n08/12/2021\nCounty Council District Map\n2266\n3,804 KB\n01/09/2026\nJohnson County, Indiana Title VI Nondiscrimination Implementation Plan\n1513\n8,618 KB\n09/09/2025\nCouncil Minutes 8-11-2025\n1134\n1,896 KB\n11/15/2022\nCounty Council Meeting Schedule 2023\n1052\n82 KB\n10/29/2025\n2026 Approved Budget\n1050\n802 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "7e2d8ee09a984e03ca63d9f8",
+      "id": "a622375a334150860f728ec6",
       "source": "Johnson County Council Documents",
       "source_scope": "southside",
       "category": "county_council",
@@ -642,14 +630,14 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:34+00:00",
+      "fetched_at": "2026-09-30T00:45:38+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 587\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/23/2026\nMUST Meeting Agenda\n141\n140 KB\n09/01/2026\nCouncil Agenda 9-14-2026\n298\n82 KB\n08/26/2026\n2027 Budget Hearing Agenda\n313\n68 KB\n08/11/2026\nCouncil Resolution 2026-06\n112\n498 KB\nCouncil Minutes 7-13-2026\n357\n3,497 KB\nCouncil Ordinance 2026-09\n116\n8,395 KB\n07/27/2026\nCouncil Meeting Agenda 8-10-2026\n528\n77 KB\n07/14/2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026\n520\n2,318 KB\n06/30/2026\nCouncil Agenda 7-13-2026 Revised\n596\n94 KB\n06/09/2026\nCouncil Ordinance 2026-06\n196\n402 KB\nCouncil Minutes 05-11-2026\n561\n1,600 KB\n05/27/2026\nCouncil Meeting Agenda 6-8-2026\n678\n79 KB\n05/14/2026\nCouncil Minutes 04-13-2026\n658\n1,831 KB\nCouncil Ordinance 2026-08\n255\n7,334 KB\nCouncil Ordinance 2026-04\n252\n505 KB\nCouncil Ordinance 2026-J-01\n356\n1,844 KB\n05/11/2026\nCouncil Special Meeting Agenda 5-20-2026\n642\n142 KB\n04/28/2026\nCouncil Meeting Agenda 5-11-2026\n621\n85 KB\n04/14/2026\nResolution 2026-04\n247\n474 KB\nOrdinance 2026-04\n259\nOrdinance 2026-03\n294\n713 KB\nCouncil Minutes 3-9-2026\n3,591 KB\n03/27/2026\nCouncil Agenda 4-13-2026\n664\n03/11/2026\nResolution 2026-03\n287\n468 KB\nResolution 2026-02\n278 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 587\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/23/2026\nMUST Meeting Agenda\n171\n140 KB\n09/01/2026\nCouncil Agenda 9-14-2026\n308\n82 KB\n08/26/2026\n2027 Budget Hearing Agenda\n322\n68 KB\n08/11/2026\nCouncil Resolution 2026-06\n113\n498 KB\nCouncil Minutes 7-13-2026\n364\n3,497 KB\nCouncil Ordinance 2026-09\n118\n8,395 KB\n07/27/2026\nCouncil Meeting Agenda 8-10-2026\n536\n77 KB\n07/14/2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026\n527\n2,318 KB\n06/30/2026\nCouncil Agenda 7-13-2026 Revised\n602\n94 KB\n06/09/2026\nCouncil Ordinance 2026-06\n197\n402 KB\nCouncil Minutes 05-11-2026\n567\n1,600 KB\n05/27/2026\nCouncil Meeting Agenda 6-8-2026\n684\n79 KB\n05/14/2026\nCouncil Minutes 04-13-2026\n665\n1,831 KB\nCouncil Ordinance 2026-08\n257\n7,334 KB\nCouncil Ordinance 2026-04\n254\n505 KB\nCouncil Ordinance 2026-J-01\n357\n1,844 KB\n05/11/2026\nCouncil Special Meeting Agenda 5-20-2026\n647\n142 KB\n04/28/2026\nCouncil Meeting Agenda 5-11-2026\n622\n85 KB\n04/14/2026\nResolution 2026-04\n248\n474 KB\nOrdinance 2026-04\n261\nOrdinance 2026-03\n295\n713 KB\nCouncil Minutes 3-9-2026\n650\n3,591 KB\n03/27/2026\nCouncil Agenda 4-13-2026\n03/11/2026\nResolution 2026-03\n288\n468 KB\nResolution 2026-02\n252\n278 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "d2595e7147be9b1b835185ce",
+      "id": "d99f3c1531efed2c51d36362",
       "source": "Johnson County Council Documents",
       "source_scope": "southside",
       "category": "county_council",
@@ -657,11 +645,56 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?eGov_searchDepartment=23&eGov_searchType=12",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:33+00:00",
+      "fetched_at": "2026-09-30T00:45:36+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 232\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/11/2026\nCouncil Minutes 7-13-2026\n357\n3,497 KB\n07/14/2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026\n520\n2,318 KB\n06/09/2026\nCouncil Minutes 05-11-2026\n561\n1,600 KB\n05/14/2026\nCouncil Minutes 04-13-2026\n658\n1,831 KB\n04/14/2026\nCouncil Minutes 3-9-2026\n642\n3,591 KB\n03/10/2026\nCouncil Minutes 2-9-2026\n878\n1,299 KB\n03/03/2026\nCouncil Minutes 1-12-2026\n752\n1,920 KB\n01/13/2026\n2026 Budget Hearing Minutes\n682\n9,225 KB\nCouncil Minutes 12-8-2025\n554\n3,225 KB\n11/12/2025\nCouncil Minutes 10-13-2025\n608\n2,217 KB\nCouncil Minutes Adoption of Special Taxing Unit's Budget 10-13-2025\n535\n509 KB\n10/29/2025\nCouncil Meeting Minutes 09-08-2025\n530\n1,918 KB\n09/09/2025\nCouncil Minutes 8-11-2025\n1133\n1,896 KB\n08/26/2025\nCouncil Special Meeting Minutes 6-25-2025\n389\n3,329 KB\n08/12/2025\nCouncil Meeting Minutes 7-14-2025\n646\n1,726 KB\nCouncil Meeting Minutes 7-21-2025\n594\n874 KB\nCouncil Special Meeting Minutes 7-21-2025\n422\n958 KB\n07/15/2025\nCouncil Minutes 6-9-2025\n490\n2,201 KB\n06/17/2025\nCouncil Minutes Executive Session 5/12/2025\n430\n146 KB\nCouncil Minutes 5/12/2025\n541\n1,628 KB\n06/09/2025\nCouncil Minutes 4-14-2025\n396\n2,231 KB\n04/16/2025\nCouncil Meeting Minutes 03-10-2025\n447\n1,253 KB\nCouncil Special Joint Meeting with Commissioners Minutes 02-24-2025\n436\n148 KB\n03/11/2025\nCouncil Special Meeting Minutes 2-10-2025\n433\nCouncil Meeting Minutes 2-10-2025\n489\n1,738 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 232\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n08/11/2026\nCouncil Minutes 7-13-2026\n364\n3,497 KB\n07/14/2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026\n527\n2,318 KB\n06/09/2026\nCouncil Minutes 05-11-2026\n567\n1,600 KB\n05/14/2026\nCouncil Minutes 04-13-2026\n665\n1,831 KB\n04/14/2026\nCouncil Minutes 3-9-2026\n650\n3,591 KB\n03/10/2026\nCouncil Minutes 2-9-2026\n885\n1,299 KB\n03/03/2026\nCouncil Minutes 1-12-2026\n753\n1,920 KB\n01/13/2026\n2026 Budget Hearing Minutes\n682\n9,225 KB\nCouncil Minutes 12-8-2025\n554\n3,225 KB\n11/12/2025\nCouncil Minutes 10-13-2025\n608\n2,217 KB\nCouncil Minutes Adoption of Special Taxing Unit's Budget 10-13-2025\n535\n509 KB\n10/29/2025\nCouncil Meeting Minutes 09-08-2025\n530\n1,918 KB\n09/09/2025\nCouncil Minutes 8-11-2025\n1134\n1,896 KB\n08/26/2025\nCouncil Special Meeting Minutes 6-25-2025\n389\n3,329 KB\n08/12/2025\nCouncil Meeting Minutes 7-14-2025\n646\n1,726 KB\nCouncil Meeting Minutes 7-21-2025\n596\n874 KB\nCouncil Special Meeting Minutes 7-21-2025\n422\n958 KB\n07/15/2025\nCouncil Minutes 6-9-2025\n490\n2,201 KB\n06/17/2025\nCouncil Minutes Executive Session 5/12/2025\n430\n146 KB\nCouncil Minutes 5/12/2025\n541\n1,628 KB\n06/09/2025\nCouncil Minutes 4-14-2025\n396\n2,231 KB\n04/16/2025\nCouncil Meeting Minutes 03-10-2025\n447\n1,253 KB\nCouncil Special Joint Meeting with Commissioners Minutes 02-24-2025\n436\n148 KB\n03/11/2025\nCouncil Special Meeting Minutes 2-10-2025\n434\nCouncil Meeting Minutes 2-10-2025\n489\n1,738 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+    },
+    {
+      "id": "9ed9267bf373fab5f80d26f2",
+      "source": "Johnson County Government",
+      "source_scope": "southside",
+      "category": "county",
+      "item_type": "listing_or_page",
+      "title": "County Council Meeting",
+      "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=737",
+      "published": null,
+      "fetched_at": "2026-09-30T00:45:35+00:00",
+      "matched_keywords": [
+        "Johnson County"
+      ],
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar County Council Meeting\nCounty Council Meeting\nEvent Date:\nEvent Location:\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+    },
+    {
+      "id": "f6dab0fc321ab6e480ec2c31",
+      "source": "Johnson County Government",
+      "source_scope": "southside",
+      "category": "county",
+      "item_type": "listing_or_page",
+      "title": "County Commissioners Meeting",
+      "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=592",
+      "published": null,
+      "fetched_at": "2026-09-30T00:45:34+00:00",
+      "matched_keywords": [
+        "Johnson County"
+      ],
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar County Commissioners Meeting\nCounty Commissioners Meeting\nEvent Date:\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+    },
+    {
+      "id": "784005a9f5363a9799538c90",
+      "source": "Johnson County Government",
+      "source_scope": "southside",
+      "category": "county",
+      "item_type": "listing_or_page",
+      "title": "Drainage Board Meeting",
+      "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=749",
+      "published": null,
+      "fetched_at": "2026-09-30T00:45:32+00:00",
+      "matched_keywords": [
+        "Johnson County"
+      ],
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar Drainage Board Meeting\nDrainage Board Meeting\nEvent Date:\nEvent Location:\nEvent Description:\nJohnson County Government is inviting you to a scheduled Zoom meeting.\nTopic: Drainage Board Meeting Time: This is a recurring meeting Meet anytime Join Zoom Meeting https://us02web.zoom.us/j/84593763251?pwd=kXPDVtDy3UHjaajT1ImX8DCCDOQ0b6.1\nMeeting ID: 845 9376 3251 Passcode: 662277\n---\nOne tap mobile +13052241968,,84593763251#,,,,*662277# US +13092053325,,84593763251#,,,,*662277# US\nJoin instructions https://us02web.zoom.us/meetings/84593763251/invitations?signature=NBlrCRuXmwM5hu95F-2IsxjZzgZfrpZbxhNjYcEVnyY\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
       "id": "3af4875ac08c67864112554c",
@@ -672,41 +705,11 @@
       "title": "Johnson County Board of Zoning Appeals",
       "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=712",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:32+00:00",
+      "fetched_at": "2026-09-30T00:45:31+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
       "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar Johnson County Board of Zoning Appeals\nJohnson County Board of Zoning Appeals\nEvent Date:\nEvent Description:\nSeptember 29, 2026 Board of Zoning Appeals Agenda and Staff Report\nNotice of New Start Time:\nThe Board will begin with New Petitions at 6:00 PM in accordance with the published public notice. Continued Petitions will begin at 7:00 PM, or immediately following the conclusion of the Petition being discussed at the time—whichever is later.\nThe meeting is being live-streamed during its scheduled time. To access the live broadcast, please utilize the \"Event Website\" link provided above. Kindly be aware that this live stream is for viewing purposes only, and direct interaction with comments from the chat will not occur during the meeting.\nIn accordance with American Disabilities Act, any person attending the public meeting in need of reasonable accommodations in order to attend, hear, or present evidence at the public meeting on an agenda item should contact the Johnson County ADA coordinator, Barb Davis, at 86 W. Court St., Franklin, IN 46131, (317) 346-4329, bdavis@johnsoncounty.in.gov .\nEvent Contact:\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
-    },
-    {
-      "id": "a6f39e24088757748c7183d6",
-      "source": "Johnson County Government",
-      "source_scope": "southside",
-      "category": "county",
-      "item_type": "listing_or_page",
-      "title": "Johnson County Plan Commission",
-      "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=723",
-      "published": null,
-      "fetched_at": "2026-09-29T01:31:30+00:00",
-      "matched_keywords": [
-        "Johnson County"
-      ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar Johnson County Plan Commission\nJohnson County Plan Commission\nEvent Date:\nEvent Description:\nSeptember 28th 2026 Plan Commission Agenda and Staff Report\nThe meeting is being live-streamed during its scheduled time. To access the live broadcast, please utilize the \"Event Website\" link provided above. Kindly be aware that this live stream is for viewing purposes only, and direct interaction with comments from the chat will not occur during the meeting.\nIn accordance with American Disabilities Act, any person attending the public meeting in need of reasonable accommodations in order to attend, hear, or present evidence at the public meeting on an agenda item should contact the Johnson County ADA coordinator, Barb Davis, at 86 W. Court St., Franklin, IN 46131, (317) 346-4329, bdavis@johnsoncounty.in.gov .\nEvent Contact:\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
-    },
-    {
-      "id": "e70cbfe077ff18451288de79",
-      "source": "Johnson County Government",
-      "source_scope": "southside",
-      "category": "county",
-      "item_type": "listing_or_page",
-      "title": "County Commissioners Meeting",
-      "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=detail;id=591",
-      "published": null,
-      "fetched_at": "2026-09-29T01:31:29+00:00",
-      "matched_keywords": [
-        "Johnson County"
-      ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar County Commissioners Meeting\nCounty Commissioners Meeting\nEvent Date:\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
       "id": "a9feeae6c0398d543d649565",
@@ -717,7 +720,7 @@
       "title": "Events Calendar",
       "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=cal;timeframe=2;&display=d;year=2026;month=09;day=30",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:28+00:00",
+      "fetched_at": "2026-09-30T00:45:30+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
@@ -732,14 +735,14 @@
       "title": "Events Calendar",
       "url": "https://johnsoncounty.in.gov/egov/apps/events/calendar.egov?view=cal;timeframe=2;",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:24+00:00",
+      "fetched_at": "2026-09-30T00:45:28+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
       "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nEvents Calendar\nSeptember, 2026\nSun\nMon\nTue\nWed\nThu\nFri\nSat\n30\n31\n1 6:00 PM - 8:00 PM Drainage Board Meeting\n6:00 PM - 8:00 PM Drainage Board Meeting\n7 All Day County Offices Closed for Labor Day\nAll Day County Offices Closed for Labor Day\n8 8:30 AM - 4:30 PM Johnson County Council Budget Hearings Meeting\n8:30 AM - 4:30 PM Johnson County Council Budget Hearings Meeting\n9 6:00 PM - 7:00 PM Johnson County Convention, Visitor, & Tourism Board Meeting\n6:00 PM - 7:00 PM Johnson County Convention, Visitor, & Tourism Board Meeting\n10 8:30 AM - 4:30 PM Johnson County Council Budget Hearings Meeting\n11\n12\n13\n14 10:00 AM - 11:00 AM County Commissioners Meeting 2:00 PM - 3:00 PM Johnson County Recycling District Meeting 6:00 PM - 8:00 PM County Council Meeting\n10:00 AM - 11:00 AM County Commissioners Meeting\n2:00 PM - 3:00 PM Johnson County Recycling District Meeting\n6:00 PM - 8:00 PM County Council Meeting\n15\n16\n17 8:30 AM - 12:30 PM Johnson County Council Budget Hearings Meeting 1:00 PM - 4:30 PM Binding for the Special Taxing Units Budgets\n8:30 AM - 12:30 PM Johnson County Council Budget Hearings Meeting\n1:00 PM - 4:30 PM Binding for the Special Taxing Units Budgets\n18\n19\n20\n21\n22\n23\n24\n25 10:00 AM - 12:00 PM Municipal Unit Strategic Taskforce\n10:00 AM - 12:00 PM Municipal Unit Strategic Taskforce\n26\n27\n28 10:00 AM - 11:00 AM County Commissioners Meeting 6:00 PM - End Johnson County Plan Commission\n6:00 PM - End Johnson County Plan Commission\n29 6:00 PM - End Johnson County Board of Zoning Appeals\n6:00 PM - End Johnson County Board of Zoning Appeals\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "23a7dfc03bd57c8cdae6324d",
+      "id": "41500902c91ad3626864a3a0",
       "source": "Johnson County Government",
       "source_scope": "southside",
       "category": "county",
@@ -747,15 +750,28 @@
       "title": "Browse Documents",
       "url": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=browse&eGov_searchType=4&eGov_searchDepartment=1",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:23+00:00",
+      "fetched_at": "2026-09-30T00:45:26+00:00",
       "matched_keywords": [
         "Johnson County",
         "Nineveh"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 50\nNext »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/23/2026\nMUST Meeting Agenda\n141\n140 KB\n09/21/2026\nNotice to Bidders – JC Park Horse Barns Renovation Project – Due 11/9/2026 by 10:00 a.m.\n102\n83 KB\n09/14/2026\n2027 Holiday Schedule\n168\n51 KB\n09/10/2026\nNotice to Bidders – JC Park Banquet Hall – DUE 10/19/2026 by 10:00 a.m.\n185\n78 KB\n08/27/2026\nNotice of Availability of ADA Self-Evaluation and Transition Plan 8/31/26 thru 9/15/26 and Public Meeting on 9/14/26\n342\n53 KB\n08/12/2026\nCommissioners' Notice of Public Hearing - Vacate Easement on August 24, 2026.\n400\n73 KB\n07/29/2026\nOrdinance 2026-O-7: An Ordinance Amending Title 25 of the Johnson County Code of Ordinances\n383\n613 KB\n07/28/2026\nNotice of Public Comment Period 7/31/2026 thru 8/14/2026\n359\n12 KB\n07/14/2026\nOrdinance 2026-O-6: An Ordinance Amending Title 13 of the Johnson County Code of Ordinances\n442\n574 KB\n07/07/2026\nJC Opioid Remediation Grant Program Advisory Board Public Meeting on 7/13/2026 at 3:30 p.m.\n579\n8 KB\n05/27/2026\nRFP for the Johnson County Opioid Remediation Grant Program – Applications due 6/30/2026 by 4:30 p.m. or postmarked by 6/30/20/26\n1564\n232 KB\n05/05/2026\n2026 Primary Election Results\n345\n04/13/2026\nJohnson County Health First Indiana Grant Agreements\n768\n3,465 KB\n04/01/2026\nIndiana Veteran Property Tax Reform 2026\n2014\n112 KB\n03/12/2026\nBOARD OPENINGS - JC Community Correction Advisory Board - Apply Now! Deadline is 4/7/2026\n902\n90 KB\n02/24/2026\nBOARD OPENING: White River Township Fire Protection District Board - Apply Now! Deadline is 3/18/2026\n858\n02/13/2026\nJohnson County Community Corrections Advisory Board Opening - Apply Now! Application deadline is February 27, 2026.\n900\n89 KB\n01/29/2026\nJohnson County Library Board Opening - Apply Now! Deadline is 2/27/2026.\n677\n01/25/2026\nEmergency Declaration\n1271\n180 KB\n01/06/2026\nNineveh Fire Protection District Board Opening – Apply Now! Application deadline is January 20, 2026.\n619\n11/20/2025\nNotice to Bidders - 2026 Aggregate, Concrete, FOB Hot Mix Asphalt, and Liquid Asphalt Bid - DUE 12/15/2025 by 10:00 a.m.\n745\n136 KB\n11/18/2025\nCommissioners' Notice of Public Hearing - Vacate Easement on December 1, 2025.\n618\n72 KB\n11/17/2025\nBoard of Commissioners' Ordinance 2025-O-13\n704\n633 KB\n10/06/2025\n2026 Board Openings - Apply Now! Deadline is 10/31/2025.\n1121\n101 KB\n09/22/2025\nJohnson County Health First Indiana Grant Agreement\n771\n628 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again"
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-25 of 51\n1 2 3 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/29/2026\nCommissioners’ Notice of Public Hearing – Vacate Drainage and Utility Easement on October 12, 2026\n13\n108 KB\n09/23/2026\nMUST Meeting Agenda\n171\n140 KB\n09/21/2026\nNotice to Bidders – JC Park Horse Barns Renovation Project – Due 11/9/2026 by 10:00 a.m.\n114\n83 KB\n09/14/2026\n2027 Holiday Schedule\n177\n51 KB\n09/10/2026\nNotice to Bidders – JC Park Banquet Hall – DUE 10/19/2026 by 10:00 a.m.\n198\n78 KB\n08/27/2026\nNotice of Availability of ADA Self-Evaluation and Transition Plan 8/31/26 thru 9/15/26 and Public Meeting on 9/14/26\n355\n53 KB\n08/12/2026\nCommissioners' Notice of Public Hearing - Vacate Easement on August 24, 2026.\n411\n73 KB\n07/29/2026\nOrdinance 2026-O-7: An Ordinance Amending Title 25 of the Johnson County Code of Ordinances\n391\n613 KB\n07/28/2026\nNotice of Public Comment Period 7/31/2026 thru 8/14/2026\n365\n12 KB\n07/14/2026\nOrdinance 2026-O-6: An Ordinance Amending Title 13 of the Johnson County Code of Ordinances\n446\n574 KB\n07/07/2026\nJC Opioid Remediation Grant Program Advisory Board Public Meeting on 7/13/2026 at 3:30 p.m.\n585\n8 KB\n05/27/2026\nRFP for the Johnson County Opioid Remediation Grant Program – Applications due 6/30/2026 by 4:30 p.m. or postmarked by 6/30/20/26\n1568\n232 KB\n05/05/2026\n2026 Primary Election Results\n347\n04/13/2026\nJohnson County Health First Indiana Grant Agreements\n771\n3,465 KB\n04/01/2026\nIndiana Veteran Property Tax Reform 2026\n2023\n112 KB\n03/12/2026\nBOARD OPENINGS - JC Community Correction Advisory Board - Apply Now! Deadline is 4/7/2026\n904\n90 KB\n02/24/2026\nBOARD OPENING: White River Township Fire Protection District Board - Apply Now! Deadline is 3/18/2026\n861\n02/13/2026\nJohnson County Community Corrections Advisory Board Opening - Apply Now! Application deadline is February 27, 2026.\n903\n89 KB\n01/29/2026\nJohnson County Library Board Opening - Apply Now! Deadline is 2/27/2026.\n680\n01/25/2026\nEmergency Declaration\n1274\n180 KB\n01/06/2026\nNineveh Fire Protection District Board Opening – Apply Now! Application deadline is January 20, 2026.\n621\n11/20/2025\nNotice to Bidders - 2026 Aggregate, Concrete, FOB Hot Mix Asphalt, and Liquid Asphalt Bid - DUE 12/15/2025 by 10:00 a.m.\n749\n136 KB\n11/18/2025\nCommissioners' Notice of Public Hearing - Vacate Easement on December 1, 2025.\n72 KB\n11/17/2025\nBoard of Commissioners' Ordinance 2025-O-13\n710\n633 KB\n10/06/2025\n2026 Board Openings - Apply Now! Deadline is 10/31/2025.\n1125\n101 KB\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error "
     },
     {
-      "id": "c4e42145bdf14bea0eeba460",
+      "id": "234695199767950a15a9894f",
+      "source": "Johnson County Government",
+      "source_scope": "southside",
+      "category": "county",
+      "item_type": "pdf",
+      "title": "Commissioners’ Notice of Public Hearing – Vacate Drainage and Utility Easement on October 12, 2026",
+      "url": "https://johnsoncounty.in.gov/egov/documents/1790705525_7082.pdf",
+      "published": null,
+      "fetched_at": "2026-09-30T00:45:16+00:00",
+      "matched_keywords": [],
+      "text": "NOTICE OF PUBLIC HEARING REGARDING THE VACATION OF DRAINAGE AND UTILITY EASEMENT On October 12, 2026, at 10:00 A.M., the Johnson County Board of Commissioners will hold a public hearing regarding Ordinance 2026-O-10: An Ordinance Vacating a Drainage and Utility Easement. The Commissioners will consider the vacation of a drainage and utility easement contained within Lots 36 and 37 in the Final Plat of Water’s Edge, Section Three, an addition in Johnson County, as per the plat thereof recorded in Instrument 2025-010117, in the of ice of the Recorder of Johnson County, Indiana. This addition is north of the intersection of Lakeview Dr and Waters Edge Way. The hearing will be held at the West Annex Auditorium, 86 West Court Street, Franklin, IN 46131. Dated this 29th day of September, 2026 Board of Commissioners Johnson County, Indiana"
+    },
+    {
+      "id": "1943d823f30b5430cb33ff0a",
       "source": "Johnson County Government",
       "source_scope": "southside",
       "category": "county",
@@ -763,11 +779,26 @@
       "title": "Meeting Center",
       "url": "https://johnsoncounty.in.gov/meetings",
       "published": null,
-      "fetched_at": "2026-09-29T01:31:09+00:00",
+      "fetched_at": "2026-09-30T00:45:12+00:00",
       "matched_keywords": [
         "Johnson County"
       ],
-      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nMeeting Center\nCommissioners\nAgendas\nCommissioners Meeting Agenda 9/28/2026 Published: Thursday, September 24, 2026\nCommissioner Special Joint Meeting RDC 09-28-2026 - CANCELLED Published: Tuesday, September 22, 2026\nCommissioners Meeting Agenda 9/14/2026 Published: Thursday, September 10, 2026\nCommissioners Meeting Agenda 8/24/2026 Published: Thursday, August 20, 2026\nAgendas from Previous Years\nMinutes\nCommissioners Minutes 8-24-2026 Published: Monday, September 14, 2026\nCommissioners Minutes 08-10-2026 Published: Wednesday, August 26, 2026\nCommissioner Special Joint Meeting RDC Minutes 5-26-2026 Published: Wednesday, August 26, 2026\nCommissioners Minutes 07-27-2026 Published: Monday, August 10, 2026\nMinutes from Previous Years\nMeetings\nCounty Commissioners Meeting Monday September 28, 2026 10:00 am - 11:00 am\nCounty Commissioners Meeting Monday October 12, 2026 10:00 am - 11:00 am\nCounty Commissioners Meeting Monday October 19, 2026 10:00 am - 11:00 am Johnson County Government West Annex\nCounty Commissioners Meeting Monday November 09, 2026 10:00 am - 11:00 am\nCounty Council\nMUST Meeting Agenda Published: Wednesday, September 23, 2026\nCouncil Agenda 9-14-2026 Published: Tuesday, September 01, 2026\n2027 Budget Hearing Agenda Published: Wednesday, August 26, 2026\nCouncil Meeting Agenda 8-10-2026 Published: Monday, July 27, 2026\nCouncil Agenda 7-13-2026 Revised Published: Tuesday, June 30, 2026\nCouncil Meeting Agenda 6-8-2026 Published: Wednesday, May 27, 2026\nCouncil Minutes 7-13-2026 Published: Tuesday, August 11, 2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026 Published: Tuesday, July 14, 2026\nCouncil Minutes 05-11-2026 Published: Tuesday, June 09, 2026\nCouncil Minutes 04-13-2026 Published: Thursday, May 14, 2026\nCouncil Minutes 3-9-2026 Published: Tuesday, April 14, 2026\nCouncil Minutes 2-9-2026 Published: Tuesday, March 10, 2026\nCounty Council Meeting Monday October 12, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Council Meeting Monday November 09, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Council Meeting Monday December 07, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nOther Boards & Commissions\nMeetings Today\nCounty Commissioners Meeting 09/28/26 10:00 am - 11:00 am\nJohnson County Plan Commission 09/28/26 6:00 pm - 11:59 pm\nUpcoming Meetings\nJohnson County Board of Zoning Appeals 09/29/26 6:00 pm - 11:59 pm\nDrainage Board Meeting 10/06/26 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Commissioners Meeting 10/12/26 10:00 am - 11:00 am\nLatest Documents\nCommissioners Meeting Agenda 9/28/2026\nMUST Meeting Agenda\nSeptember 28th 2026 Plan Commission Agenda and Staff Report\nSeptember 29, 2026 Board of Zoning Appeals Agenda and Staff Report\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccess"
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nMeeting Center\nCommissioners\nAgendas\nCommissioners Meeting Agenda 9/28/2026 Published: Thursday, September 24, 2026\nCommissioner Special Joint Meeting RDC 09-28-2026 - CANCELLED Published: Tuesday, September 22, 2026\nCommissioners Meeting Agenda 9/14/2026 Published: Thursday, September 10, 2026\nCommissioners Meeting Agenda 8/24/2026 Published: Thursday, August 20, 2026\nAgendas from Previous Years\nMinutes\nCommissioners Minutes 8-24-2026 Published: Monday, September 14, 2026\nCommissioners Minutes 08-10-2026 Published: Wednesday, August 26, 2026\nCommissioner Special Joint Meeting RDC Minutes 5-26-2026 Published: Wednesday, August 26, 2026\nCommissioners Minutes 07-27-2026 Published: Monday, August 10, 2026\nMinutes from Previous Years\nMeetings\nCounty Commissioners Meeting Monday October 12, 2026 10:00 am - 11:00 am\nCounty Commissioners Meeting Monday October 19, 2026 10:00 am - 11:00 am Johnson County Government West Annex\nCounty Commissioners Meeting Monday November 09, 2026 10:00 am - 11:00 am\nCounty Commissioners Meeting Monday November 23, 2026 10:00 am - 11:00 am\nCounty Council\nMUST Meeting Agenda Published: Wednesday, September 23, 2026\nCouncil Agenda 9-14-2026 Published: Tuesday, September 01, 2026\n2027 Budget Hearing Agenda Published: Wednesday, August 26, 2026\nCouncil Meeting Agenda 8-10-2026 Published: Monday, July 27, 2026\nCouncil Agenda 7-13-2026 Revised Published: Tuesday, June 30, 2026\nCouncil Meeting Agenda 6-8-2026 Published: Wednesday, May 27, 2026\nCouncil Minutes 7-13-2026 Published: Tuesday, August 11, 2026\nCouncil Special Joint Meeting with Commissioners Minutes 05-20-2026 Published: Tuesday, July 14, 2026\nCouncil Minutes 05-11-2026 Published: Tuesday, June 09, 2026\nCouncil Minutes 04-13-2026 Published: Thursday, May 14, 2026\nCouncil Minutes 3-9-2026 Published: Tuesday, April 14, 2026\nCouncil Minutes 2-9-2026 Published: Tuesday, March 10, 2026\nCounty Council Meeting Monday October 12, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Council Meeting Monday November 09, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Council Meeting Monday December 07, 2026 6:00 pm - 8:00 pm Johnson County Government West Annex\nOther Boards & Commissions\nMeetings Today\nJohnson County Board of Zoning Appeals 09/29/26 6:00 pm - 11:59 pm\nUpcoming Meetings\nDrainage Board Meeting 10/06/26 6:00 pm - 8:00 pm Johnson County Government West Annex\nCounty Commissioners Meeting 10/12/26 10:00 am - 11:00 am\nCounty Council Meeting 10/12/26 6:00 pm - 8:00 pm Johnson County Government West Annex\nLatest Documents\nCommissioners Meeting Agenda 9/28/2026\nMUST Meeting Agenda\nSeptember 28th 2026 Plan Commission Agenda and Staff Report\nSeptember 29, 2026 Board of Zoning Appeals Agenda and Staff Report\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\n"
+    },
+    {
+      "id": "71f069876fb65e11535049da",
+      "source": "Johnson County Government",
+      "source_scope": "southside",
+      "category": "county",
+      "item_type": "listing_or_page",
+      "title": "Home",
+      "url": "https://johnsoncounty.in.gov",
+      "published": null,
+      "fetched_at": "2026-09-30T00:45:10+00:00",
+      "matched_keywords": [
+        "Johnson County"
+      ],
+      "text": "Home\nGovernment\nDepartments\nJudicial\nElections\nHow Do I?\nWelcome to Johnson County\nRecent News\nCommissioners’ Notice of Public Hearing – Vacate Drainage and Utility Easement on October 12, 2026\nMUST Meeting Agenda\nNotice to Bidders – JC Park Horse Barns Renovation Project – Due 11/9/2026 by 10:00 a.m.\n2027 Holiday Schedule\nNotice to Bidders – JC Park Banquet Hall – DUE 10/19/2026 by 10:00 a.m.\nNotice of Availability of ADA Self-Evaluation and Transition Plan 8/31/26 thru 9/15/26 and Public Meeting on 9/14/26\nCommissioners' Notice of Public Hearing - Vacate Easement on August 24, 2026.\nOrdinance 2026-O-7: An Ordinance Amending Title 25 of the Johnson County Code of Ordinances\nSeptember 2026\nSun\nMon\nTue\nWed\nThu\nFri\nSat\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\nUpcoming Events\nSep 29 Johnson County Board of Zoning Appeals 6:00 pm - 11:59 pm\nOct 06 Drainage Board Meeting 6:00 pm - 8:00 pm Johnson County Government West Annex\nOct 12 County Commissioners Meeting 10:00 am - 11:00 am\nOct 12 County Council Meeting 6:00 pm - 8:00 pm Johnson County Government West Annex\nOct 14 Johnson County Convention, Visitor, & Tourism Board Meeting 6:00 pm - 7:00 pm Johnson County Government West Annex\nOct 19 County Commissioners Meeting 10:00 am - 11:00 am Johnson County Government West Annex\nJohnson County, Indiana 86 W. Court St., Franklin, IN 46131 (317) 346-4300\nJohnson County, Indiana\n© 2026 Johnson County, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies"
     },
     {
       "id": "ecbe37e88bade90a7f9707af",
@@ -778,7 +809,7 @@
       "title": "Alerts | Town of Prince’s Lakes",
       "url": "https://princeslakes.in.gov/alerts",
       "published": null,
-      "fetched_at": "2026-09-29T01:29:54+00:00",
+      "fetched_at": "2026-09-30T00:43:58+00:00",
       "matched_keywords": [
         "Johnson County",
         "Nineveh",
@@ -787,7 +818,7 @@
       "text": "Alerts\nNINEVEH ROAD PAVING\nSeptember 25, 2026\nPlease be advised the Johnson County Highway Department will be paving sections of Nineveh Road next week, Monday through Friday, from 8:00 AM - 2:00 PM. It is advised to use the Howard Prince Dr. entrance and exit to make your way in and out of Prince's Lakes. The paving will be located from the Nineveh 4-Way by the BP Gas station through just south of the Prince's Lakes Dollar General. If you have any questions, give us a call at (317) 933-2163, or contact the Johnson County Highway Department at (317) 346-4630."
     },
     {
-      "id": "813269463ee68fd78a793d89",
+      "id": "6711feb759861c40d678d932",
       "source": "Town of Edinburgh",
       "source_scope": "southside",
       "category": "town",
@@ -795,14 +826,14 @@
       "title": "Events Calendar",
       "url": "https://www.edinburgh.in.us/egov/apps/events/calendar.egov",
       "published": null,
-      "fetched_at": "2026-09-29T01:29:42+00:00",
+      "fetched_at": "2026-09-30T00:43:46+00:00",
       "matched_keywords": [
         "Edinburgh"
       ],
-      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nEvents Calendar\nSeptember\n<<\nToday\n>>\nSun\nMon\nTue\nWed\nThu\nFri\nSat\n30\n31\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\nSep 28\nTown Council Meeting 6:00 PM - End Town Hall\nUpcoming Events\nSep 29\nPolice Pension Board Meeting 6:00 PM - End Town Hall\nOct 07\nZoning Board of Appeals Meeting- CANCELLED 6:00 PM - End Town Hall\nOct 08\nMetropolitan Board of Police Commissioners Meeting 5:15 PM - End Town Hall\nOct 12\nOct 19\nHeavy Trash Pickup 6:00 AM - End\nOct 20\nPlanning Commission Meeting 6:00 PM - End Town Hall\nOct 26\nNov 04\nZoning Board of Appeals Meeting 6:00 PM - End Town Hall\nNov 09\nNov 11\nVeteran's Day Office Closing All Day\nNov 12\nNov 16\nNov 17\nNov 23\nERC Meeting 5:15 PM - End Town Hall\n107 South Holland Street, Edinburgh, IN 46124-0065 Phone: 812-526-3512 Fax: 812-526-3542\nEmail Us\nStaff Directory\nQuick Links\nGet Connected\n© 2026 Town of Edinburgh, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
+      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nEvents Calendar\nSeptember\n<<\nToday\n>>\nSun\nMon\nTue\nWed\nThu\nFri\nSat\n30\n31\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\nSep 29\nPolice Pension Board Meeting 6:00 PM - End Town Hall\nUpcoming Events\nOct 07\nZoning Board of Appeals Meeting- CANCELLED 6:00 PM - End Town Hall\nOct 08\nMetropolitan Board of Police Commissioners Meeting 5:15 PM - End Town Hall\nOct 12\nTown Council Meeting 6:00 PM - End Town Hall\nOct 19\nHeavy Trash Pickup 6:00 AM - End\nOct 20\nPlanning Commission Meeting 6:00 PM - End Town Hall\nOct 26\nNov 04\nZoning Board of Appeals Meeting 6:00 PM - End Town Hall\nNov 09\nNov 11\nVeteran's Day Office Closing All Day\nNov 12\nNov 16\nNov 17\nNov 23\nERC Meeting 5:15 PM - End Town Hall\nERA Meeting 5:45 PM - End Town Hall\n107 South Holland Street, Edinburgh, IN 46124-0065 Phone: 812-526-3512 Fax: 812-526-3542\nEmail Us\nStaff Directory\nQuick Links\nGet Connected\n© 2026 Town of Edinburgh, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by CORE Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "c852409e4de7c6df2bc09e3e",
+      "id": "3f7a9953a950daf53b6506e6",
       "source": "Town of Edinburgh",
       "source_scope": "southside",
       "category": "town",
@@ -810,14 +841,14 @@
       "title": "Browse Documents",
       "url": "https://www.edinburgh.in.us/egov/apps/document/center.egov",
       "published": null,
-      "fetched_at": "2026-09-29T01:29:36+00:00",
+      "fetched_at": "2026-09-30T00:43:40+00:00",
       "matched_keywords": [
         "Edinburgh"
       ],
-      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-50 of 2,475\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n12/31/2099\nFINANCIAL ADVISOR CONTRACTS\n241\n12/31/2029\nLive Stream of Town Meetings on YouTube\n1690\n09/25/2026\n9-29-26 Edinburgh Board of Metropolitan Police Commissioners Executive Meeting Agenda\n36\n156 KB\n2-17-26 Draft Edinburgh Police Pension Local Board Minutes\n19\n179 KB\n9-29-26 Edinburgh Police Pension Local Board Agenda\n34\nDraft Council Minutes 9-14-26\n21\n252 KB\n09/24/2026\nTown Council Meeting Agenda 9-28-26\n61\n140 KB\n09/22/2026\nJames Rothwell Badger-F-7-4\n09/21/2026\nRobert Hebestreit B-M-48-3\nConnie Dianne Bensalem B-A-24-6-6\n09/18/2026\nNotice to Taxpayers of Public Hearing for Proposed 2027 Budget\n76\n127 KB\n09/17/2026\nIndustrial Storm Water Brochure\n60\n1,198 KB\nStorm Water Brochure\n709\n369 KB\n09/16/2026\nPlanning Commission Minutes 1-20-26\n78\n72 KB\n09/14/2026\nWater Main Flushing\n324\n09/11/2026\n8-24-26 Council Special Meeting Minutes\n105\n178 KB\n09/10/2026\n8-24-26 Council Minutes\n111\n503 KB\nTown Council Meeting Agenda 9-14-26\n200\n146 KB\n8-31-26 Draft Council Special Meeting Minutes\n115\n200 KB\n09/09/2026\nEdinburgh Plan Commission Agenda 9-15-26\n176\n128 KB\n09/07/2026\nRebecca Jane Wertz M-B-54-7\n77\n09/05/2026\nGregory Allan Lay M-F-172-4\n64\nJanetta B Tabira M-Single-616\n66\n09/04/2026\nEva M Cook Badger-C-54-1\n74\n09/03/2026\nLinda K Clay B-O-75-1\n8-5-26 Zoning Board of Appeals Minutes\n113\n237 KB\n08/28/2026\nDavid Hadley Badger-F-111-4\n9/11/26- Online Utility Bill Payment Site Down Due to Software Upgrades\n251\n9/10/26- Utility Office Closed 8:00AM-1:00PM Due to Software Upgrades\n149\n08/27/2026\n8-31-26 Town Council Special Meeting Agenda\n246\nJohn W White Badger-B-125-1\n08/25/2026\n9-2-26 Zoning Board of Appeals Agenda\n194\n136 KB\n08/24/2026\n2026 In Town Yard Waste Removal Services\n130\n266 KB\n08/21/2026\n8-17-26 Council Special Meeting Minutes\n185\n303 KB\n08/20/2026\n8-10-26 Council Minutes\n203\n510 KB\n8-12-26 Executive Meeting Minutes\n47 KB\n8-24-26 Town Council Meeting Agenda\n247\n142 KB\n8-24-26 Town Council Special Meeting Agenda\n232\n132 KB\n08/17/2026\nPhyllis Ann Blythe B-M-87-4\n106\n08/14/2026\n8-17-26 Town Council Special Meeting Agenda\n293\n133 KB\n08/10/2026\n7-23-26 Edinburgh Board of Metropolitan Police Commissioners Minutes\n113 KB\n7-27-26 Council Minutes\n256\n309 KB\n6-22-26 ERC Minutes\n78 KB\n8-13-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n270\n154 KB\n08/09/2026\nRosa Marie Denton M-F-88-2\n08/08/2026\nMorris Dale Zigler M-E-75-8\n88\nEllen May Brand Badger-B-6-2\n103\n8-10-26 Town Council Meeting Agenda\n338\n143 KB\n08/06/2026\n6-3-26 Board of Zoning Appeals Minutes\n210\n141 KB\n8-10-26 Edinburgh Redevelopment Commission Meeting Agenda\n286\n107 South Holland Street, Edinburgh, IN 46124-0065 Phone: 812-526-3512 Fax: 812-526-3542\nEmail Us\nStaff Directory\nQuick Links\nGet Connected\n© 2026 Town of Edinburgh, Indiana\nPrivacy Poli"
+      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-50 of 2,475\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n12/31/2099\nFINANCIAL ADVISOR CONTRACTS\n243\n12/31/2029\nLive Stream of Town Meetings on YouTube\n1693\n09/25/2026\n9-29-26 Edinburgh Board of Metropolitan Police Commissioners Executive Meeting Agenda\n59\n156 KB\n2-17-26 Draft Edinburgh Police Pension Local Board Minutes\n35\n179 KB\n9-29-26 Edinburgh Police Pension Local Board Agenda\n55\nDraft Council Minutes 9-14-26\n39\n252 KB\n09/24/2026\nTown Council Meeting Agenda 9-28-26\n76\n140 KB\n09/22/2026\nJames Rothwell Badger-F-7-4\n22\n09/21/2026\nRobert Hebestreit B-M-48-3\n18\nConnie Dianne Bensalem B-A-24-6-6\n24\n09/18/2026\nNotice to Taxpayers of Public Hearing for Proposed 2027 Budget\n81\n127 KB\n09/17/2026\nIndustrial Storm Water Brochure\n61\n1,198 KB\nStorm Water Brochure\n711\n369 KB\n09/16/2026\nPlanning Commission Minutes 1-20-26\n80\n72 KB\n09/14/2026\nWater Main Flushing\n336\n09/11/2026\n8-24-26 Council Special Meeting Minutes\n108\n178 KB\n09/10/2026\n8-24-26 Council Minutes\n114\n503 KB\nTown Council Meeting Agenda 9-14-26\n205\n146 KB\n8-31-26 Draft Council Special Meeting Minutes\n118\n200 KB\n09/09/2026\nEdinburgh Plan Commission Agenda 9-15-26\n179\n128 KB\n09/07/2026\nRebecca Jane Wertz M-B-54-7\n79\n09/05/2026\nGregory Allan Lay M-F-172-4\n67\nJanetta B Tabira M-Single-616\n09/04/2026\nEva M Cook Badger-C-54-1\n75\n09/03/2026\nLinda K Clay B-O-75-1\n66\n8-5-26 Zoning Board of Appeals Minutes\n115\n237 KB\n08/28/2026\nDavid Hadley Badger-F-111-4\n9/11/26- Online Utility Bill Payment Site Down Due to Software Upgrades\n252\n9/10/26- Utility Office Closed 8:00AM-1:00PM Due to Software Upgrades\n150\n08/27/2026\n8-31-26 Town Council Special Meeting Agenda\n250\nJohn W White Badger-B-125-1\n08/25/2026\n9-2-26 Zoning Board of Appeals Agenda\n196\n136 KB\n08/24/2026\n2026 In Town Yard Waste Removal Services\n131\n266 KB\n08/21/2026\n8-17-26 Council Special Meeting Minutes\n188\n303 KB\n08/20/2026\n8-10-26 Council Minutes\n208\n510 KB\n8-12-26 Executive Meeting Minutes\n47 KB\n8-24-26 Town Council Meeting Agenda\n142 KB\n8-24-26 Town Council Special Meeting Agenda\n236\n132 KB\n08/17/2026\nPhyllis Ann Blythe B-M-87-4\n107\n08/14/2026\n8-17-26 Town Council Special Meeting Agenda\n296\n133 KB\n08/10/2026\n7-23-26 Edinburgh Board of Metropolitan Police Commissioners Minutes\n186\n113 KB\n7-27-26 Council Minutes\n258\n309 KB\n6-22-26 ERC Minutes\n248\n78 KB\n8-13-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n273\n154 KB\n08/09/2026\nRosa Marie Denton M-F-88-2\n08/08/2026\nMorris Dale Zigler M-E-75-8\n89\nEllen May Brand Badger-B-6-2\n106\n8-10-26 Town Council Meeting Agenda\n341\n143 KB\n08/06/2026\n6-3-26 Board of Zoning Appeals Minutes\n211\n141 KB\n8-10-26 Edinburgh Redevelopment Commission Meeting Agenda\n288\n107 South Holland Street, Edinburgh, IN 46124-0065 Phone: 812-526-3512 Fax: 812-526-3542\nEmail Us\nStaff Directory\nQuick Links\nGet Connected\n© 2026 Town of Edinburgh, Indiana"
     },
     {
-      "id": "10d978a3b70459c1e9bbd7be",
+      "id": "3c2fdc22a4b3cba65ff28a4d",
       "source": "Town of Edinburgh",
       "source_scope": "southside",
       "category": "town",
@@ -825,11 +856,11 @@
       "title": "Browse Documents",
       "url": "https://www.edinburgh.in.us/egov/apps/document/center.egov?eGov_searchType=3;eGov_searchSubmit=Search",
       "published": null,
-      "fetched_at": "2026-09-29T01:29:24+00:00",
+      "fetched_at": "2026-09-30T00:43:28+00:00",
       "matched_keywords": [
         "Edinburgh"
       ],
-      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-50 of 208\n1 2 3 4 5 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/25/2026\n9-29-26 Edinburgh Board of Metropolitan Police Commissioners Executive Meeting Agenda\n36\n156 KB\n9-29-26 Edinburgh Police Pension Local Board Agenda\n34\n09/24/2026\nTown Council Meeting Agenda 9-28-26\n61\n140 KB\n09/10/2026\nTown Council Meeting Agenda 9-14-26\n200\n146 KB\n09/09/2026\nEdinburgh Plan Commission Agenda 9-15-26\n176\n128 KB\n08/27/2026\n8-31-26 Town Council Special Meeting Agenda\n246\n08/25/2026\n9-2-26 Zoning Board of Appeals Agenda\n194\n136 KB\n08/20/2026\n8-24-26 Town Council Meeting Agenda\n247\n142 KB\n8-24-26 Town Council Special Meeting Agenda\n232\n132 KB\n08/14/2026\n8-17-26 Town Council Special Meeting Agenda\n293\n133 KB\n08/10/2026\n8-13-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n270\n154 KB\n08/08/2026\n8-10-26 Town Council Meeting Agenda\n338\n143 KB\n08/06/2026\n8-10-26 Edinburgh Redevelopment Commission Meeting Agenda\n286\n141 KB\nTown Council Executive Meeting Agenda 8-12-26\n281\n07/30/2026\n8-5-26 Zoning Board of Appeals Agenda\n256\n152 KB\n07/24/2026\n7-27-26 Town Council Meeting Agenda\n346\n139 KB\n07/20/2026\n7-23-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n257\n07/09/2026\n7-13-26 Town Council Meeting Agenda\n439\n61 KB\n06/18/2026\n6-22-26 Town Council Meeting Agenda\n491\n158 KB\n6-22-26 Edinburgh Redevelopment Commission Meeting Agenda\n391\n06/08/2026\n6-11-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n06/05/2026\n6-8-26 Town Council Meeting Agenda\n418\n6-8-26 Edinburgh Redevelopment Commission Meeting Agenda\n336\n06/04/2026\nTown Council Executive Meeting Agenda 6-8-26\n339\n05/27/2026\n6-3-26 Zoning Board of Appeals Agenda\n386\n05/21/2026\n5-26-26 Town Council Meeting Agenda\n360\n05/15/2026\n5-20-26 Edinburgh Redevelopment Commission-Authority-Town Council Joint Meeting Agenda\n393\n05/11/2026\n5-14-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n403\n153 KB\n05/07/2026\n5-11-26 Town Council Meeting Agenda\n444\n04/28/2026\n5-6-26 Zoning Board of Appeals Agenda\n367\n155 KB\n04/23/2026\n4-27-26 Town Council Meeting Agenda\n400\n4-27-26 Edinburgh Redevelopment Commission Meeting Agenda\n325\n144 KB\n04/15/2026\n4-27-26 Edinburgh Redevelopment Authority Meeting Agenda- CANCELLED\n350\n119 KB\n04/09/2026\n4-13-26 Town Council Meeting Agenda\n414\n4-13-26 Edinburgh Redevelopment Authority Special Meeting Agenda\n261\n137 KB\n04/06/2026\n4-9-26 Edinburgh Board of Metropolitan Police Commissioners Agenda\n381\n03/24/2026\nZoning Board of Appeals Agenda 4-1-26\n372\n150 KB\n03/19/2026\n3-23-26 Town Council Meeting Agenda\n430\n3-23-26 Edinburgh Redevelopment Commission Special Meeting Agenda\n375\n147 KB\n3-24-26 Town Council Executive Meeting Agenda\n352\n127 KB\n03/05/2026\n3-9-26 Town Council Meeting Agenda\n409\n138 KB\n02/27/2026\n3-4-26 Edinburgh Redevelopment Commission Special Meeting Agenda\n379\n148 K"
+      "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nDocument Center Browse Documents\nBrowse Documents\nDocument Center - Browse Documents\nDocuments 1-50 of 208\n1 2 3 4 5 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/25/2026\n9-29-26 Edinburgh Board of Metropolitan Police Commissioners Executive Meeting Agenda\n59\n156 KB\n9-29-26 Edinburgh Police Pension Local Board Agenda\n55\n09/24/2026\nTown Council Meeting Agenda 9-28-26\n76\n140 KB\n09/10/2026\nTown Council Meeting Agenda 9-14-26\n205\n146 KB\n09/09/2026\nEdinburgh Plan Commission Agenda 9-15-26\n179\n128 KB\n08/27/2026\n8-31-26 Town Council Special Meeting Agenda\n250\n08/25/2026\n9-2-26 Zoning Board of Appeals Agenda\n196\n136 KB\n08/20/2026\n8-24-26 Town Council Meeting Agenda\n142 KB\n8-24-26 Town Council Special Meeting Agenda\n236\n132 KB\n08/14/2026\n8-17-26 Town Council Special Meeting Agenda\n296\n133 KB\n08/10/2026\n8-13-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n273\n154 KB\n08/08/2026\n8-10-26 Town Council Meeting Agenda\n341\n143 KB\n08/06/2026\n8-10-26 Edinburgh Redevelopment Commission Meeting Agenda\n288\n141 KB\nTown Council Executive Meeting Agenda 8-12-26\n283\n07/30/2026\n8-5-26 Zoning Board of Appeals Agenda\n257\n152 KB\n07/24/2026\n7-27-26 Town Council Meeting Agenda\n347\n139 KB\n07/20/2026\n7-23-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n07/09/2026\n7-13-26 Town Council Meeting Agenda\n441\n61 KB\n06/18/2026\n6-22-26 Town Council Meeting Agenda\n496\n158 KB\n6-22-26 Edinburgh Redevelopment Commission Meeting Agenda\n392\n06/08/2026\n6-11-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n06/05/2026\n6-8-26 Town Council Meeting Agenda\n420\n6-8-26 Edinburgh Redevelopment Commission Meeting Agenda\n337\n06/04/2026\nTown Council Executive Meeting Agenda 6-8-26\n05/27/2026\n6-3-26 Zoning Board of Appeals Agenda\n391\n05/21/2026\n5-26-26 Town Council Meeting Agenda\n363\n05/15/2026\n5-20-26 Edinburgh Redevelopment Commission-Authority-Town Council Joint Meeting Agenda\n396\n05/11/2026\n5-14-26 Edinburgh Board of Metropolitan Police Commissioners Meeting Agenda\n405\n153 KB\n05/07/2026\n5-11-26 Town Council Meeting Agenda\n445\n04/28/2026\n5-6-26 Zoning Board of Appeals Agenda\n371\n155 KB\n04/23/2026\n4-27-26 Town Council Meeting Agenda\n402\n4-27-26 Edinburgh Redevelopment Commission Meeting Agenda\n329\n144 KB\n04/15/2026\n4-27-26 Edinburgh Redevelopment Authority Meeting Agenda- CANCELLED\n353\n119 KB\n04/09/2026\n4-13-26 Town Council Meeting Agenda\n415\n4-13-26 Edinburgh Redevelopment Authority Special Meeting Agenda\n262\n137 KB\n04/06/2026\n4-9-26 Edinburgh Board of Metropolitan Police Commissioners Agenda\n383\n03/24/2026\nZoning Board of Appeals Agenda 4-1-26\n373\n150 KB\n03/19/2026\n3-23-26 Town Council Meeting Agenda\n433\n3-23-26 Edinburgh Redevelopment Commission Special Meeting Agenda\n378\n147 KB\n3-24-26 Town Council Executive Meeting Agenda\n354\n127 KB\n03/05/2026\n3-9-26 Town Council Meeting Agenda\n412\n138 KB\n02/27/2026\n3-4-26 Edinburgh Redevelopment Commission Special Meeting Agenda\n379\n148 KB\n02/24/2026"
     },
     {
       "id": "9f019f48dd70069f23bab6c5",
@@ -840,14 +871,14 @@
       "title": "Water Main Flushing",
       "url": "https://www.edinburgh.in.us/egov/apps/document/center.egov?view=item&id=4201",
       "published": null,
-      "fetched_at": "2026-09-29T01:29:18+00:00",
+      "fetched_at": "2026-09-30T00:43:22+00:00",
       "matched_keywords": [
         "Edinburgh"
       ],
       "text": "Government\nResidents\nBusiness\nCommunity\nHow Do I?\nHome\nDocument Center Water Main Flushing\nWater Main Flushing\nThe Edinburgh Municipal Utilities will be flushing water mains beginning October 5 th at 7:30AM and continue through October 16 th . Customers may experience some discoloration in their water during this operation. If this occurs at your residence or business, we suggest that you run a slow stream of cold water until the discoloration disappears. Usually, five to ten minutes will take care of the problem. If the discoloration persists, please contact the Utility Office at 812-526-3514 option 5. We strongly suggest that white clothing not be washed during the daytime hours to help reduce the risk of staining. Some other light colors could also be affected. To be safe these colors should be washed after the hour of 7:00PM until after the flushing program is completed.\n107 South Holland Street, Edinburgh, IN 46124-0065 Phone: 812-526-3512 Fax: 812-526-3542\nEmail Us\nStaff Directory\nQuick Links\nGet Connected\n© 2026 Town of Edinburgh, Indiana\nPrivacy Policy\nAccessibility Statement\nTerms of Use\nSite Design and Content Management by Core Business Technologies\nDialog Title\nThe following x errors were detected in the information you entered.\nPlease correct these errors and try again.\nThere is an error in the information you entered.\nPlease try again."
     },
     {
-      "id": "5083946f138ce65f855049a6",
+      "id": "2ee6f9004b66d90b792e8aee",
       "source": "Whiteland Athletics Events",
       "source_scope": "southside",
       "category": "sports",
@@ -855,15 +886,15 @@
       "title": "Whiteland Community High School",
       "url": "https://whitelandsports.com/Events?pageNumber=2",
       "published": null,
-      "fetched_at": "2026-09-29T01:27:55+00:00",
+      "fetched_at": "2026-09-30T00:41:28+00:00",
       "matched_keywords": [
         "Whiteland",
         "Edinburgh"
       ],
-      "text": "Home\nEvents\n« Previous\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nSoccer (Boys JV)\nMooresville High School (A)\nThu, Oct. 1 2026 5:30 PM EDT\nThu, Oct. 1 2026\n5:30 PM EDT\nMooresville High School\nDETAILS\nVolleyball (Girls V)\nJohnson Co Tourney (A)\nEdinburgh Community High School\nSoccer (Boys V)\nThu, Oct. 1 2026 7:00 PM EDT\n7:00 PM EDT\nFootball (Boys V)\nMooresville High School (H)\nFri, Oct. 2 2026 7:00 PM EDT\nFri, Oct. 2 2026\nWhiteland\nTICKETS DETAILS\nFootball (Boys Fr)\nSat, Oct. 3 2026 9:00 AM EDT\nSat, Oct. 3 2026\n9:00 AM EDT\nFootball (Boys JV)\nSat, Oct. 3 2026 10:30 AM EDT\n10:30 AM EDT\nAvon High School (H)\nSat, Oct. 3 2026 11:00 AM EDT\n11:00 AM EDT\nWhiteland Community High School\nUnified Flag Football\nSectional (A) State Tournament\nSectional (A)\nState Tournament\nSat, Oct. 3 2026 3:15 PM EDT\n3:15 PM EDT\nCross Country (Girls V)\nNike XC Town Twilight (A) Invitational\nNike XC Town Twilight (A)\nInvitational\nSat, Oct. 3 2026 6:00 PM EDT\n6:00 PM EDT\nCross Country\nCross Country (Boys V)\nSoccer (Girls V)\nSectional vs Shelbyville (H) State Tournament\nSectional vs Shelbyville (H)\nMon, Oct. 5 2026 8:00 PM EDT\nMon, Oct. 5 2026\n8:00 PM EDT\nVolleyball (Girls JV)\nShelbyville High School (H)\nTue, Oct. 6 2026 5:30 PM EDT\nTue, Oct. 6 2026\nWhiteland Community High School (WCHS 9 Main Gym)\nSectional (H) State Tournament\nSectional (H)\nTue, Oct. 6 2026 6:00 PM EDT\nTue, Oct. 6 2026 6:30 PM EDT\n6:30 PM EDT\nWed, Oct. 7 2026 6:00 PM EDT\nWed, Oct. 7 2026\nSHOW SUPPORT FOR Whiteland Community High School"
+      "text": "Home\nEvents\n« Previous\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nVolleyball (Girls V)\nJohnson Co Tourney (A)\nThu, Oct. 1 2026 5:30 PM EDT\nThu, Oct. 1 2026\n5:30 PM EDT\nEdinburgh Community High School\nDETAILS\nSoccer (Boys V)\nMooresville High School (A)\nThu, Oct. 1 2026 7:00 PM EDT\n7:00 PM EDT\nMooresville High School\nFootball (Boys V)\nMooresville High School (H)\nFri, Oct. 2 2026 7:00 PM EDT\nFri, Oct. 2 2026\nWhiteland\nTICKETS DETAILS\nFootball (Boys Fr)\nSat, Oct. 3 2026 9:00 AM EDT\nSat, Oct. 3 2026\n9:00 AM EDT\nFootball (Boys JV)\nSat, Oct. 3 2026 10:30 AM EDT\n10:30 AM EDT\nSoccer (Boys JV)\nAvon High School (H)\nSat, Oct. 3 2026 11:00 AM EDT\n11:00 AM EDT\nWhiteland Community High School\nUnified Flag Football\nSectional (A) State Tournament\nSectional (A)\nState Tournament\nSat, Oct. 3 2026 3:15 PM EDT\n3:15 PM EDT\nCross Country (Girls V)\nNike XC Town Twilight (A) Invitational\nNike XC Town Twilight (A)\nInvitational\nSat, Oct. 3 2026 6:00 PM EDT\n6:00 PM EDT\nCross Country\nCross Country (Boys V)\nSoccer (Girls V)\nSectional Game 1 (H) State Tournament\nSectional Game 1 (H)\nMon, Oct. 5 2026 6:00 PM EDT\nMon, Oct. 5 2026\nSectional vs Shelbyville (H) State Tournament\nSectional vs Shelbyville (H)\nMon, Oct. 5 2026 8:00 PM EDT\n8:00 PM EDT\nVolleyball (Girls JV)\nShelbyville High School (H)\nTue, Oct. 6 2026 5:30 PM EDT\nTue, Oct. 6 2026\nWhiteland Community High School (WCHS 9 Main Gym)\nSectional Game 3 (H) State Tournament\nSectional Game 3 (H)\nTue, Oct. 6 2026 6:00 PM EDT\nTue, Oct. 6 2026 6:30 PM EDT\n6:30 PM EDT\nSectional Game 4 (H) State Tournament\nSectional Game 4 (H)\nTue, Oct. 6 2026 8:00 PM EDT\nSHOW SUPPORT FOR Whiteland Community High School"
     },
     {
-      "id": "4743a60bb8143a18e2ae865c",
+      "id": "e35d1214acf36c612b6376af",
       "source": "Whiteland Athletics Events",
       "source_scope": "southside",
       "category": "sports",
@@ -871,15 +902,15 @@
       "title": "Whiteland Community High School",
       "url": "https://whitelandsports.com/Tickets",
       "published": null,
-      "fetched_at": "2026-09-29T01:27:48+00:00",
+      "fetched_at": "2026-09-30T00:41:21+00:00",
       "matched_keywords": [
         "Whiteland",
         "Johnson County"
       ],
-      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $8.90\nGeneral Admission - $7.90\nGeneral Admission Ticket - $6.90\nGeneral Admission - $5.95\nGeneral Admission- Session 1 - $8.95\nGeneral Admission- Session 2 - $8.95\nGeneral Admission- Session 3 - $8.95\nGeneral Admission - $8.00\nGeneral Admission- Session 4 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/3/26 to 6/14/27.\nNote\nThis season pass is valid for one adult admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase\nThis season pass is valid for a up to 5 family member admissions to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase Family Pass\nThis season pass is valid for one K-8 student admission to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nThis season pass is valid for one Senior Citizen (62+) admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events."
+      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $8.90\nGeneral Admission - $7.90\nGeneral Admission Ticket - $6.90\nGeneral Admission - $5.95\nGeneral Admission- Session 1 - $8.95\nGeneral Admission- Session 2 - $8.95\nGeneral Admission - 10/7/2026 - $8.95\nGeneral Admission- Session 3 - $8.95\nGeneral Admission - $8.00\nGeneral Admission- Session 4 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/3/26 to 6/14/27.\nNote\nThis season pass is valid for one adult admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase\nThis season pass is valid for a up to 5 family member admissions to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase Family Pass\nThis season pass is valid for one K-8 student admission to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nThis season pass is valid for one Senior Citizen (62+) admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events."
     },
     {
-      "id": "f7b6947f98a0a8d7eb5fadb8",
+      "id": "df0ef030c03afba407a4aa2d",
       "source": "Whiteland Athletics Events",
       "source_scope": "southside",
       "category": "sports",
@@ -887,7 +918,7 @@
       "title": "Whiteland Community High School",
       "url": "https://whitelandsports.com/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:27:46+00:00",
+      "fetched_at": "2026-09-30T00:41:19+00:00",
       "matched_keywords": [
         "Greenwood",
         "Center Grove",
@@ -895,10 +926,10 @@
         "Johnson County",
         "Indian Creek"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nSoccer (Boys JV)\nCenter Grove High School (A)\nMon, Sep. 28 2026 6:00 PM EDT\nMon, Sep. 28 2026\n6:00 PM EDT\nCenter Grove High School\nDETAILS\nTennis (Boys V)\nSectional (A)\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nIndian Creek High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nIndian Creek High School\nVolleyball (Girls C Team)\nMooresville High School (A)\nMooresville High School\nVolleyball (Girls JV)\nSoccer (Girls V)\nBloomington North (make up, half only) (H)\nTue, Sep. 29 2026 6:00 PM EDT\nWhiteland Community High School\nTICKETS DETAILS\nVolleyball (Girls V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSoccer (Boys V)\nSectional Semi-Final (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nGreenwood Community High School (H)\nWed, Sep. 30 2026 5:30 PM EDT\nWhiteland Community High School (WCHS 9 Main Gym)\nSoccer (Girls JV)\nCanceled: Mooresville High School (H)\nCanceled:\nMooresville High School (H)\nWed, Sep. 30 2026 6:00 PM EDT\nUnified Flag Football\nLawrence Central High School (A)\nWed, Sep. 30 2026 6:30 PM EDT\n6:30 PM EDT\nLawrence Central High School\nJohnson County vs Greenwood (H)\nWed, Sep. 30 2026 7:00 PM EDT\nSectional Final (A)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nSHOW SUPPORT FOR Whiteland Community High School"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nTennis (Boys V)\nSectional (A)\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nCenter Grove High School\nDETAILS\nSoccer (Boys JV)\nIndian Creek High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nIndian Creek High School\nVolleyball (Girls C Team)\nMooresville High School (A)\nMooresville High School\nVolleyball (Girls JV)\nSoccer (Girls V)\nBloomington North (make up, half only) (H)\nTue, Sep. 29 2026 6:00 PM EDT\n6:00 PM EDT\nWhiteland Community High School\nTICKETS DETAILS\nVolleyball (Girls V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSoccer (Boys V)\nSectional Semi-Final (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nGreenwood Community High School (H)\nWed, Sep. 30 2026 5:30 PM EDT\nWhiteland Community High School (WCHS 9 Main Gym)\nSoccer (Girls JV)\nCanceled: Mooresville High School (H)\nCanceled:\nMooresville High School (H)\nWed, Sep. 30 2026 6:00 PM EDT\nUnified Flag Football\nLawrence Central High School (A)\nWed, Sep. 30 2026 6:30 PM EDT\n6:30 PM EDT\nLawrence Central High School\nJohnson County vs Greenwood (H)\nWed, Sep. 30 2026 7:00 PM EDT\nSectional Final (A)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nThu, Oct. 1 2026 5:30 PM EDT\nSHOW SUPPORT FOR Whiteland Community High School"
     },
     {
-      "id": "f7eb58b8b5f86d4ec5daac20",
+      "id": "65e689469efe97314d8560e1",
       "source": "Whiteland Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -906,15 +937,15 @@
       "title": "Whiteland Community High School",
       "url": "https://www.whitelandsports.com/Tickets",
       "published": null,
-      "fetched_at": "2026-09-29T01:27:36+00:00",
+      "fetched_at": "2026-09-30T00:41:08+00:00",
       "matched_keywords": [
         "Whiteland",
         "Johnson County"
       ],
-      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $8.90\nGeneral Admission - $7.90\nGeneral Admission Ticket - $6.90\nGeneral Admission - $5.95\nGeneral Admission- Session 1 - $8.95\nGeneral Admission- Session 2 - $8.95\nGeneral Admission- Session 3 - $8.95\nGeneral Admission - $8.00\nGeneral Admission- Session 4 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/3/26 to 6/14/27.\nNote\nThis season pass is valid for one adult admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase\nThis season pass is valid for a up to 5 family member admissions to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase Family Pass\nThis season pass is valid for one K-8 student admission to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nThis season pass is valid for one Senior Citizen (62+) admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events."
+      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $8.90\nGeneral Admission - $7.90\nGeneral Admission Ticket - $6.90\nGeneral Admission - $5.95\nGeneral Admission- Session 1 - $8.95\nGeneral Admission- Session 2 - $8.95\nGeneral Admission - 10/7/2026 - $8.95\nGeneral Admission- Session 3 - $8.95\nGeneral Admission - $8.00\nGeneral Admission- Session 4 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/3/26 to 6/14/27.\nNote\nThis season pass is valid for one adult admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase\nThis season pass is valid for a up to 5 family member admissions to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nPurchase Family Pass\nThis season pass is valid for one K-8 student admission to any 26-27 WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events.\nThis season pass is valid for one Senior Citizen (62+) admission to any WCHS Athletic event, excluding Johnson County/Mid-State and/or IHSAA Tournament events. This pass is NOT valid at CPMS Athletic events."
     },
     {
-      "id": "85434c5a10f3bb25dcc309b8",
+      "id": "64a97f4727f950bf60144f36",
       "source": "Whiteland Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -922,7 +953,7 @@
       "title": "Whiteland Community High School",
       "url": "https://www.whitelandsports.com/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:27:34+00:00",
+      "fetched_at": "2026-09-30T00:41:07+00:00",
       "matched_keywords": [
         "Greenwood",
         "Center Grove",
@@ -930,10 +961,129 @@
         "Johnson County",
         "Indian Creek"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nSoccer (Boys JV)\nCenter Grove High School (A)\nMon, Sep. 28 2026 6:00 PM EDT\nMon, Sep. 28 2026\n6:00 PM EDT\nCenter Grove High School\nDETAILS\nTennis (Boys V)\nSectional (A)\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nIndian Creek High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nIndian Creek High School\nVolleyball (Girls C Team)\nMooresville High School (A)\nMooresville High School\nVolleyball (Girls JV)\nSoccer (Girls V)\nBloomington North (make up, half only) (H)\nTue, Sep. 29 2026 6:00 PM EDT\nWhiteland Community High School\nTICKETS DETAILS\nVolleyball (Girls V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSoccer (Boys V)\nSectional Semi-Final (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nGreenwood Community High School (H)\nWed, Sep. 30 2026 5:30 PM EDT\nWhiteland Community High School (WCHS 9 Main Gym)\nSoccer (Girls JV)\nCanceled: Mooresville High School (H)\nCanceled:\nMooresville High School (H)\nWed, Sep. 30 2026 6:00 PM EDT\nUnified Flag Football\nLawrence Central High School (A)\nWed, Sep. 30 2026 6:30 PM EDT\n6:30 PM EDT\nLawrence Central High School\nJohnson County vs Greenwood (H)\nWed, Sep. 30 2026 7:00 PM EDT\nSectional Final (A)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nSHOW SUPPORT FOR Whiteland Community High School"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nTennis (Boys V)\nSectional (A)\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nCenter Grove High School\nDETAILS\nSoccer (Boys JV)\nIndian Creek High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nIndian Creek High School\nVolleyball (Girls C Team)\nMooresville High School (A)\nMooresville High School\nVolleyball (Girls JV)\nSoccer (Girls V)\nBloomington North (make up, half only) (H)\nTue, Sep. 29 2026 6:00 PM EDT\n6:00 PM EDT\nWhiteland Community High School\nTICKETS DETAILS\nVolleyball (Girls V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSoccer (Boys V)\nSectional Semi-Final (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nGreenwood Community High School (H)\nWed, Sep. 30 2026 5:30 PM EDT\nWhiteland Community High School (WCHS 9 Main Gym)\nSoccer (Girls JV)\nCanceled: Mooresville High School (H)\nCanceled:\nMooresville High School (H)\nWed, Sep. 30 2026 6:00 PM EDT\nUnified Flag Football\nLawrence Central High School (A)\nWed, Sep. 30 2026 6:30 PM EDT\n6:30 PM EDT\nLawrence Central High School\nJohnson County vs Greenwood (H)\nWed, Sep. 30 2026 7:00 PM EDT\nSectional Final (A)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nThu, Oct. 1 2026 5:30 PM EDT\nSHOW SUPPORT FOR Whiteland Community High School"
     },
     {
-      "id": "5a92559ee30df94007c92cd5",
+      "id": "40f3834468193fa83bd60d38",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/page/wchs-project",
+      "published": null,
+      "fetched_at": "2026-09-30T00:41:03+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "eedfbb1bce970ad91e29a162",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/page/non-discriminationbullyingharassment-reporting-procedures",
+      "published": null,
+      "fetched_at": "2026-09-30T00:41:02+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "bf3847dc676e592af9300c14",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/documents",
+      "published": null,
+      "fetched_at": "2026-09-30T00:41:01+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "ff9e18bc032d27ded3e07a9d",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/page/board-of-school-trustees",
+      "published": null,
+      "fetched_at": "2026-09-30T00:41:00+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "302501989be131b067bc2545",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/documents/public-notices%2C-legal-notices-%26-rfq's/422509",
+      "published": null,
+      "fetched_at": "2026-09-30T00:40:58+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "0bf595926277c0553e366788",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/events?view=cal-month",
+      "published": null,
+      "fetched_at": "2026-09-30T00:40:57+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "a867600bf125015367f1aaf9",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/page/newsletter",
+      "published": null,
+      "fetched_at": "2026-09-30T00:40:56+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "0a793446c81d1a20b2eedf97",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Client Challenge",
+      "url": "https://www.cpcsc.k12.in.us/documents/cpcsc-calendars/422874",
+      "published": null,
+      "fetched_at": "2026-09-30T00:40:55+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "bbadfe3685cdd538fc8d32e8",
+      "source": "Clark-Pleasant Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Clark-Pleasant Community School Corporation",
+      "url": "https://www.cpcsc.k12.in.us",
+      "published": null,
+      "fetched_at": "2026-09-30T00:40:54+00:00",
+      "matched_keywords": [
+        "Whiteland"
+      ],
+      "text": "Clark-Pleasant Community School Corp.\nVision. Excellence.\nClark-Pleasant Community School Corporation\nHome of the Warriors\nABOUT CLARK-PLEASANT SCHOOLS\nLocated south of Indianapolis, our schools offer innovative academics, caring teachers and state-of-the-art facilities. While we are one of Indiana's fastest-growing school districts, we value our legacy rooted in our small rural beginnings of individualized attention and focus on each student.\nFrom STEM to college-credit courses and career pathways, we open doors to every dream. A wide array of student clubs, athletics and school organizations (more than 135) help each child find their passion. Our athletic teams are among the most competitive in Indiana. Our district has been recognized as one of Indiana’s Best Communities for Music Education and has many students earning state music awards.\nOur schools are safe and welcoming, offering strong support systems that nurture confidence and success in and out of the classroom.\nWATCH OUR STORIES\nWHAT TO KNOW\n92.61%\nGraduation Rate (89% state average).\n19\nAdvanced Placement courses offered.\n5,000+\nCollege Credits earned by WCHS graduates annually.\n$235 Million\nInvested in improvement projects without increasing tax rates.\n99%\nCPCSC teachers rated effective and highly effective.\n27\nPrograms offered at the Central-9 Career Center.\n1:1\nTechnology for students.\nFFA\nNational 3-Star Chapter and Indiana Gold Emblem Chapter.\nUS News Rankings\nWCHS Named in the 2024 Best High Schools.\nquicklinks\nSkyward Family Access\nSkyward Student Access\nSkyward Teacher Access\nParentSquare\nCare Solace\nCommunity Resources\nWCHS Athletics\nCPMS Athletics\nCorporation Office\nClark-Pleasant Community School Corp. 50 Center Street Whiteland, IN 46184 317-535-7579 317-535-4931\nHours: 8:00 a.m. - 4:30 p.m.\nStudents/Parents\nAcademic Calendars\nCurricular Fee Payments (SchoolPay)\nDoculivery\nFast Track\nHoney Grove Before/After School Care\nIndiana Core College Credits\nIndiana Gateway\nNon-Discriminatory/Bullying/Harassment Reporting\nOperations\nSchool Performance Report - GPS\nSchool Supplies Lists\nCommunity/Public\nAccessibility Statement\nBecome a Substitute\nBecome a Volunteer\nFacility Use Policy\nHigh School Construction Project\nPolice Department\nRecognize Excellence Form\nSchool Board Meeting Live Feed\nSocial Media Policy\nStay Connected\nOur Mission\nClark-Pleasant Community School Corporation will provide learning experiences that ensure ALL students reach their potential.\nCore Values\nStudent Centered . High Expectations . Trusting Relationships"
+    },
+    {
+      "id": "4b7f8e6b789fb10d2d23fd07",
       "source": "Greenwood Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -941,14 +1091,14 @@
       "title": "Greenwood Community High School",
       "url": "https://www.woodmenathletics.com/Tickets",
       "published": null,
-      "fetched_at": "2026-09-29T01:26:44+00:00",
+      "fetched_at": "2026-09-30T00:40:06+00:00",
       "matched_keywords": [
         "Greenwood"
       ],
-      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $7.90\nGeneral Admission - $8.90\nGeneral Admission - $5.95\n10/6/2026 Session 1 - $8.95\n10/7/2026 - Session 2 - $8.95\n10/8/2026 - Session 3 - $8.95\nGeneral Admission - $10.90\nChampionship Match - 10/10/2026 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/1/26 to 6/12/27.\nNote\nPass is valid at all Greenwood High School games excluding any IHSAA Tournaments (Sectionals, Regionals, etc.)\nPurchase\nValid at any Greenwood High School home game excluding IHSAA Tournaments."
+      "text": "Home\nTickets & Passes\nPurchase Tickets\nEvent Details\nTickets\nSingle Ticket:\nGeneral Admission - $7.90\nGeneral Admission - $8.90\nGeneral Admission - $5.95\n10/6/2026 Session 1 - $8.95\nGeneral Admission - Session 2 - $8.95\n10/7/2026 - Session 2 - $8.95\n10/8/2026 - Session 3 - $8.95\nGeneral Admission - $10.90\nChampionship Match - 10/10/2026 - $8.95\nPass Information\nUses: Admission to every eligible event. Transferable: This pass can only be used once per eligible event. Validity: Valid for any events from 8/1/26 to 6/12/27.\nNote\nPass is valid at all Greenwood High School games excluding any IHSAA Tournaments (Sectionals, Regionals, etc.)\nPurchase\nValid at any Greenwood High School home game excluding IHSAA Tournaments."
     },
     {
-      "id": "b4b97b1fc423452cff74bd1e",
+      "id": "f09fe7f05775d22a18306906",
       "source": "Greenwood Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -956,42 +1106,17 @@
       "title": "Greenwood Community High School",
       "url": "https://www.woodmenathletics.com/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:26:43+00:00",
+      "fetched_at": "2026-09-30T00:40:05+00:00",
       "matched_keywords": [
         "Greenwood",
         "Center Grove",
-        "Franklin Community"
+        "Johnson County",
+        "Edinburgh"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nVolleyball (Girls V) Practice\nGirls Volleyball Practice\nMon, Sep. 28 2026 3:45 PM EDT\nMon, Sep. 28 2026\n3:45 PM EDT\nMain Gym (Main Gym)\nDETAILS\nBasketball (Girls V) Practice\nGirls BB OG\nMon, Sep. 28 2026 5:00 PM EDT\n5:00 PM EDT\nActivity Center Court 1, Activity Center Court 2 (Activity Center Court 1, Activity Center Court 2)\nSoccer (Boys V) Practice\nBoys Soccer Practice\nMon, Sep. 28 2026 6:00 PM EDT\n6:00 PM EDT\nWoodmen Stadium (Woodmen Stadium)\nSoccer (Girls V)\nFranklin Community High School (H)\nGreenwood (Woodmen Soccer Stadium)\nTICKETS DETAILS\nSoccer Girls JV\nGreenwood (H)\nMon, Sep. 28 2026 7:30 PM EDT\n7:30 PM EDT\nGreenwood\nGreenwood Community High School\nUnified Flag Football Practice\nFlag Football Practice\nTue, Sep. 29 2026 2:45 PM EDT\nTue, Sep. 29 2026\n2:45 PM EDT\nBasketball (Boys V) Practice\nBoys BB OG\nAuxiliary Gym (Auxiliary Gym)\nWrestling (Boys V) Practice\nBoys Wrestling\nMain Gym West Deck (Main Gym West Deck)\nBaseball (Boys V) Practice\nBaseball OF\nTue, Sep. 29 2026 3:00 PM EDT\n3:00 PM EDT\nVarsity Baseball Field (Varsity Baseball Field)\nWrestling (Girls-V) Practice\nGirls Wrestling Open Facilities\nWrestling Room\nTue, Sep. 29 2026 3:45 PM EDT\nTennis (Boys V)\nSectional @ Center Grove (A)\nTue, Sep. 29 2026 4:30 PM EDT\n4:30 PM EDT\nCenter Grove High School\nWoodmen Academy\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nActivity Center Court 1, Activity Center Court 2, Activity Center Court 3 (Activity Center Court 1, Activity Center Court 2, Activity Center Court 3)\nFeeder Programs\nGirls Basketball Youth League\nTue, Sep. 29 2026 6:00 PM EDT\nWestwood Gym\nSHOW SUPPORT FOR Greenwood Community High School"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nUnified Flag Football Practice\nFlag Football Practice\nTue, Sep. 29 2026 2:45 PM EDT\nTue, Sep. 29 2026\n2:45 PM EDT\nActivity Center Court 1, Activity Center Court 2 (Activity Center Court 1, Activity Center Court 2)\nDETAILS\nBasketball (Boys V) Practice\nBoys BB OG\nAuxiliary Gym (Auxiliary Gym)\nWrestling (Boys V) Practice\nBoys Wrestling\nMain Gym West Deck (Main Gym West Deck)\nBaseball (Boys V) Practice\nBaseball OF\nTue, Sep. 29 2026 3:00 PM EDT\n3:00 PM EDT\nVarsity Baseball Field (Varsity Baseball Field)\nWrestling (Girls-V) Practice\nGirls Wrestling Open Facilities\nWrestling Room\nVolleyball (Girls V) Practice\nGirls Volleyball Practice\nTue, Sep. 29 2026 3:45 PM EDT\n3:45 PM EDT\nMain Gym (Main Gym)\nTennis (Boys V)\nSectional @ Center Grove (A)\nTue, Sep. 29 2026 4:30 PM EDT\n4:30 PM EDT\nCenter Grove High School\nWoodmen Academy\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nActivity Center Court 1, Activity Center Court 2, Activity Center Court 3 (Activity Center Court 1, Activity Center Court 2, Activity Center Court 3)\nFeeder Programs\nGirls Basketball Youth League\nTue, Sep. 29 2026 6:00 PM EDT\n6:00 PM EDT\nWestwood Gym\nUnified Flag Football\nColts Unified Flag Classic (A)\nHamilton Heights High School (A)\nColts Complex\nBasketball (Girls V) Practice\nGirls BB OG\nWed, Sep. 30 2026 3:30 PM EDT\nWed, Sep. 30 2026\n3:30 PM EDT\nGirls Volleyball Practice (Pre Game Practice)\nWed, Sep. 30 2026 3:45 PM EDT\nWed, Sep. 30 2026 4:30 PM EDT\nVolleyball (Girls V)\nJohnson County (A)\nWed, Sep. 30 2026 5:30 PM EDT\nEdinburgh Community High School\nSHOW SUPPORT FOR Greenwood Community High School"
     },
     {
-      "id": "d20a4f4880a44cdb6c1d8b94",
-      "source": "Greenwood School Board",
-      "source_scope": "southside",
-      "category": "school_board",
-      "item_type": "listing_or_page",
-      "title": "Client Challenge",
-      "url": "https://www.gws.k12.in.us/page/board-of-education",
-      "published": null,
-      "fetched_at": "2026-09-29T01:26:40+00:00",
-      "matched_keywords": [],
-      "text": ""
-    },
-    {
-      "id": "a1594e5a2ce05dd2b98aa851",
-      "source": "Greenwood Community Schools",
-      "source_scope": "southside",
-      "category": "school_district",
-      "item_type": "listing_or_page",
-      "title": "Client Challenge",
-      "url": "https://www.gws.k12.in.us",
-      "published": null,
-      "fetched_at": "2026-09-29T01:26:39+00:00",
-      "matched_keywords": [],
-      "text": ""
-    },
-    {
-      "id": "75ba4f2d3cca7f6925864441",
+      "id": "049471c579f2d28e6a292529",
       "source": "Greenwood Common Council Documents",
       "source_scope": "southside",
       "category": "city_council",
@@ -999,13 +1124,13 @@
       "title": "The City of Greenwood, IN",
       "url": "https://www.greenwood.in.gov/egov/apps/document/center.egov?act=&app=4&eGov_searchCategory=&eGov_searchDepartment=85&eGov_searchTitle=&eGov_searchTopic=&eGov_searchType=&eGov_searchYear=&id=&order=&page=4_1&path=&sect=content&view=browse",
       "published": null,
-      "fetched_at": "2026-09-29T01:26:07+00:00",
+      "fetched_at": "2026-09-30T00:39:26+00:00",
       "matched_keywords": [
         "Greenwood",
         "Worthsville Road",
         "rezoning"
       ],
-      "text": "The City of Greenwood, IN\nWelcome to the website for the City of Greenwood!\nLive\nPlay\nVisit\nDo Business\nGovernment\nBrowse Documents\nDocument Center\nDocuments 1-25 of 2,053\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/22/2026\nMeeting of the Greenwood Common Council ROLL CALL 9.21.26\n34\n303 KB\n09/17/2026\nORDINANCE NO. 26-33 AN ORDINANCE FIXING THE SALARY OF THE CITY JUDGE OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n78\nMeeting of the Greenwood Common Council AGENDA 9.21.26\n267\nORDINANCE NO. 26-34 AN ORDINANCE FIXING SALARIES OF APPOINTED OFFICERS AND EMPLOYEES OF THE CITY OF GREENWOOD, INDIANA AND CITY UTILITIES FOR THE YEAR 2027\n115\n332 KB\nMeeting of the Greenwood Common Council Minutes 9.9.26\n95\n300 KB\nRESOLUTION NO. 26-09 A RESOLUTION DECLARING CERTAIN REAL PROPERTY IMPROVEMENTS FOR TAX ABATEMENT (Exeter Southtech Land, LLC- EQT Southtech Building 1)\n87\n4,134 KB\nORDINANCE NO. 26-35 AN ORDINANCE FOR APPROPRIATIONS AND TAX RATES FOR THE 2027 BUDGET YEAR\n71\n144 KB\nORDINANCE NO. 26-32 AN ORDINANCE FIXING THE SALARY OF THE CLERK OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n162 KB\nORDINANCE NO. 26-31 AN ORDINANCE FIXING THE SALARY OF THE MAYOR OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n74\n164 KB\nORDINANCE NO. 26-30 AN ORDINANCE FIXING THE SALARY OF THE COMMON COUNCIL OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n81\n163 KB\nORDINANCE NO. 26-24 AN ORDINANCE TO AMEND THE OFFICIAL ZONING MAP ADOPTED BY REFERENCE IN UNIFIED DEVELOPMENT ORDINANCE NO. 20-29 (PROPOSED REZONING OF APPROXIMATELY 80.15 ACRES LOCATED ON THE SOUTHEAST CORNER OF I-65 AND WORTHSVILLE ROAD\n151\n11,710 KB\n09/11/2026\nROLL CALL Meeting of the Greenwood Common Council 9.9.26\n84\n293 KB\n09/04/2026\nMeeting of the Greenwood Common Council AGENDA 9.9.26\n269\nGREENWOOD COMMON COUNCIL ORDINANCE NO. 26-29 AN ORDINANCE OF THE COMMON COUNCIL OF THE CITY OF GREENWOOD, INDIANA, AUTHORIZING AND ESTABLISHING THE BOUNDARIES OF FOUR MUNICIPAL RIVERFRONT DEVELOPMENT PROJECT AREAS WITHIN THE CITY OF GREENWOOD PURSUANT TO\n129\n3,006 KB\n08/19/2026\n8.17.26 Meeting of the Greenwood Common Council Minutes\n203\n08/18/2026\nROLL CALL Meeting of the Greenwood Common Council 8.17.26\n134\n289 KB\n08/13/2026\n8.17.26 Meeting of the Greenwood Common Council AGENDA\n235\nOrd 24-17 AN ORDINANCE VACATING PLATTED VARIABLE WIDTH DRAINAGE AND UTILITY EASEMENT IN SATURN PARK BLOCK C\n127\n1,171 KB\nRESOLUTION NO. 24-17 A RESOLUTION AMENDING RESOLUTION NO. 92-2, \"A RESOLUTION JOINING WITH THE MAYOR IN ESTABLISHING A CITY POLICY FOR COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT AND ADDRESSING RELATED MATTERS\", TO APPOINT THE CURRENT CITY ENGINEE\n128\n521 KB\n08/10/2026\n08.03.26 Meeting of the Greenwood Common Council Minutes\n201\n08/04/2026\nROLL CALL Meeting of the Greenwood Common Council Meeting 8.3.26\n149\n231 KB\n07/30/2026\nORDINANCE NO. 26-28 AN ORDINANCE AMENDING THE 2026 SALARY ORDINANCE, COMMON COUNCIL ORDINANCE NO. 25-20, TO INCREASE THE PART-TIME DOCUMENT CLERK HOURLY RATE IN THE CL"
+      "text": "The City of Greenwood, IN\nWelcome to the website for the City of Greenwood!\nLive\nPlay\nVisit\nDo Business\nGovernment\nBrowse Documents\nDocument Center\nDocuments 1-25 of 2,053\n1 2 3 4 5 6 7 8 9 10 Next »\nDate\nType\nTitle\nViews\nSize\nInfo\n09/22/2026\nMeeting of the Greenwood Common Council ROLL CALL 9.21.26\n37\n303 KB\n09/17/2026\nORDINANCE NO. 26-33 AN ORDINANCE FIXING THE SALARY OF THE CITY JUDGE OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n81\nMeeting of the Greenwood Common Council AGENDA 9.21.26\n273\nORDINANCE NO. 26-34 AN ORDINANCE FIXING SALARIES OF APPOINTED OFFICERS AND EMPLOYEES OF THE CITY OF GREENWOOD, INDIANA AND CITY UTILITIES FOR THE YEAR 2027\n119\n332 KB\nMeeting of the Greenwood Common Council Minutes 9.9.26\n98\n300 KB\nRESOLUTION NO. 26-09 A RESOLUTION DECLARING CERTAIN REAL PROPERTY IMPROVEMENTS FOR TAX ABATEMENT (Exeter Southtech Land, LLC- EQT Southtech Building 1)\n88\n4,134 KB\nORDINANCE NO. 26-35 AN ORDINANCE FOR APPROPRIATIONS AND TAX RATES FOR THE 2027 BUDGET YEAR\n73\n144 KB\nORDINANCE NO. 26-32 AN ORDINANCE FIXING THE SALARY OF THE CLERK OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n71\n162 KB\nORDINANCE NO. 26-31 AN ORDINANCE FIXING THE SALARY OF THE MAYOR OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n75\n164 KB\nORDINANCE NO. 26-30 AN ORDINANCE FIXING THE SALARY OF THE COMMON COUNCIL OF THE CITY OF GREENWOOD, INDIANA FOR THE YEAR 2027\n84\n163 KB\nORDINANCE NO. 26-24 AN ORDINANCE TO AMEND THE OFFICIAL ZONING MAP ADOPTED BY REFERENCE IN UNIFIED DEVELOPMENT ORDINANCE NO. 20-29 (PROPOSED REZONING OF APPROXIMATELY 80.15 ACRES LOCATED ON THE SOUTHEAST CORNER OF I-65 AND WORTHSVILLE ROAD\n153\n11,710 KB\n09/11/2026\nROLL CALL Meeting of the Greenwood Common Council 9.9.26\n86\n293 KB\n09/04/2026\nMeeting of the Greenwood Common Council AGENDA 9.9.26\nGREENWOOD COMMON COUNCIL ORDINANCE NO. 26-29 AN ORDINANCE OF THE COMMON COUNCIL OF THE CITY OF GREENWOOD, INDIANA, AUTHORIZING AND ESTABLISHING THE BOUNDARIES OF FOUR MUNICIPAL RIVERFRONT DEVELOPMENT PROJECT AREAS WITHIN THE CITY OF GREENWOOD PURSUANT TO\n131\n3,006 KB\n08/19/2026\n8.17.26 Meeting of the Greenwood Common Council Minutes\n208\n08/18/2026\nROLL CALL Meeting of the Greenwood Common Council 8.17.26\n136\n289 KB\n08/13/2026\n8.17.26 Meeting of the Greenwood Common Council AGENDA\n237\nOrd 24-17 AN ORDINANCE VACATING PLATTED VARIABLE WIDTH DRAINAGE AND UTILITY EASEMENT IN SATURN PARK BLOCK C\n129\n1,171 KB\nRESOLUTION NO. 24-17 A RESOLUTION AMENDING RESOLUTION NO. 92-2, \"A RESOLUTION JOINING WITH THE MAYOR IN ESTABLISHING A CITY POLICY FOR COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT AND ADDRESSING RELATED MATTERS\", TO APPOINT THE CURRENT CITY ENGINEE\n130\n521 KB\n08/10/2026\n08.03.26 Meeting of the Greenwood Common Council Minutes\n202\n08/04/2026\nROLL CALL Meeting of the Greenwood Common Council Meeting 8.3.26\n151\n231 KB\n07/30/2026\nORDINANCE NO. 26-28 AN ORDINANCE AMENDING THE 2026 SALARY ORDINANCE, COMMON COUNCIL ORDINANCE NO. 25-20, TO INCREASE THE PART-TIME DOCUMENT CLERK HOURLY RATE IN THE CLE"
     },
     {
       "id": "e3fe06a542188d2370ce9d18",
@@ -1016,7 +1141,7 @@
       "title": "Event: Indianapolis Shortridge - Beech Grove High School",
       "url": "https://beechgrove-athletics.com/Event/fce6990c-d13c-431b-ae64-b37436cccbe8",
       "published": null,
-      "fetched_at": "2026-09-29T01:25:09+00:00",
+      "fetched_at": "2026-09-30T00:38:30+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
@@ -1031,7 +1156,7 @@
       "title": "Event: Monrovia High School - Beech Grove High School",
       "url": "https://beechgrove-athletics.com/Event/bed8b15f-27c1-4d70-af9d-1030c2d9e569",
       "published": null,
-      "fetched_at": "2026-09-29T01:25:08+00:00",
+      "fetched_at": "2026-09-30T00:38:29+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
@@ -1046,7 +1171,7 @@
       "title": "Event: Morristown Jr-Sr High School - Beech Grove High School",
       "url": "https://beechgrove-athletics.com/Event/603bf95a-66f6-4c7c-959c-5ad6ec14390e",
       "published": null,
-      "fetched_at": "2026-09-29T01:25:07+00:00",
+      "fetched_at": "2026-09-30T00:38:28+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
@@ -1061,14 +1186,29 @@
       "title": "Event: George Washington Community High School - Beech Grove High School",
       "url": "https://beechgrove-athletics.com/Event/3940906e-e9fd-4384-9d2d-7b357a9a8ec6",
       "published": null,
-      "fetched_at": "2026-09-29T01:25:06+00:00",
+      "fetched_at": "2026-09-30T00:38:26+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
       "text": "Home\nEvents\nGeorge Washington Community High School\nSoccer (Boys V)"
     },
     {
-      "id": "4c0cae9c1293a430598f9251",
+      "id": "6793523982894993f7f6455c",
+      "source": "Beech Grove Athletics",
+      "source_scope": "southside",
+      "category": "sports",
+      "item_type": "listing_or_page",
+      "title": "Event: Brown County High School - Beech Grove High School",
+      "url": "https://beechgrove-athletics.com/Event/142ffa81-7b9a-494a-84c3-bf2c5c048bab",
+      "published": null,
+      "fetched_at": "2026-09-30T00:38:25+00:00",
+      "matched_keywords": [
+        "Beech Grove"
+      ],
+      "text": "Home\nEvents\nBrown County High School\nSoccer (Boys V)"
+    },
+    {
+      "id": "dcec8a7be564e7280040a575",
       "source": "Beech Grove Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1076,13 +1216,44 @@
       "title": "Beech Grove High School",
       "url": "https://beechgrove-athletics.com",
       "published": null,
-      "fetched_at": "2026-09-29T01:25:05+00:00",
+      "fetched_at": "2026-09-30T00:38:24+00:00",
       "matched_keywords": [
+        "Franklin Central",
         "Beech Grove",
         "Roncalli",
         "Whiteland"
       ],
-      "text": "50 | Girls Soccer v Roncalli (Photos: David Dixon)\n25 | Volleyball v. Tri-West (Photos: David Dixon)\n54 | Boys Tennis v. Southwestern (Photos: David Dixon)\n67 | Flag Football v. Kipp (Photos: David Dixon)\n58 | Cross Country @ Whiteland (Photos: Quinten Starks)\n57 | B&G Cross Country County (Photos: David Dixon)\n54 | BG Football v. PMHS (Photos: David Dixon)\n43 | Girls Golf v. Shelbyville (Photos: David Dixon)\n62 | Flag Football Jamboree (Photos: David Dixon)\n70 | Veterans Memorial Dedication (Photos: David Dixon)\n17 | Buzzin' Through the Summer - Soccer, Cheer, Volleyball, GBBall\n14 | Buzzin' Through the Summer - Cross Country\n40 | Buzzin' Through the Summer - Girls' Basketball\n34 | Buzzin' Through the Summer - Boys' Basketball\nLATEST NEWS\nUPCOMING EVENTS\nRECENT POSTS By @TheHiveBGHS\nNews: Flag Football Looks to Capitalize in Postseason Play https://t.co/08Ya6L34HU pic.twitter.com/VElrs2fmqS\n#IGBRR ALL IN SHOWCASE #PPC26 Thank you so much @COACHBECKETT @mariyah_reneee @Coach_SRansom @TheHiveBGHS 🧡🖤🏀 pic.twitter.com/FY9pAeIcUC\n🚨Mark your calendars🚨 • First day of IHSAA GBB tryouts is Monday, Oct 19‼️ @TheHiveBGHS pic.twitter.com/o3b3WILxqw\n🏈 Final Score: Beech Grove Hornets 20 - Monrovia Bulldogs 14! 20 unanswered points by the Hornets to complete the comeback victory! #HornetProud #BeLegendary pic.twitter.com/nF11cFHVGq\n🚨 HOMECOMING GAME! 🚨 It's a big night for the Hornets. We host conference rival Monrovia for HOMECOMING. Let's get loud in the stands! 🏈 - Varsity Football ⏰ - 7:00 PM 📍 - Beech Grove High School ⚫️ - Theme: Black Out pic.twitter.com/lClqOzwpdT\nSHOW SUPPORT FOR Beech Grove High School\nLong's Bakery\nStateFarm\nIndiana Army National Guard\nAlford Insurance Services\nPeterman Brothers\nEllis Orthodontics\nBone Dry Roofing\nPlanet Fitness\nJefferson & Mary Shreve Foundation\nRosebud Flowers & Gifts\nUniversity of Indianapolis"
+      "text": "50 | Girls Soccer v Roncalli (Photos: David Dixon)\n25 | Volleyball v. Tri-West (Photos: David Dixon)\n54 | Boys Tennis v. Southwestern (Photos: David Dixon)\n67 | Flag Football v. Kipp (Photos: David Dixon)\n58 | Cross Country @ Whiteland (Photos: Quinten Starks)\n57 | B&G Cross Country County (Photos: David Dixon)\n54 | BG Football v. PMHS (Photos: David Dixon)\n43 | Girls Golf v. Shelbyville (Photos: David Dixon)\n62 | Flag Football Jamboree (Photos: David Dixon)\n70 | Veterans Memorial Dedication (Photos: David Dixon)\n17 | Buzzin' Through the Summer - Soccer, Cheer, Volleyball, GBBall\n14 | Buzzin' Through the Summer - Cross Country\n40 | Buzzin' Through the Summer - Girls' Basketball\n34 | Buzzin' Through the Summer - Boys' Basketball\nLATEST NEWS\nUPCOMING EVENTS\nRECENT POSTS By @TheHiveBGHS\n🚨Mark your calendars🚨 • First day of IHSAA GBB tryouts is Monday, Oct 19‼️ @TheHiveBGHS pic.twitter.com/euWYCZKjbE\nDid you know admission is FREE to the IHSAA Boys Tennis Sectionals tomorrow through Oct. 3? And be sure to BUY A TICKET to Saturday's Unified Flag Football Sectionals, presented by @Old_National , at https://t.co/iprvLUzBc9 ! #ItStartsHere https://t.co/k8xUylFbRs\n🚨 SECTIONAL MATCH UP! 🚨 It's tournament time! BGHS boys tennis will travel to Franklin Central tonight to face the Flashes. It's round one of the tennis sectionals. Good luck Hornets! 🎾 - Varsity Tennis ⏰ - 4:30 PM 📍 - Franklin Central HS pic.twitter.com/Cpt8XvtG9Y\n🚨 SENIOR NIGHT! 🚨 Girls Volleyball will celebrate senior night tonight! Join us at BGHS as the Hornets host Purdue Poly! 🏐 - Girls Volleyball ⏰ - JV 5:30 | V 7:00 PM 📍 - BGHS pic.twitter.com/uFgbNftny2\n🚨 SENIOR NIGHT! 🚨 Join us as BGHS boys soccer host the Brown County Eagles this evening! Let’s show support for our seniors in their last regular season home game! Go Hornets! ⚽️ - Varsity Soccer ⏰ - 6:00 PM 📍 - Everwise Veterans Stadium pic.twitter.com/vwHtVWPLE4\nSHOW SUPPORT FOR Beech Grove High School\nLong's Bakery\nStateFarm\nIndiana Army National Guard\nAlford Insurance Services\nPeterman Brothers\nEllis Orthodontics\nBone Dry Roofing\nPlanet Fitness\nJefferson & Mary Shreve Foundation\nRosebud Flowers & Gifts\nUniversity of Indianapolis"
+    },
+    {
+      "id": "6349d26e2fc0802864cfb47e",
+      "source": "Beech Grove School Board",
+      "source_scope": "southside",
+      "category": "school_board",
+      "item_type": "listing_or_page",
+      "title": "Beech Grove School Board",
+      "url": "https://bgcs.k12.in.us/district-school-board-information",
+      "published": null,
+      "fetched_at": "2026-09-30T00:38:23+00:00",
+      "matched_keywords": [
+        "Beech Grove"
+      ],
+      "text": ""
+    },
+    {
+      "id": "d0d87a3297a5f19eb78274e8",
+      "source": "Beech Grove City Schools",
+      "source_scope": "southside",
+      "category": "school_district",
+      "item_type": "listing_or_page",
+      "title": "Beech Grove City Schools",
+      "url": "https://bgcs.k12.in.us",
+      "published": null,
+      "fetched_at": "2026-09-30T00:38:22+00:00",
+      "matched_keywords": [
+        "Beech Grove"
+      ],
+      "text": ""
     },
     {
       "id": "22508aafe152481fb511e3b4",
@@ -1093,7 +1264,7 @@
       "title": "The City of Beech Grove",
       "url": "https://www.beechgrove.com/watch-city-meetings",
       "published": null,
-      "fetched_at": "2026-09-29T01:24:40+00:00",
+      "fetched_at": "2026-09-30T00:38:19+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
@@ -1108,14 +1279,14 @@
       "title": "2026 Calendar of Events | City of Beech Grove",
       "url": "https://www.beechgrove.com/yearly-calendar-of-events",
       "published": null,
-      "fetched_at": "2026-09-29T01:24:28+00:00",
+      "fetched_at": "2026-09-30T00:38:07+00:00",
       "matched_keywords": [
         "Beech Grove"
       ],
       "text": "OUR CITY About Beech Grove Annual Events and Festivals 2026 Calendar of Events 2026 Sponsorship Opportunities Mayor's Clean City Initiative Calendar Job Openings\nAbout Beech Grove\nAnnual Events and Festivals 2026 Calendar of Events\n2026 Calendar of Events\n2026 Sponsorship Opportunities\nMayor's Clean City Initiative\nCalendar\nJob Openings\nMAYOR'S OFFICE Mayor's Action Center Department Heads NEWS CENTER\nMayor's Action Center\nDepartment Heads\nNEWS CENTER\nClerk-Treasurer's Office Beech Grove Sewage Works Document Center\nBeech Grove Sewage Works\nDocument Center\nGOVERNMENT Common Council Residential Parking Permit Survey 2026 Rezone Petitions Boards and Commissions Board of Sanitation/Public Works and Safety Parks Board Redevelopment Commission Board of Zoning Appeals Greenscape Commission Watch City Meetings\nCommon Council Residential Parking Permit Survey 2026 Rezone Petitions\nResidential Parking Permit Survey\n2026 Rezone Petitions\nBoards and Commissions Board of Sanitation/Public Works and Safety Parks Board Redevelopment Commission Board of Zoning Appeals Greenscape Commission\nBoard of Sanitation/Public Works and Safety\nParks Board\nRedevelopment Commission\nBoard of Zoning Appeals\nGreenscape Commission\nWatch City Meetings\nSERVICES Parks Department Department of Public Works Elton Geshwiler Senior Center Beech Grove Police Department Remembering Officer Brian Elliott EMS Department Hornet Park Community Center Beech Grove City Court Compliance Stormwater Utility\nParks Department\nDepartment of Public Works\nElton Geshwiler Senior Center\nBeech Grove Police Department Remembering Officer Brian Elliott\nRemembering Officer Brian Elliott\nEMS Department\nHornet Park Community Center\nBeech Grove City Court\nCompliance\nStormwater Utility\nBUSINESS Building Commissioner & Permits Greater Beech Grove Chamber of Commerce\nBuilding Commissioner & Permits\nGreater Beech Grove Chamber of Commerce\n2026 Beech Grove Events\nmovies by the bonfire 2026\nOctober 2, 9, 16, 23, 30\nMovies by the Bonfire is returning for its third year in a row!\nJoin us at the Community Center on Fridays in October for some classic Fall and Halloween movies! This event is free to the community and includes popcorn and smores.\nmayor's clean city recycling days\nMarch 7, June 6, September 5, November 7\nMark your calendars for this year's free recycling Saturdays! Bring any of the items listed, and have them recycled for free. Just drive up behind City Hall at 806 Main Street, and we will have people to help you unload. Thank you to our partners – Beech Grove Lions Club, Beech Grove Drug Free Coalition, Hanna’s Wrecker Service and Eco Shred – who help us with event to keep us a Indiana Clean Community!\nmusic on main\nOctober 3, 5-9p\nThe Beech Grove Public Safety Foundation and Next Stop, Beech Grove are coming together for an evening of music, food, and community with an important purpose: helping send as many Beech Grove Police officers as possible to National Police Week 2027 in Washington, D.C.\nDuring"
     },
     {
-      "id": "d158a8eecee548d42f1f3d96",
+      "id": "e59fa52c3aec057cd662e24a",
       "source": "Southport Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1123,15 +1294,15 @@
       "title": "Events - Southport Cardinals",
       "url": "https://www.southportcardinals.com/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:24:15+00:00",
+      "fetched_at": "2026-09-30T00:37:53+00:00",
       "matched_keywords": [
         "Perry Meridian",
         "Southport"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nVolleyball (Girls Junior Varsity)\nIndianapolis Lutheran (A)\nMon, Sep. 28 2026 6:00 PM EDT\nMon, Sep. 28 2026\n6:00 PM EDT\nIndianapolis Lutheran\nDETAILS\nSoccer (Boys Varsity)\nColumbus North (H)\nSouthport High School (Holder Turf)\nTICKETS DETAILS\nFootball (Boys Junior Varsity)\nCrispus Attucks (H)\nSouthport Middle School\nSoccer (Girls Junior Varsity)\nTriton Central High School (H)\nSouthport High School\nUnified Flag Football\nWestfield High School (H)\nMon, Sep. 28 2026 7:00 PM EDT\n7:00 PM EDT\nSouthport High School (Cardinal Stadium)\nVolleyball (Girls Varsity)\nSoccer (Boys Junior Varsity)\nMon, Sep. 28 2026 7:30 PM EDT\n7:30 PM EDT\nSouthport\nSoccer (Girls Varsity)\nMooresville High School (H)\nTennis (Boys Varsity)\nSectionals (A) State Tournament\nSectionals (A)\nState Tournament\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nPerry Meridian High School\nSoccer (Boys C)\nBen Davis High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nBen Davis High School\nMiddle School Athletics\nSMS vs CN (H)\nTue, Sep. 29 2026 6:00 PM EDT\nSectional Finals (A) State Tournament\nSectional Finals (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nMarion County RD 1 (H) Tournament\nMarion County RD 1 (H)\nTournament\nWed, Sep. 30 2026 5:30 PM EDT\nSouthport High School (Southport Fieldhouse)\nWed, Sep. 30 2026 7:00 PM EDT\nCross Country (Girls Varsity)\nGreensburg Invite (A) Invitational\nGreensburg Invite (A)\nInvitational\nThu, Oct. 1 2026 5:30 PM EDT\nThu, Oct. 1 2026\nGreensburg Community High School\nSHOW SUPPORT FOR Southport Cardinals"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nTennis (Boys Varsity)\nSectionals (A) State Tournament\nSectionals (A)\nState Tournament\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nPerry Meridian High School\nDETAILS\nSoccer (Boys C)\nBen Davis High School (A)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nBen Davis High School\nMiddle School Athletics\nSMS vs CN (H)\nTue, Sep. 29 2026 6:00 PM EDT\n6:00 PM EDT\nSouthport High School (Cardinal Stadium)\nCanceled: Sectional Finals (A) State Tournament\nCanceled:\nSectional Finals (A)\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nVolleyball (Girls Varsity)\nMarion County RD 1 (H) Tournament\nMarion County RD 1 (H)\nTournament\nWed, Sep. 30 2026 5:30 PM EDT\nSouthport High School (Southport Fieldhouse)\nTICKETS DETAILS\nWed, Sep. 30 2026 7:00 PM EDT\n7:00 PM EDT\nCross Country (Girls Varsity)\nGreensburg Invite (A) Invitational\nGreensburg Invite (A)\nInvitational\nThu, Oct. 1 2026 5:30 PM EDT\nThu, Oct. 1 2026\nGreensburg Community High School\nSoftball (Girls Varsity) Practice\nSHS-Softball\nHolder Softball\nCross Country (Boys Varsity)\nMarion County Quarterfinals (A) Tournament\nMarion County Quarterfinals (A)\nTBD\nSoccer (Boys Junior Varsity)\nBrownsburg High School (H)\nThu, Oct. 1 2026 6:00 PM EDT\nSouthport High School (Holder Turf)\nSoccer (Boys Varsity)\nThu, Oct. 1 2026 7:30 PM EDT\n7:30 PM EDT\nGolf (Girls Varsity)\nCanceled: State Finals (A) State Tournament\nState Finals (A)\nFri, Oct. 2 2026 TBD\nFri, Oct. 2 2026\nBattle Ground GC\nFootball (Boys Varsity)\nMt Vernon High School (Fortville) (A)\nFri, Oct. 2 2026 7:00 PM EDT\nMt Vernon High School (Fortville)\nSat, Oct. 3 2026 TBD\nSat, Oct. 3 2026\nSHOW SUPPORT FOR Southport Cardinals"
     },
     {
-      "id": "e465952fa0a76098d416c20b",
+      "id": "daa4c32668cb7eec52bdfd0b",
       "source": "Southport Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1139,17 +1310,15 @@
       "title": "Southport Cardinals",
       "url": "https://www.southportcardinals.com",
       "published": null,
-      "fetched_at": "2026-09-29T01:24:14+00:00",
+      "fetched_at": "2026-09-30T00:37:52+00:00",
       "matched_keywords": [
         "Perry Township",
-        "Perry Meridian",
-        "Southport",
-        "Greenwood"
+        "Southport"
       ],
-      "text": "LATEST NEWS\nUPCOMING EVENTS\nRECENT POSTS\nToday’s Cardinal Calendar 🗓️ 🔴 Girls JV 🏐 at Lutheran 6PM ⚪️ Boys V ⚽️ vs CN 6PM ⚫️ JV 🏈 vs Attucks at SMS 6PM 🔴 Girls JV ⚽️ vs TC 6PM ⚪️ Unified Flag 🏈 vs Westfield 7PM ⚫️ Girls V 🏐 at Lutheran 7PM 🔴 Boys JV ⚽️ vs CN 7:30 PM ⚪️ Girls V ⚽️ vs Mooresville 7:30 PM\nSectional draws for boys and girls ⚽️ and boys 🎾 are in! Our boys soccer team will face Greenfield Central in game one at Greenwood. Our girls soccer team will face Greenwood at Greenfield Central. Our boys tennis team will face Decatur Central at Perry Meridian. #WeUsOurs pic.twitter.com/KWV32w6OiE\nBoys tennis sectional play begins this week, as does the Marion County Tournament for girls volleyball. Our unified flag football team also has sectional play on Saturday! Come on out and support your Cardinals! #WeUsOurs 🔴⚪️⚫️ pic.twitter.com/G5GZJz4Ssc\nSophie Shively competed at today’s IHSAA golf regional at The Legends. She shot a 91 today. Sophie did not qualify for state finals, but she had an outstanding season! Thank you to Coach Bob and Coach Scott for everything you do for Southport Girls Golf! #WeUsOurs 🔴⚪️⚫️⛳️🏌️‍♀️ pic.twitter.com/Pbx307cH3q\nGirls cross county finished 5th, and boys cross country finished 7th, at today’s Ted Fox Invite in Bedford. #WeUsOurs 🔴⚪️⚫️🏃‍♀️🏃‍♂️ pic.twitter.com/9CUd9jHXdF\nGALLERIES\n3 | Golf (Girls Varsity) Scores\nImperial Water Conditioning\nINDUSTRIAL ELECTRIC, INC.\nCrumbl\nPerry Township Education Foundation"
+      "text": "LATEST NEWS\nUPCOMING EVENTS\nRECENT POSTS\nSome final scores from earlier tonight Unified flag football fell to Westfield 34-36 JV boys soccer fell to Columbus North 1-4 JV football fell to Attucks 0-32 Varsity soccer fell to Mooresville 0-3\nSouthport Boys Varsity Soccer defeats #16 Columbus North 2-0! The girls JV team defeated Triton Central 2-1! #WeUsOurs 🔴⚪️⚫️⚽️ pic.twitter.com/wdIfgrt6rr\nSouthport varsity volleyball wins a 5 set thriller at Lutheran! 22-25, 25-19, 25-20, 24-26, 16-14 Varsity improves to 21-2 on the season! The JV team also won 2-0. #WeUsOurs 🔴⚪️⚫️🏐 pic.twitter.com/FdtceSCe0O\nCongratulations to Hallie Rieck! She broke the school record for aces in a season during tonight’s game at Lutheran! #WeUsOurs 🔴⚪️⚫️🏐 @Brian_Haenchen pic.twitter.com/AXqrA7Dep7\nToday’s Cardinal Calendar 🗓️ 🔴 Girls JV 🏐 at Lutheran 6PM ⚪️ Boys V ⚽️ vs CN 6PM ⚫️ JV 🏈 vs Attucks at SMS 6PM 🔴 Girls JV ⚽️ vs TC 6PM ⚪️ Unified Flag 🏈 vs Westfield 7PM ⚫️ Girls V 🏐 at Lutheran 7PM 🔴 Boys JV ⚽️ vs CN 7:30 PM ⚪️ Girls V ⚽️ vs Mooresville 7:30 PM\nGALLERIES\n3 | Golf (Girls Varsity) Scores\nImperial Water Conditioning\nINDUSTRIAL ELECTRIC, INC.\nCrumbl\nPerry Township Education Foundation"
     },
     {
-      "id": "017851090a8d3d77439b2a5b",
+      "id": "8b75b2a61f2b1f546bd5dbcc",
       "source": "Perry Meridian Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1157,16 +1326,15 @@
       "title": "Perry Meridian High School Athletics",
       "url": "https://www.pmhsfalcons.com/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:24:04+00:00",
+      "fetched_at": "2026-09-30T00:37:40+00:00",
       "matched_keywords": [
         "Perry Meridian",
-        "Greenwood",
-        "Indian Creek"
+        "Greenwood"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nB_SO_V\nMartinsville High School (A)\nMon, Sep. 28 2026 5:30 PM EDT\nMon, Sep. 28 2026\n5:30 PM EDT\nMartinsville High School\nDETAILS\nB/G_UFB\nIndian Creek Sr High School (A)\nIndian Creek Sr High School\nB_SO_JV\nMon, Sep. 28 2026 7:30 PM EDT\n7:30 PM EDT\nB_TEN\nSectional (H) State Tournament\nSectional (H)\nState Tournament\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nPerry Meridian High School (Perry Meridian Tennis)\nG_SO_V\nGreenwood Christian Academy (H)\nPerry Meridian High School (Holder Turf)\nTICKETS DETAILS\nBrownsburg High School (H)\nTue, Sep. 29 2026 5:30 PM EDT\nPerry Meridian High School (Falcon Stadium)\nG_VB_JV\nMartinsville High School (H)\nPerry Meridian High School (Main Gym)\nG_VB_FR\nCanceled: Martinsville High School (H)\nCanceled:\nPerry Meridian High Schoo\nG_VB_V\nTue, Sep. 29 2026 6:30 PM EDT\n6:30 PM EDT\nPerry Meridian High Schoo (Main Gym)\nB_SO_C\nCanceled: Bishop Chatard High School (A)\nBishop Chatard High School (A)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nBishop Chatard High School\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nMarion County vs. Speedway (A) Tournament\nMarion County vs. Speedway (A)\nTournament\nWed, Sep. 30 2026 5:30 PM EDT\nWarren Central High School\nCascade High School (H)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nMarion County vs. BD/WC (A) Tournament\nMarion County vs. BD/WC (A)\nThu, Oct. 1 2026 5:30 PM EDT\nLawrence North High School\nSHOW SUPPORT FOR Perry Meridian High School Athletics"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nB_TEN\nSectional (H) State Tournament\nSectional (H)\nState Tournament\nTue, Sep. 29 2026 5:00 PM EDT\nTue, Sep. 29 2026\n5:00 PM EDT\nPerry Meridian High School (Perry Meridian Tennis)\nDETAILS\nG_SO_V\nGreenwood Christian Academy (H)\nPerry Meridian High School (Holder Turf)\nTICKETS DETAILS\nB/G_UFB\nBrownsburg High School (H)\nTue, Sep. 29 2026 5:30 PM EDT\n5:30 PM EDT\nPerry Meridian High School (Falcon Stadium)\nG_VB_JV\nMartinsville High School (H)\nPerry Meridian High School (Main Gym)\nG_VB_FR\nCanceled: Martinsville High School (H)\nCanceled:\nPerry Meridian High Schoo\nG_VB_V\nTue, Sep. 29 2026 6:30 PM EDT\n6:30 PM EDT\nPerry Meridian High Schoo (Main Gym)\nB_SO_C\nCanceled: Bishop Chatard High School (A)\nBishop Chatard High School (A)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nBishop Chatard High School\nWed, Sep. 30 2026 5:00 PM EDT\nWed, Sep. 30 2026\nMarion County vs. Speedway (A) Tournament\nMarion County vs. Speedway (A)\nTournament\nWed, Sep. 30 2026 5:30 PM EDT\nWarren Central High School\nCascade High School (H)\nThu, Oct. 1 2026 5:00 PM EDT\nThu, Oct. 1 2026\nMarion County vs. BD/WC (A) Tournament\nMarion County vs. BD/WC (A)\nThu, Oct. 1 2026 5:30 PM EDT\nLawrence North High School\nB/G_CC\nNike XC Town Twilight Night #1 (A)\nFri, Oct. 2 2026 6:00 PM EDT\nFri, Oct. 2 2026\n6:00 PM EDT\nTerre Haute South Vigo\nB_FB_V\nMartinsville High School (A)\nFri, Oct. 2 2026 7:00 PM EDT\nMartinsville High School\nUnified Flag Sectional (A) State Tournament\nUnified Flag Sectional (A)\nSat, Oct. 3 2026 9:00 AM EDT\nSat, Oct. 3 2026\n9:00 AM EDT\nBrownsburg High School\nSHOW SUPPORT FOR Perry Meridian High School Athletics"
     },
     {
-      "id": "a66ec3ed541fb605257314ac",
+      "id": "3ed194cb6b22e853b6e525ef",
       "source": "Franklin Central Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1174,14 +1342,14 @@
       "title": "Franklin Central High School Athletics",
       "url": "https://fcflashes.org/Events",
       "published": null,
-      "fetched_at": "2026-09-29T01:23:58+00:00",
+      "fetched_at": "2026-09-30T00:37:33+00:00",
       "matched_keywords": [
         "Franklin Central"
       ],
-      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nVolleyball (Girls JV White)\nNew Palestine High School (A)\nMon, Sep. 28 2026 6:00 PM EDT\nMon, Sep. 28 2026\n6:00 PM EDT\nNew Palestine High School\nDETAILS\nVolleyball (Girls JV Blue)\nNew Palestine (A)\nSoccer (Girls JV)\nBrownsburg (H)\nFranklin Central High School (Soccer - Varsity)\nTICKETS DETAILS\nSoccer (Boys JV White)\nInd. Cathedral (A)\nInd. Cathedral\nUnified Flag Football\nAvon (H)\nMon, Sep. 28 2026 6:30 PM EDT\n6:30 PM EDT\nFranklin Central High School (Stadium - Aux (East Field))\nVolleyball (Girls V)\nMon, Sep. 28 2026 7:15 PM EDT\n7:15 PM EDT\nSoccer (Girls V)\nMon, Sep. 28 2026 7:30 PM EDT\n7:30 PM EDT\nTennis (Boys V)\nSectional (H)\nTue, Sep. 29 2026 4:30 PM EDT\nTue, Sep. 29 2026\n4:30 PM EDT\nFranklin Central High School (Tennis Complex)\nSoccer (Boys JV Blue)\nNoblesville (H)\nTue, Sep. 29 2026 6:00 PM EDT\nSoccer (Boys V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSectional (H) Tournament\nTournament\nWed, Sep. 30 2026 4:30 PM EDT\nWed, Sep. 30 2026\nMarion County (A) Tournament\nMarion County (A)\nWed, Sep. 30 2026 6:00 PM EDT\nNorth Central\nNoblesville (A)\nNoblesville High School\nFishers High School (A)\nFishers\nFishers High School (H)\nWed, Sep. 30 2026 6:30 PM EDT\nFranklin Central High School (Stadium - Main)\nSHOW SUPPORT FOR Franklin Central High School Athletics"
+      "text": "Home\nEvents\nNext »\nCalendar\nEvent\nDate\nLocation\nDetails and Tickets buttons\nTennis (Boys V)\nSectional (H)\nTue, Sep. 29 2026 4:30 PM EDT\nTue, Sep. 29 2026\n4:30 PM EDT\nFranklin Central High School (Tennis Complex)\nDETAILS\nSoccer (Boys JV Blue)\nNoblesville (H)\nTue, Sep. 29 2026 6:00 PM EDT\n6:00 PM EDT\nFranklin Central High School (Soccer - Varsity)\nTICKETS DETAILS\nSoccer (Boys V)\nTue, Sep. 29 2026 7:00 PM EDT\n7:00 PM EDT\nSectional (H) Tournament\nTournament\nWed, Sep. 30 2026 4:30 PM EDT\nWed, Sep. 30 2026\nVolleyball (Girls V)\nMarion County (A) Tournament\nMarion County (A)\nWed, Sep. 30 2026 6:00 PM EDT\nNorth Central\nSoccer (Girls JV)\nNoblesville (A)\nNoblesville High School\nFishers High School (A)\nFishers\nUnified Flag Football\nFishers High School (H)\nWed, Sep. 30 2026 6:30 PM EDT\n6:30 PM EDT\nFranklin Central High School (Stadium - Main)\nSoccer (Boys JV White)\nFishers (A)\nSoccer (Girls V)\nWed, Sep. 30 2026 7:30 PM EDT\n7:30 PM EDT\nNoblesville\nSectional Finals (H) Tournament\nSectional Finals (H)\nThu, Oct. 1 2026 4:30 PM EDT\nThu, Oct. 1 2026\nInd. Scecina (H)\nThu, Oct. 1 2026 5:30 PM EDT\n5:30 PM EDT\nHamilton Southeastern (A)\nThu, Oct. 1 2026 6:00 PM EDT\nHamilton Southeastern\nVolleyball (Girls JV Blue)\nCanceled: Lawrence Central (A)\nCanceled:\nLawrence Central (A)\nLawrence Central\nSHOW SUPPORT FOR Franklin Central High School Athletics"
     },
     {
-      "id": "5040d1c16a22f1170151e5ee",
+      "id": "dc710a53dbe01c5822b7ed93",
       "source": "Franklin Central Athletics",
       "source_scope": "southside",
       "category": "sports",
@@ -1189,11 +1357,11 @@
       "title": "Franklin Central High School Athletics",
       "url": "https://fcflashes.org",
       "published": null,
-      "fetched_at": "2026-09-29T01:23:56+00:00",
+      "fetched_at": "2026-09-30T00:37:31+00:00",
       "matched_keywords": [
         "Franklin Central"
       ],
-      "text": "LATEST NEWS\nVolleyball (Girls V) | September 25, 2026\nFranklin Central High School | September 23, 2026\nGolf (Girls V) | September 22, 2026\nGolf (Girls V) | September 14, 2026\nGolf (Girls V) | September 9, 2026\nUPCOMING EVENTS\nGALLERIES\nNo images have been published yet.\nRECENT POSTS\nSHOW SUPPORT FOR Franklin Central High School Athletics\nCommunity Health Network\nRay Skillman\nEverwise Credit Union\nAce Handyman\nSmoothie King\nWingStop"
+      "text": "LATEST NEWS\nSoccer (Girls V) | September 29, 2026\nTrack & Field (Boys V) | September 29, 2026\nVolleyball (Girls V) | September 25, 2026\nFranklin Central High School | September 23, 2026\nGolf (Girls V) | September 22, 2026\nUPCOMING EVENTS\nGALLERIES\nNo images have been published yet.\nRECENT POSTS\nSHOW SUPPORT FOR Franklin Central High School Athletics\nCommunity Health Network\nRay Skillman\nEverwise Credit Union\nAce Handyman\nSmoothie King\nWingStop"
     }
   ],
   "errors": [
@@ -1215,7 +1383,7 @@
     },
     {
       "url": "https://onbase.townofbargersville.org/AppNetPA/publicforms/docsearch/document.html",
-      "error": "SSLError: HTTPSConnectionPool(host='onbase.townofbargersville.org', port=443): Max retries exceeded with url: /AppNetPA/publicforms/docsearch/document.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
+      "error": "SSLError: HTTPSConnectionPool(host='onbase.townofbargersville.org', port=443): Max retries exceeded with url: /AppNetPA/publicforms/docsearch/document.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
     },
     {
       "url": "https://dailyjournal.net/feed",
