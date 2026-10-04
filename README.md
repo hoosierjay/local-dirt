@@ -1,7 +1,7 @@
 # local-dirt
 Local Government Data Analysis Tool
 
-METROLOCAL INDY SOUTH — COLLECTOR
+LOCAL DIRT — LOCAL GOVERNMENT DATA COLLECTOR
 
 ## WHAT THIS DOES
 This is intentionally a COLLECTOR, not an editor.
@@ -59,22 +59,22 @@ Open Command Prompt / PowerShell in this folder:
     py -m pip install -r requirements.txt
 
 ## MANUAL RUN
-    py metro_local_collector.py
+    py local_dirt.py
 
 The output is:
 
-    output\latest.json
+    output\digest_latest.json
 
 A timestamped copy is also written each run.
 
 ## FORCE EVERYTHING TO RUN NOW
 If you want to ignore all refresh timers:
 
-    py metro_local_collector.py --force-refresh
+    py local_dirt.py --force-refresh
 
 If you also want previously-seen items included:
 
-    py metro_local_collector.py --force-refresh --all
+    py local_dirt.py --force-refresh --all
 
 ## STATE FILES
 seen_items.json
@@ -97,7 +97,7 @@ The simplest Windows setup is Task Scheduler:
 4. Action: Start a program
 5. Program/script: py
 6. Arguments:
-       metro_local_collector.py
+       local_dirt.py
 7. Start in:
        the folder containing this script
 
@@ -137,7 +137,7 @@ Failures are recorded in the JSON "errors" section and do not stop the
 rest of the collection.
 
 ## SUGGESTED AI PROMPT
-Upload output\latest.json and say:
+Upload output\digest_latest.json and say:
 
 "Act as the editor of a concise Southside Indianapolis local-news account.
 Do not summarize everything. Review every item in this JSON, merge duplicate

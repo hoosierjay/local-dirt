@@ -33,7 +33,7 @@ jobs:
 
       # Step 4: Execute your script
       - name: Run Python Script
-        run: python metro_local_collector.py  
+        run: python local_dirt.py  
 
       # Step 5: Commit and push the output file
       - name: Commit and Push Output

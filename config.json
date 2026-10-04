@@ -1,11 +1,11 @@
 {
-  "project_name": "MetroLocal Indy South",
+  "project_name": "Local Dirt Forsyth County",
   "output_dir": "output",
   "state_file": "seen_items.json",
   "request": {
     "timeout_seconds": 20,
     "sleep_seconds_between_requests": 1.0,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 MetroLocal-IndySouth/0.2 (+local public-information collector; contact: YOUR_EMAIL_HERE)",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 LocalDirt/0.2 (+local public-information collector; contact: YOUR_EMAIL_HERE)",
     "respect_robots_txt": true,
     "robots_exempt_domains": [
       "johnsoncounty.in.gov",
