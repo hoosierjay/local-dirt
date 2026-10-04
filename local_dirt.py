@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MetroLocal collector
+Local Dirt Collector
 --------------------
 Purpose:
     Collect public information from a configurable list of local websites and
