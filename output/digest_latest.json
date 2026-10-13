@@ -1,8 +1,8 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T20:34:32+00:00",
-  "finished_at": "2026-10-13T20:35:18+00:00",
-  "item_count": 16,
+  "started_at": "2026-10-13T20:46:48+00:00",
+  "finished_at": "2026-10-13T20:49:03+00:00",
+  "item_count": 73,
   "error_count": 0,
   "checked_source_count": 12,
   "skipped_source_count": 0,
@@ -13,313 +13,1069 @@
     "Some websites may block automated requests, render content with JavaScript, or require source-specific handling.",
     "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate."
   ],
-  "stale_skipped_count": 2,
-  "robots_blocked_count": 0,
-  "robots_blocked": [],
+  "stale_skipped_count": 183,
+  "robots_blocked_count": 1,
+  "robots_blocked": [
+    "https://www.forsyth.k12.ga.us"
+  ],
   "checked_sources": [
     {
       "source": "Forsyth County Government",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:34:50+00:00"
+      "checked_at": "2026-10-13T20:47:13+00:00"
     },
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:34:55+00:00"
+      "checked_at": "2026-10-13T20:47:15+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:34:58+00:00"
+      "checked_at": "2026-10-13T20:47:38+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:35:05+00:00"
+      "checked_at": "2026-10-13T20:47:38+00:00"
     },
     {
       "source": "Forsyth County Public Library",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:35:07+00:00"
+      "checked_at": "2026-10-13T20:47:51+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:35:08+00:00"
+      "checked_at": "2026-10-13T20:48:11+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:35:09+00:00"
+      "checked_at": "2026-10-13T20:48:23+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:35:11+00:00"
+      "checked_at": "2026-10-13T20:48:29+00:00"
     },
     {
       "source": "Age Well Forsyth",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:35:13+00:00"
+      "checked_at": "2026-10-13T20:48:42+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:35:14+00:00"
+      "checked_at": "2026-10-13T20:48:47+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:35:17+00:00"
+      "checked_at": "2026-10-13T20:48:50+00:00"
     },
     {
       "source": "Metro Atlanta YMCA",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:35:18+00:00"
+      "checked_at": "2026-10-13T20:49:03+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
     {
+      "id": "a910cb6a69e49a20bbbf76fe",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Cumming Events Calendar for October 13, 2026 - Cumming, GA Patch",
+      "url": "https://patch.com/georgia/cumming/calendar",
+      "published": "2026-10-19T23:30:00.000Z",
+      "fetched_at": "2026-10-13T20:48:13+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "167474dd0039690fcba156b3",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+      "url": "https://patch.com/us/across-america",
+      "published": "2026-10-13T17:21:03Z",
+      "fetched_at": "2026-10-13T20:48:15+00:00",
+      "matched_keywords": [],
+      "text": "If You Used This App, You May Get A Share Of $15.8M Refund\nThe Federal Trade Commission said eligible consumers should get an email on next steps by Oct. 26."
+    },
+    {
+      "id": "9ef3c6bea43d1643bdc1f317",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Atlanta, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
+      "url": "https://patch.com/georgia/atlanta",
+      "published": "2026-10-13T17:05:39Z",
+      "fetched_at": "2026-10-13T20:48:21+00:00",
+      "matched_keywords": [],
+      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
+    },
+    {
+      "id": "1cd989cf40c91ddb9fde00a4",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "South Cobb, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
+      "url": "https://patch.com/georgia/southcobb",
+      "published": "2026-10-13T17:05:39Z",
+      "fetched_at": "2026-10-13T20:48:20+00:00",
+      "matched_keywords": [],
+      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
+    },
+    {
+      "id": "4f814f1d7b24461e054305cc",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
+      "url": "https://patch.com/georgia/cumming",
+      "published": "2026-10-13T17:05:39Z",
+      "fetched_at": "2026-10-13T20:48:12+00:00",
+      "matched_keywords": [],
+      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
+    },
+    {
+      "id": "9729491123c66cf911dfa02f",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Local Event: Discover Hope, Forgiveness, and New Life in Christ",
+      "url": "https://patch.com/georgia/cumming/calendar/event/20261019/8b6d3b1d-0761-47bb-a6ce-597a3985a3c8/discover-hope-forgiveness-and-new-life-in-christ",
+      "published": "2026-10-13T15:52:16.489Z",
+      "fetched_at": "2026-10-13T20:48:16+00:00",
+      "matched_keywords": [],
+      "text": "Discover Hope, Forgiveness, and New Life in Christ\nEvent Details\nCan you know for certain that your sins are forgiven? What does it mean to be born again?\nJoin Good News Atlanta Church for a three-day Bible Seminar exploring forgiveness, salvation, and the assurance found in Jesus Christ. Guest speaker Pastor Yeong Kook Park will share biblical teaching centered on the promise: “It is God that justifieth.” — Romans 8:33 (KJV)\nWhether you are studying the Bible for the first time or seeking a deeper understanding of your faith, you are warmly invited.\nOctober 19–21, 2026\nMonday: 7:30 PM\nTuesday and Wednesday: 10:30 AM and 7:30 PM\nLocation: Good News Atlanta Church 11000 Rogers Circle, Johns Creek, GA 30097\nBring your questions and invite a friend!\nFor more information, call or text 678-770-6065 or visit goodnewsatl.org ."
+    },
+    {
+      "id": "b4b4643a1d06491e01fcba2d",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Across Georgia Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
+      "url": "https://patch.com/georgia/across-ga",
+      "published": "2026-10-11T17:47:03Z",
+      "fetched_at": "2026-10-13T20:48:18+00:00",
+      "matched_keywords": [],
+      "text": "New Private School Scholarships Could Aid GA Families, But There's A Catch\nGeorgia families could qualify for federal scholarships covering private school tuition, tutoring and more starting in 2027."
+    },
+    {
+      "id": "5f2e13de9ce5c1cc7bb27c10",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Honoring Our First Responders",
+      "url": "https://www.ymcaatlanta.org/events/honoring-our-first-responders",
+      "published": "2026-10-01",
+      "fetched_at": "2026-10-13T20:49:02+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nHonoring Our First Responders\nBreadcrumb\nHome\n20% Off YMCA Membership Dues for First Responders This October\nIn celebration of National First Responders Day, the YMCA of Metro Atlanta is proud to honor the dedicated individuals who serve and protect our communities every day.\nThroughout the month of October, eligible first responders can receive 20% off YMCA membership dues as a thank-you for their service and commitment.\nThis special offer is available to:\nPolice Officers\nFirefighters\nEMTs\nParamedics\nWhether you're looking to prioritize your health and wellness, spend quality time with family, or connect with your community, the YMCA is here to support you.\nJoin the Y This October\nTo take advantage of this limited-time offer, visit your local YMCA branch during the month of October.\nYou can also contact our Membership Assistance Team:\nPhone: 404-267-5353 Email: memberassist@ymcaatlanta.org\nJoin Now\n*Employment verification will be requested. Offer expires October 31, 2026. New members only.\nFooter menu\nYouth Safety\nYMCA OF METRO ATLANTA YMCA of Metro Atlanta Leadership & Learning Center 569 Martin Luther King Jr. Drive NW Atlanta, GA 30314\nCopyright© YMCA o"
+    },
+    {
+      "id": "ecb6ec501e2d5cc8478ae152",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Events",
+      "url": "https://www.ymcaatlanta.org/events",
+      "published": "2026-10-01",
+      "fetched_at": "2026-10-13T20:48:58+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nUpcoming Events\nHonoring Our First Responders\nBring a Friend, Get a Month Free\nSummit Family Y Fall Festival\nNorthwest Family YMCA Spooktacular\nHaunted Hustle 2026\nTHRIVE Resource Fair\nForsyth County Family Y Golf Open\nFooter menu\nYouth Safety\nYMCA OF METRO ATLANTA YMCA of Metro Atlanta Leadership & Learning Center 569 Martin Luther King Jr. Drive NW Atlanta, GA 30314\nCopyright© YMCA of Metro Atlanta. All rights reserved. The YMCA of Metro Atlanta is a 501(c)(3) not-for-profit social services organization dedicated to Youth Development, Healthy Living, and Social Responsibility.\nPrivacy Policy | Terms of Use"
+    },
+    {
+      "id": "d3990f0915cbe05d85abb376",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
+      "published": "2025-03-14T14:25:00-0400",
+      "fetched_at": "2026-10-13T20:47:57+00:00",
+      "matched_keywords": [],
+      "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affect the substantive part of the trial court decision.\n“Council will discuss this matter and proceed in a manner that ensures public access to vital information while protecting the integrity of the investigative process,” Paul said.\nAppen Media brought suit against the city May 2024, claiming it is violating the Open Records Act by denying the newspaper access to initial police officer narratives that are routinely filed during early stages of investigations.\nAfter a Fulton County judge ruled in favor of the city last December, Appen appealed the decision to the higher state court. In its ruling, the Court of Appeals determined, “the trial court’s grant of summary judgment was premature. Genuine issues of material fact remain based on this record and thus the trial court erred by granting summary judgment to the City.”\nThe Georgia Open Records Act maintains that all public records are open for public inspection, but it does allow exceptions. The law provides some latitude for withholding materials surrounding ongoing police investigations. However, initial police crime and incident reports are required to be made available to the public.\nFor over a year, the paper has pushed Sandy Springs for more details about calls its police officers have been dispatched to investigate.\nIn most cases, the agency has returned the requests with one-sentence narratives stating when and where police were dispatched to and, usually, for what reason. Unlike incident reports provided by police agencies in surrounding jurisdictions, the Sandy Springs reports lack details on the nature of the crime, an accounting of property damage, injuries associated with a crime, whether any arrests were made, and whether any suspects have been identified.\nSandy Springs admits that officers responding to incidents generally write more detailed reports in a second document, often written the same day. The city claims in its legal defense that this second report is not part of the initial incident report, and therefore doesn’t have to be disclosed.\nIn its complaint, Appen cited examples of Sandy Springs reports where both documents were created at the same time on the same day. When the newspaper filed open records requests for the reports associated with these incidents, the city only provided the first, one-sentence page.\nAppen noted in its complaint guidance from the Attorney General’s Office that, “A common-sense interpretation of ‘initial incident report’ is that anything written at the same"
+    },
+    {
+      "id": "7e4ab697546353254877db9f",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
+      "published": "2025-02-18T12:24:00-0500",
+      "fetched_at": "2026-10-13T20:48:01+00:00",
+      "matched_keywords": [],
+      "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy topics, like the tragic death of Roswell Police Officer Jeremy Labonte. For a hometown news group, connecting to the reporting is key. We’re lucky to have someone with the reporting and photo chops Sarah brings. The fact that already has roots here just makes it that much better.”\nCoyne grew up in Alpharetta and graduated from the University of Georgia in Dec. 2024 with a degree in journalism. During her time at Georgia, Coyne took courses in investigative reporting, international affairs and photojournalism. Alongside her coursework, Coyne served as the city and county beat reporter for The Oglethorpe Echo.\n“I’m so excited to be able to write for the newspaper that I grew up reading,” Coyne said. “I have a passion to inform my audience and through my writing and photography, which I crafted at Grady College.”\nTo contact Coyne with news tips or story ideas, email sarah@appenmedia.com ."
+    },
+    {
+      "id": "767f14fc6f47dbd1a60a5380",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
+      "published": "2025-02-10T16:00:55-0500",
+      "fetched_at": "2026-10-13T20:48:03+00:00",
+      "matched_keywords": [],
+      "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, arts and culture highlights and engaging opinion pieces.\n\"Our readers have expressed a desire for deeper, more narrative-driven content that captures the spirit and unique voices of Decatur and surrounding areas like Tucker, Chamblee and Stone Mountain,\" said Hans Appen, publisher at Appen Media Group. \"We’re excited to bring Decaturish Ink to life and give the community a new platform for thought-provoking journalism.\"\nAppen Media purchased Decaturish.com in 2024 from editor Dan Whisenhunt, who founded the news website in 2013. Increasing the influence and reach of Decaturish.com by adding a print product to the market was a motivating factor for both parties to reach a deal last year.\n“Decaturish Ink is the culmination of more than a decade of providing in-depth, reliable coverage of Decatur and its surrounding neighborhoods,” Whisenhunt said. “It provides an important new way for us to engage with our readers, allowing them to hear all the untold stories of our community. While we are proud of our digital publication, Ink will provide access to many of those stories in a convenient format and exclusive first-run print articles before they appear on Decaturish.com.”\nDecaturish Ink will be published monthly from March to May, bi-weekly starting in June, and will transition to a weekly publication beginning in September. The print publication will complement Decaturish.com's daily online news coverage. The first issue, set to publish March 20, will include new exclusive features and content not previously found on Decaturish.com, and will be delivered to 7,500 single family homes, apartment buildings and businesses in the area.\n\"Decatur is filled with incredible stories waiting to be told,\" Appen said. “With Decaturish Ink, we hope to capture these narratives and create a publication that becomes a source of pride and inspiration for our readers.”\nTo request that your neighborhood receive free delivery of Decaturish Ink, email your address and the name of your neighborhood to circulation@appenmedia.com."
+    },
+    {
+      "id": "511a8a75169de1eb7217b0d9",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Appen Media named legal organ by City of Mountain Park officials — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2025/2/9/appen-media-named-legal-organ-by-city-of-mountain-park-officials",
+      "published": "2025-02-04T18:27:00-0500",
+      "fetched_at": "2026-10-13T20:48:05+00:00",
+      "matched_keywords": [],
+      "text": "Appen Media named legal organ by City of Mountain Park officials\nThe Mountain Park City Council named Appen Media Group its legal organ Jan. 27, joining other Metro Atlanta governments who place their public notices in the company’s newspapers.\nState law requires cities to advertise certain announcements in a paper of record, ensuring public knowledge of official meetings, budgets and other municipal business.\nWith a population of fewer than a thousand, the half-square-mile City of Mountain Park is no different.\nLast year Mountain Park ran ads in the Alpharetta-Roswell Herald notifying the public about property transfers and the fiscal year 2025 budget. The city placed a bulletin about upcoming municipal elections in the paper’s Jan. 23 edition.\nThe City Council's unanimous vote ensures these placements for the future. By designating an official legal organ, the city will secure cost savings while providing residents clear, reliable access to public notices.\nAppen Media Group Publisher Hans Appen wrote that the company’s goal is to engage and inform the community.\n“We are looking forward to the partnership with Mountain Park. Recognizing a paper of record ensures legal compliance, cost savings, and transparent communication of public notice,” Appen said.\nAppen Media Group newspapers are also the legal organs for the cities of Dunwoody, Alpharetta, Johns Creek and Milton."
+    },
+    {
+      "id": "21619f5353966de6178042f3",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "WABE, Appen Media Group/Decaturish sign new partnership agreement — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2025/1/23/wabe-appen-media-groupdecaturish-sign-new-partnership-agreement",
+      "published": "2025-01-23T10:38:01-0500",
+      "fetched_at": "2026-10-13T20:48:07+00:00",
+      "matched_keywords": [],
+      "text": "WABE, Appen Media Group/Decaturish sign new partnership agreement\nWABE and Appen Media Group/Decaturish recently signed a new partnership agreement that will mean more collaboration between the two organizations.\nThe two companies are also discussing a multimedia collaboration to be determined.\nDecaturish editor and founder Dan Whisenhunt led the effort to renew and expand a previous agreement with WABE to include Appen Media, which purchased Decaturish in July 2024.\n“Our original agreement has served us well, but it hadn’t been revisited in a while and didn’t include Appen Media,” Whisenhunt said. “It was important to me that we create a new, comprehensive agreement that left the door open for future expansion.”\nWhisenhunt notes the company’s other productive partnership with Atlanta News First, the local CBS affiliate.\n“Our agreement with ANF and WABE is proof positive that collaborations, when carefully considered and managed, can be mutually beneficial,” he said. “Our readers have benefited from the expanded reach we achieved with access to articles provided by our content partners.”\nAppen Media publisher Hans Appen said the agreement will benefit both organizations.\n“The big winner here is our readers and the communities we serve,” he said. They will be exposed to high-quality journalism from WABE that they may not have seen otherwise, and the articles we write will reach more people through WABE.”\n“Our partnership with Decaturish and Appen Media aligns perfectly with WABE’s mission to inform, inspire, reflect and empower our greater Atlanta community,” said Alex Helmick, Managing Editor of WABE News. “By amplifying Atlanta’s local stories through this collaboration, we’re strengthening our commitment to providing diverse, high-quality journalism that resonates with our audience and connects Atlantans to their city in meaningful ways.”"
+    },
+    {
+      "id": "02cd141ae7d84b5681dfa71b",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Marietta native Jon Wilcox joins Appen reporting team — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2024/9/24/marietta-native-jon-wilcox-joins-appen-reporting-team",
+      "published": "2024-07-19T10:19:00-0400",
+      "fetched_at": "2026-10-13T20:48:09+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Marietta native Jon Wilcox joins Appen reporting team\nAppen Media Group announced July 17 that Jon Wilcox will join its staff as a reporter. Wilcox will cover local government and business in Alpharetta and Forsyth County. He will report to Carl Appen, director of content and development, and he will be based in Alpharetta.\n“Jon developed sharp reporting and editing chops in a Texas newsroom similar to ours,” Appen said in a statement. “We’re excited to have him here with us now and to see what he can do back in friendly territory.”\nWilcox grew up in Marietta and graduated from Texas State University in 2015 with a major in journalism. During his time at Texas State, Wilcox took courses exploring creative writing, English and mass communications. After graduation, Wilcox served at the Victoria Advocate newspaper in Victoria, Texas, as a breaking news, public safety and courts as well as entertainment reporter. He finished his time at the Advocate serving as local editor.\n“I have a passion for informing audiences through hard-hitting news stories and compelling storytelling on a daily basis. There’s so much that goes on in our communities that we would not know about without local journalism,” Wilcox said. “It’s a privilege to do that work in Alpharetta and Forsyth County in the incredible newsroom here at Appen Media.”"
+    },
+    {
+      "id": "1f9b74bcfc41c8aa7b44c36b",
+      "source": "Appen Media Group (Forsyth Herald)",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Appen Media buys Decaturish.com with newsroom staff staying on — Appen Media Group",
+      "url": "https://www.appenmediagroup.com/news/2024/9/24/1ktq0wsblzkdn8w981sr9gyffm2kaq",
+      "published": "2024-07-09T10:12:00-0400",
+      "fetched_at": "2026-10-13T20:48:10+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Appen Media buys Decaturish.com with newsroom staff staying on\nAppen Media Group, publishers of the Herald and Crier newspapers, announced July 1 it has purchased the digital news company Decaturish from longtime owner and founder Dan Whisenhunt.\nThe Alpharetta-based company will keep on Whisenhunt and assistant editor Zoe Seiler to continue their coverage of DeKalb County along with the Decaturish core of freelance writers and photographers. Debbie Inglis will stay in her advertising and marketing role with the company.\n“We couldn’t be more excited to add the Decaturish brand to our media company. We have always admired what Dan has been able to achieve and his dogmatic approach to local journalism,” Publisher Hans Appen said. “The synergies and shared values between our two companies made this an easy decision and we can’t wait to build upon what is already a success story for local news.”\nIn its purchase of Decaturish, Appen aims to expand its online presence and expand its geographic reach to the east Metro suburbs. Before the acquisition, its newsroom covered a mostly northern cohort of cities, from Sandy Springs and Dunwoody up to south Forsyth County.\nAppen also plans to build on the Decaturish brand by introducing new print media formats. The company intends to introduce at least two new local newspapers to the DeKalb County market, continuing its focus on government, business, public safety and community reporting.\n“Decaturish is a beloved brand that is relied on by members of the community for news that most directly effects their quality of life,” Appen said. “Nothing that people love about Decaturish will change. AMG’s focus will be to expand and improve on what works already, and to give the Decaturish team the tools they need to make that happen.”\nThe move is the latest in Appen’s efforts to reinforce the local news environment in Metro Atlanta. The company purchased the Dunwoody Crier in 2019 and launched the Sandy Springs Crier in 2021. To help finance the movement, Appen created the Appen Press Club, a member-driven program where readers can pledge financial support to the work of local news. Decaturish brings with it a similar format, with loyal followers who recognize the importance of independent reporting in their community."
+    },
+    {
+      "id": "70aff31633c1658ed4022f1e",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "YMCA of Metro Atlanta News",
+      "url": "https://www.ymcaatlanta.org/news",
+      "published": null,
+      "fetched_at": "2026-10-13T20:49:00+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nYMCA of Metro Atlanta News\nThe YMCA is made up of thousands of stories. From a child learning how to swim for the first time even though they have a fear of the water, to the breast cancer survivor working her way back to full strength, mentally and physically at the Y - we have so many stories of impact to share.\nIf you are a member of the media and would like more information about the stories you find here, or have other inquiries, please contact our communications team!\nMedia Inquiries: Cookerly PR ymcametroatlanta@cookerly.com\nMedia Requests: Members of the media are welcome at the Y for broadcast and print shoots dependent upon the content of the piece and the potential disruption to members. All requests should be sent to Cookerly PR ymcametroatlanta@cookerly.com . Photo and Film Shoots: Facility rentals may be available to accommodate photo and film shoots depending on timing, schedule and content. All film crews must have the proper certificate of insurance. Location specific rental fees will apply. All requests should be sent to James Reynolds at JamesR@ymcaatlanta.org .\nSearch for stories, press releases, or news about your YMCA!\nHow the YMCA of M"
+    },
+    {
+      "id": "e85685f0d6675f31c18717e2",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Board of Directors",
+      "url": "https://www.ymcaatlanta.org/board",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:57+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nBoard of Directors\nThe YMCA of Metro Atlanta is lead by a diverse group of skilled professionals who, together with our senior leadership team, share an unwavering commitment to the Y's mission and work to strengthen our communities.\nChair: W. Jeffrey Beckham Brad Alexander Impact Public Affairs Ron Alston Truist W. Jeff Beckham Buckingham Companies Leslie Blair Kaiser Permanente Amber Cutler PricewaterhouseCoopers LLP Thomas Davenport Davenport Capital Management Clark Dean Transwestern Kelley Elliott Delta Air Lines Jeff Githens PeakMade Real Estate Sonya Halpern Consultant & GA State Senator Jenni Hawkins Gas South Carl Hill Atlanta Public Schools Andrew Hirsekorn JLM Financial Partners Matthew Johnson KPMG LLP\nSamantha Jones PNC Elizabeth Ledet McKinsey - Retired Matt Lovein Marsh McLennan Agency Neil Metzheiser Lockton Companies, LLC Kristin Myers Deloitte David Nelson LMA Development David Nour Avnir Keisha Olinger Mercer - A Business of Marsh McLennan Whitney Ott Jackson Spalding John L. Pemberton Southern Power Company Antonio Robinson Carter’s Andrew Saltzman Atlanta Hawks & State Farm Arena Ivan Shammas Hispanic Plug Michael Smith EY Kirk Somers So"
+    },
+    {
+      "id": "956e69d19201146d2b346bcb",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Swim Team",
+      "url": "https://www.ymcaatlanta.org/sports/swim-team",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:56+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nBecoming a member of the YMCA Swim Team means fun, fitness, and teamwork.\nThe YMCA Swim Team program is a developmental swim program led by trained coaches to improve swimmers’ competitive skills and endurance through progression rather than intense competition.\nParticipating in YMCA Swim Teams promotes healthy lifestyles while embracing the four core values of caring, honesty, respect, and responsibility. Our trained coaches work to improve swimmers’ skill level and endurance, and to promote a healthy lifestyle. Our program embraces the YMCA core values and promotes progression at an individual level.\nThe YMCA Swim Team offers up to three practice times a week for beginning swimmers and more for advanced groups. Swimmers are encouraged to attend at least 2-3 practices a week. There are also several volunteer opportunities to help support the YMCA Swim Team.\nAges: 5-18 years\nRequirements\nSwimmers must…\nHave a YMCA membership\nBe able to demonstrate the following skills: Swim 25 yards freestyle demonstrating breathing to the side and good body position and swim 25 yards backstroke demonstrating good body position\nDemonstrate the fundamental knowledge of what b"
+    },
+    {
+      "id": "3eec9b2b49689c71a7ba8be4",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Youth Sports",
+      "url": "https://www.ymcaatlanta.org/sports/youth-sports",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:55+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Youth Basketball Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports Youth Basketball\nYouth Basketball\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nYouth Sports\nGet Off The Bench & Get In The Game\nThe Y is a leader in youth sports across the country.\nThe youth soccer program at the Decatur Family YMCA was the first of its kind in the US more than 50 years ago.\nBasketball was invented at the YMCA Training College in Springfield, Massachusetts by James Naismith in 1891.\nAnd volleyball was invented at The Greater Holyoke YMCA in 1895.\nSo you might say we are experts in sports!\nAt the Y, we not only teach your children how to play the game, we instill confidence, character and a love for sports that can last a lifetime. At the Y, everyone plays and everyone wins.\nFind the sport that ’ s best for your child - or try them all!\nSoccer\nBasketball\nBaseball/Softball\nCheerleading\nDance & Gymnastics\nEsports\nFlag Football\nMartial Arts\nTennis\nVolleyball\nWrestling\nFooter menu\nYouth Safety\nYMCA OF METRO ATLANTA YMCA of Metro Atlanta Leadership & Learning Center 569 Martin Luther King Jr. Drive NW Atlanta, GA 30314\nCopyright© YMCA of Metro Atlanta. All rights reserved. The YMCA of Metro Atlanta is a 501(c)(3) not-for-profit social services organization dedicated to Yout"
+    },
+    {
+      "id": "94f11886bd5c9f1362a8bed7",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Adult Sports",
+      "url": "https://www.ymcaatlanta.org/sports/adult-sports",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:54+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nStay Active With Adult Sports At the Y\nThe Y offers a great space to enjoy some of your favorite sports! We know that exercise is more fun when you can make a game of it and enjoy your time with others!\nPickleball\nPickleball is the fastest-growing sport in the country and the Y is all about it! Many Y locations offers indoor and outdoor pickleball courts that Y members can reserve for play.\nBasketball\nLove basketball? Bring your skills to the Y! Many Y branches offer open gymnasium time for adult basketball. It's convenient to connect with friends for a game of hoops at the Y.\nTennis\nThe Y offers tennis lessons for adults as well as kids at several locations. Plus, we offer league play and courts you can reserve individually when it fits your schedule. Click the button below for lessons, leagues and clinics.\nAdult Soccer\nJoin our adult soccer league and relive the thrill of the game! Soccer is a fantastic way to stay active, exercise, and work with a team.\nFooter menu\nYouth Safety\nYMCA OF METRO ATLANTA YMCA of Metro Atlanta Leadership & Learning Center 569 Martin Luther King Jr. Drive NW Atlanta, GA 30314\nCopyright© YMCA of Metro Atlanta. All rights reserved"
+    },
+    {
+      "id": "50c24226cf1368dd920f5ea5",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Sports",
+      "url": "https://www.ymcaatlanta.org/programs/sports",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:52+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nYMCA Sports for Every Age\nSports offer a fantastic way to stay active and fit while having fun and connecting with others. Whatever you are looking for, the Y has a sport for you!\nThe Y offers a wide array of exciting youth sports programs. Whether it's gaining the confidence that comes with learning a new sport, building the positive relationships that lead to good sportsmanship and teamwork, or learning new skills, participating in sports at the Y is about building the whole athlete, inside and out.\nThe Y is a great place to play–even for adults. With tennis facilities, basketball gyms, and a growing number of pickleball courts, the Y brings people together to have a great time while connection over some of their favorite sports.\nFooter menu\nYouth Safety\nYMCA OF METRO ATLANTA YMCA of Metro Atlanta Leadership & Learning Center 569 Martin Luther King Jr. Drive NW Atlanta, GA 30314\nCopyright© YMCA of Metro Atlanta. All rights reserved. The YMCA of Metro Atlanta is a 501(c)(3) not-for-profit social services organization dedicated to Youth Development, Healthy Living, and Social Responsibility.\nPrivacy Policy | Terms of Use"
+    },
+    {
+      "id": "54abafbda1141e2bdaf48cb7",
+      "source": "Metro Atlanta YMCA",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "No Place Like This Place",
+      "url": "https://www.ymcaatlanta.org",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:51+00:00",
+      "matched_keywords": [],
+      "text": "Utility navigation top menu\nMy Account\nVolunteer\nCareers\nUtility navigation top right menu\nJoin\nDonate\nMain navigation\nMembership Main menu Membership Membership Join Financial Assistance Member Guidelines Corporate Membership Day Passes Mobile App\nFinancial Assistance\nMember Guidelines\nCorporate Membership\nDay Passes\nMobile App\nPrograms Main menu Programs Programs Wellness Sports Swim Camps Childcare & Education Programs Wellness Wellness Group Exercise Virtual Wellness / Y360 Personal Coaching Active Older Adults Health Support Programs Sports Sports Adult Sports Youth Sports Programs Swim Swim Swim Lessons Swim Team Adaptive Swim Programs Safety Around Water Lifeguard Training Pool Schedules Programs Camps Camps Day Camp Overnight Camp School Break Camp Bold & Gold Expeditions Camp Rentals Programs Childcare & Education Childcare & Education Early Learning / Pre-School Afterschool Programs STEAM Programs Teen Programs Mentoring Parent's Morning/Night Out Play Center\nWellness Sports Swim Camps Childcare & Education\nSports Swim Camps Childcare & Education\nSwim Camps Childcare & Education\nCamps Childcare & Education\nChildcare & Education\nGroup Exercise\nVirtual Wellness / Y360\nPersonal Coaching\nActive Older Adults\nHealth Support\nAdult Sports\nYouth Sports\nSwim Lessons\nSwim Team\nAdaptive Swim Programs\nSafety Around Water\nLifeguard Training\nPool Schedules\nDay Camp\nOvernight Camp\nSchool Break Camp\nBold & Gold Expeditions\nCamp Rentals\nEarly Learning / Pre-School\nAfterschool Programs\nSTEAM Programs\nTeen Programs\nMentoring\nParent's Morning/Night Out\nPlay Center\nLocations\nSchedules\nAbout Main menu About About Our Team Our Board Our Impact Partner Volunteer Community Resources Careers Podcast Events News Contact Us\nOur Team\nOur Board\nOur Impact\nPartner\nCommunity Resources\nPodcast\nEvents\nNews\nContact Us\nNo Place Like This Place\nJoin the Y for $10 through October!\nHonoring Our First Responders\nThroughout the month of October, eligible first responders can receive 20% off YMCA membership dues as a thank-you for their service and commitment.\nWhen school is out, the Y is in! Keep kids active, engaged, and making new friends with fun activities, games, and enriching experiences during school breaks.\nBring a Friend. Get a Month Free!\nBring a friend to the Y between October 1 and October 31, 2026 and earn one month of free dues for every referral who joins and remains a member for three full months!\nSupport the Y\nSupport the YMCA and make a gift today. Your gift fuels programs that change lives and strengthen communities.\nWith more than 3,000 classes per week, the Y is the leader in group exercise. Find a cycle, Pilates, total body, yoga class and more.\nBecome Involved\nWe offer a variety of meaningful ways to get involved at your local Y from hunger relief, youth sports coaches, and corporate volunteers.\nCommunity Impact\nFor more than 165 years, the YMCA of Metro Atlanta has adapted to meet the changing needs of our community. As Atlanta's oldest nonprofit, the Y "
+    },
+    {
+      "id": "f5d6cb9ebe5a0cd8fde6f999",
+      "source": "Forsyth County Chamber of Commerce",
+      "source_scope": "local",
+      "category": "business",
+      "item_type": "listing_or_page",
+      "title": "Gottfried Marketing | Custom Apparel, Printing & Marketing in South Florida",
+      "url": "https://gottfriedmarketing.com",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:50+00:00",
+      "matched_keywords": [],
+      "text": "Shop products\nSouth Florida based · serving businesses anywhere\nYour one-stop branding partner. Fast, easy, and priced to win.\nCustom apparel, printing, promo, websites, and SEO, all under one roof. We help you brand, build, and make more money, without the big-agency runaround.\nOur products\nEvery cat is a product — grab yours\nEach bouncing cat up top stands for something we make. Find what you need, scan the list, and hit the button to get a quote and order it.\nCustom Shirts\nScreen print, DTF & embroidery\n1-hour service available\nAny run, big or small\nFull-Color Printing\nDTF, screen & sublimation\nBold prints that last\nWorks on almost any item\nMemorial T-Shirts\nCustom tributes with photos\nNames, dates & artwork\nFast, caring service\nBusiness Cards\nStandard & premium metal\nDesign included\nFast turnaround\nBanners & Signs\nVinyl banners & yard signs\nA-frames & storefront signs\nIndoor & outdoor\nCustom Banners & Signs\nBig-impact displays\nAny size, any style\nMade to last\nRoll-Up Banners\nRetractable stands\nFull-color graphics\nEvent & trade-show ready\nCustom Koozies\nCan & bottle coolers\nFull-color print\nGreat bulk pricing\nCustom Websites\nDesign & hosting\nMobile-ready & fast\nBuilt to convert\nSites for Startups & Influencers\nLaunch & landing pages\nPersonal brand sites\nSEO built in\nMeet Bill the Cat, our on-site expert\nConfused about your options? Just ask.\nMost print shops make you guess. Ours doesn't. Bill is our little pop-up cat who lives on the site and answers your questions in plain English, and he'll read the answer out loud so you don't even have to squint at your phone.\nNot sure whether you want screen print, DTF, or embroidery? Tap a question and Bill breaks it down in a few seconds.\nTap any question and Bill pops up bottom-right, explains it, and reads it aloud. Turn your sound on.\nWhy Gottfried\nBig-agency results, corner-shop service\nFast when you need it\nShirts in as little as an hour, most jobs in a couple of days. We move at the speed of your deadline.\nPriced to win\nReal local pricing that beats the big online printers, without cutting corners on quality.\nOne partner\nApparel, print, promo, web, and SEO from one team that already knows your brand.\nYears in business\nGoing strong since 2015. We've printed, built, and ranked it all.\nDone-for-you bundles\nLaunch your brand in one move\nEverything a new or growing business needs to look legit and get found, bundled to save you money.\nSilver Business Pack\nWebsite + 1 year hosting\nGoogle Business Profile setup\nAI-written content\n1,000 business cards, 12 shirts\nCar magnets & koozies\nGold Business Package\nEverything in Silver\n3-month SEO campaign\nPR publishing to 200+ outlets\nPriority turnaround\nAbout us\nA shop that treats your brand like our own\nGottfried Marketing started in 2015 with a simple idea. Small businesses deserve the same sharp branding the big companies get, without the big price tag or the slow, faceless service.\nSo we became the one shop that does it all. Need 12 shirts by this afternoon? "
+    },
+    {
+      "id": "57416a0b507ce7dbd024869c",
+      "source": "Family Promise of Forsyth County",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "familypromiseforsyth",
+      "url": "https://www.fpforsyth.org/board-information",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:47+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "5ae7dffa0db2a7aaa2b43f9b",
+      "source": "Family Promise of Forsyth County",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Our Board | familypromiseforsyth",
+      "url": "https://www.fpforsyth.org/our-board",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:45+00:00",
+      "matched_keywords": [],
+      "text": "Our Board\nOur Board of Trustees is a dynamic group of professionals from diverse backgrounds, all united by a common mission: to empower guest families toward sustainable independence through Family Promise’s innovative programs.\nOur Commitment and Role\nEach board member serves as part of our governing body, volunteering their time on one or more committees alongside passionate community volunteers. We are dedicated to supporting our Executive Director and staff—ensuring they have the time and freedom to focus on what matters most: family.\nActive and Engaged Governance\nStaggered Terms: Board members serve three-year terms, with one-third of the board rotating annually. This approach brings in fresh perspectives while preserving the invaluable experience of our longstanding members.\nMonthly Meetings & Committee Involvement: We meet monthly and offer opportunities to serve on committees in areas such as Human Resources, Public Relations, Programs, Congregational Care/Affiliate Relations, Finance, Fund Development, and Board Development. As a newer chapter of the Family Promise national organization, our board is actively engaged in shaping our mission—not just setting policy.\nJoin Us! We invite you to volunteer for one of our committees and explore the possibility of joining our Board of Trustees. For more information, please contact our Executive Director, Tina Huck, at tina@fpforsyth.org.\nMike Cartwright\nBoard Chair\nGian Cacioppo\nTreasurer\nRobert Scott\nSecretary\nRick Graves\nBoard Member/Past Board Chair\nRon Mitchell\nBoard Member\nJohn (JR) Richards\nAmy Gamez\nLauren Linville\nAdam Buice\nPaul Moore\nAdrianne Junius\nNiki Mincey\nAnthony Birozes"
+    },
+    {
       "id": "62c233654367624fb79a1837",
       "source": "Family Promise of Forsyth County",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "nonprofit",
       "item_type": "listing_or_page",
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:14+00:00",
+      "fetched_at": "2026-10-13T20:48:44+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Empowering Families. Strengthening Stability. Transforming Futures.\nAbout\nSince 2016, we have been walking alongside families as they build lives filled with stability and hope. Through personalized support, community partnerships, and compassion-driven care, we help families overcome housing instability and move toward lasting independence.\nOur Programs\nFrom prevention to empowerment, our programs provide more than just a safety net—they offer a path forward. Families engage with tailored supports like Career Couture, FP on the GO, and THRIVE Workshops to build confidence, skills, and stability.\nResources\nThis is a go-to space for practical tools, money-saving tips, and community connections. Explore helpful resources that work alongside our programs to support families on their journey toward stability and success.\nGet Involved\nIt takes a community to end family homelessness—and there’s a place for everyone in this work. Whether you volunteer your time, donate, host a drive, or share our mission, your support helps families take real steps toward stability, dignity, and lasting change."
     },
     {
+      "id": "d8e5443fa24486fd89a25e6c",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "2025 Valentines Party",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-valentines-party",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:42+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Valentines Party 3/7/2025 0 Comments Our first ever Valentine Masquerade Party was held at Charles PLace on February 14, 2025. Attendees enthusiastically embraced the costume theme and had a great time dancings, singing, and noshing on snacks! See ALL the pics on its page ! 0 Comments Leave a Reply.\n3/7/2025\n0 Comments\nLeave a Reply.\nAuthor Write something about yourself. No need to be fancy, just an overview. Archives February 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022 Categories All RSS Feed\nAuthor\nWrite something about yourself. No need to be fancy, just an overview.\nArchives\nFebruary 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022\nCategories\nAll\nRSS Feed"
+    },
+    {
+      "id": "fbf5784dfa05959a0e07b584",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "2025 Charleston Trip",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-charleston-trip",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:41+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Charleston Trip 6/24/2025 0 Comments Wonderful bus trip to Charleston SC in June 2025! See all the photos on the Charleston 2025 trip page! 0 Comments Leave a Reply.\n2025 Charleston Trip\n6/24/2025\n0 Comments\nLeave a Reply.\nAuthor Write something about yourself. No need to be fancy, just an overview. Archives February 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022 Categories All RSS Feed\nAuthor\nWrite something about yourself. No need to be fancy, just an overview.\nArchives\nFebruary 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022\nCategories\nAll\nRSS Feed"
+    },
+    {
+      "id": "10351ce929cf34f7d87becfa",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "2025 Fall Dance at Central Park",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-fall-dance-at-central-park",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:39+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Fall Dance at Central Park 10/27/2025 0 Comments 0 Comments Leave a Reply.\n2025 Fall Dance at Central Park\n10/27/2025\n0 Comments\nLeave a Reply.\nAuthor Write something about yourself. No need to be fancy, just an overview. Archives February 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022 Categories All RSS Feed\nAuthor\nWrite something about yourself. No need to be fancy, just an overview.\nArchives\nFebruary 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022\nCategories\nAll\nRSS Feed"
+    },
+    {
+      "id": "85cad456f2c431c61ef3a8ef",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "2025 Haunted History Tour",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-haunted-history-tour",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:38+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Haunted History Tour 10/27/2025 0 Comments The 2025 Haunted History Tour at the Cumming Cemetery welcomed many new ghosts this year. See ALL the photos on its 2025 event page. 0 Comments Leave a Reply.\n10/27/2025\n0 Comments\nLeave a Reply.\nAuthor Write something about yourself. No need to be fancy, just an overview. Archives February 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022 Categories All RSS Feed\nAuthor\nWrite something about yourself. No need to be fancy, just an overview.\nArchives\nFebruary 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022\nCategories\nAll\nRSS Feed"
+    },
+    {
+      "id": "83a73c65867e45067d2138a2",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "2026 Valentine Party",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips/2026-valentine-party",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:37+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2026 Valentine Party 2/5/2026 0 Comments Just a few pics from this year's Valentine Party held at Sexton Hall on February 4, 2026. Full house and looks like everyone was having a fun time! Food, dancing, raffle prizes, what a great afternoon! 0 Comments Leave a Reply.\n2/5/2026\n0 Comments\nLeave a Reply.\nAuthor Write something about yourself. No need to be fancy, just an overview. Archives February 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022 Categories All RSS Feed\nAuthor\nWrite something about yourself. No need to be fancy, just an overview.\nArchives\nFebruary 2026 October 2025 June 2025 March 2025 October 2024 May 2024 February 2024 September 2023 July 2023 March 2023 November 2022 February 2022\nCategories\nAll\nRSS Feed"
+    },
+    {
+      "id": "629cbacaaa4ab6e54ced3ed4",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Upcoming Events",
+      "url": "https://www.agewellforsyth.com/upcoming-events.html",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:36+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nEvents for seniors (and maybe youngsters too!) ​"
+    },
+    {
+      "id": "442fe6c1760db0c189e6468a",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Past Events and Trips",
+      "url": "https://www.agewellforsyth.com/past-events-and-trips",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:34+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2026 Valentine Party 2/5/2026 0 Comments Just a few pics from this year's Valentine Party held at Sexton Hall on February 4, 2026. Full house and looks like everyone was having a fun time! Food, dancing, raffle prizes, what a great afternoon! 0 Comments 2025 Haunted History Tour 10/27/2025 0 Comments The 2025 Haunted History Tour at the Cumming Cemetery welcomed many new ghosts this year. See ALL the photos on its 2025 event page. 0 Comments 2025 Fall Dance at Central Park 10/27/2025 0 Comments 0 Comments 2025 Charleston Trip 6/24/2025 0 Comments Wonderful bus trip to Charleston SC in June 2025! See all the photos on the Charleston 2025 trip page! 0 Comments 2025 Valentines Party 3/7/2025 0 Comments Our first ever Valentine Masquerade Party was held at Charles PLace on February 14, 2025. Attendees enthusiastically embraced the costume theme and had a great time dancings, singing, and noshing on snacks! See ALL the pics on its page ! 0 Comments Senior Talent Show 2024 10/14/2024 0 Comments Forsyth County Senior Services hosted the Georgia Parks & Rec Senior Talent Show for the second year, held Saturday, September 14, 2024, at Sexton Hall.. It was a great time, very entertaining, with dance and singing acts, plus some hilarious comedy! Here are a few pics; find more on the event page. 0 Comments Nashville 2024 5/30/2024 0 Comments ​ 2024 Nashville This trip, April 29 - May 3, 2024, included tours of Nashville and Belle Meade; visits to Country Music Hall of Fame, Behind the Scenes at the Grand Ole Opry, Madame Tussauds Wax Museum, Johnny Cash museum and Patsy Cline museum; and shows at the Grand Ole Opry and Nashville Nightlife Dinner Theatre. See more photos on the ﻿ Nashville 20 24 ﻿ page. 0 Comments 2024 Valentine's Party 2/12/2024 0 Comments Another fun-filled event for our seniors, this free party is a hit every year, with food and dancing until everyone is tuckered out! See the full photo gallery for more pics! 0 Comments 2023 Hoe Down 9/26/2023 0 Comments The Fall Hoe Down at Sexton Hall in September 2023 hosted almost 100 seniors who came dressed to line dance! Our experienced dance teacher led instruction in a variety of dance steps to country AND western tunes. Games and a photo booth added to the fun. Dessert treats and refreshments kept the energy up, as well as a host of fall-themed door prizes. Check out the full photo gallery for all photos. 0 Comments 2023 Sock Hop 7/7/2023 0 Comments The Sock Hop at Sexton Hall in June 2023 attracted ov"
+    },
+    {
+      "id": "090920f746f8f7472dde5021",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Calendar",
+      "url": "https://www.agewellforsyth.com/calendar.html",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:33+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party"
+    },
+    {
+      "id": "2a037abe63a122cd7cad1ebd",
+      "source": "Age Well Forsyth",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "Trips and Events",
+      "url": "https://www.agewellforsyth.com/trips-and-events.html",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:32+00:00",
+      "matched_keywords": [],
+      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nUpcoming Trips\nUpcoming Events\nPrevious Trips and Events"
+    },
+    {
       "id": "dea54b68bf3dcb3cbfdaca23",
       "source": "Age Well Forsyth",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "nonprofit",
       "item_type": "listing_or_page",
       "title": "About Age Well",
       "url": "https://www.agewellforsyth.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:13+00:00",
+      "fetched_at": "2026-10-13T20:48:31+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nEngage. Inspire. Empower.\nCheck out some of the awesome services provided by Age Well Forsyth!\n​ Be sure not to miss any events or trips hosted by Age Well Forsyth!\nCheck out our blog page for useful information related to senior services and activities in Forsyth County."
     },
     {
+      "id": "fa204cdde796c1d6ec9e2860",
+      "source": "The Place of Forsyth County",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "pdf",
+      "title": "Read Our Impact Report",
+      "url": "https://static1.squarespace.com/static/684443495550a63d24faf185/t/696ff41490d03f12e94430c5/1768944660979/Final+v3+2025+Impact+Report.pdf",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:29+00:00",
+      "matched_keywords": [],
+      "text": ""
+    },
+    {
+      "id": "0580a756fa188e95982927e3",
+      "source": "The Place of Forsyth County",
+      "source_scope": "local",
+      "category": "nonprofit",
+      "item_type": "listing_or_page",
+      "title": "The Place | Get Assistance Today",
+      "url": "https://www.theplacega.org",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:27+00:00",
+      "matched_keywords": [],
+      "text": "Support. Empower. Transform.\nTo assist the people of Forsyth and Dawson County areas with essential needs and to be self-sustaining.\nWho We Are\nThe Place is a local nonprofit serving Forsyth and Dawson counties, helping individuals and families meet essential needs such as food, clothing, and financial assistance while guiding them toward long-term self-sufficiency through education, workforce training, and holistic support.\nValues\nCompassion and Hope\nWe provide an inclusive and welcoming environment for all clients. We review each case on an individual basis and work to address all needs we identify.\nDignity and Respect\nWe evaluate all processes to focus on the dignity of those we serve. We demonstrate respect by listening to and offering support to our clients.\nAccountability and Stewardship\nWe maintain the highest standards in the nonprofit and business world. We ensure all donations are used appropriately to accomplish the greatest good. We focus on sustainability and carrying out our mission with increased efficiency and effectiveness.\nCollaboration and Coordination\nWe bring resources together to transform lives in our area. We seek to identify gaps of needs in our community and, through collaboration, find creative ways to meet the needs.\nOur Services\nFood Pantry\nThrift Store\nFinancial Assistance\nEmployment Services and Adult Education\nSenior Outreach\nYouth Programs\nWhy People Trust The Place\n92¢ of every $1\nGoes directly into programs\n450+ Families\nServed each week through our food pantries\n50+ Years\nServing Forsyth and Dawson counties\nPartnerships\nCourts, schools, and local leaders\nHow You Can Help\nHost a drive\nOne-time urgent need donations\nSponsor a program\nBecome a Heart of Impact Donor\nSubscribe for News and Events\nSign up with your email address to receive news and updates."
+    },
+    {
+      "id": "b35d46a1e21613c23214916b",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Post an Event on Patch",
+      "url": "https://patch.com/georgia/cumming/compose/event?utm_source=calendar&utm_medium=top_panel&utm_campaign=fall26",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:23+00:00",
+      "matched_keywords": [],
+      "text": "What would you like to promote?"
+    },
+    {
+      "id": "c8ad0597764d095b3947bb77",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Post an Event on Patch",
+      "url": "https://patch.com/compose/event?utm_source=calendar&utm_medium=header_btn&utm_campaign=fall26",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:22+00:00",
+      "matched_keywords": [],
+      "text": "What would you like to promote?"
+    },
+    {
+      "id": "4206408d44e36277c98ab1d1",
+      "source": "Patch Cumming",
+      "source_scope": "local",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Post an Event on Patch",
+      "url": "https://patch.com/georgia/cumming/compose/event?utm_source=calendar&utm_medium=rail_link&utm_campaign=fall26",
+      "published": null,
+      "fetched_at": "2026-10-13T20:48:17+00:00",
+      "matched_keywords": [],
+      "text": "What would you like to promote?"
+    },
+    {
       "id": "26cf9279e68e39ce83961ae6",
       "source": "Appen Media Group (Forsyth Herald)",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:08+00:00",
+      "fetched_at": "2026-10-13T20:47:53+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Delivering quality news and marketing campaigns to Alpharetta, Roswell, Johns Creek, south Forsyth County, Milton, Dunwoody, Sandy Springs, Decatur and surrounding communities\nAppen Media Group (AMG) is a family owned news media company located in the Northern suburbs of Atlanta. The company was founded in 1990 by Ray and Christina Appen, two veteran newspaper executives formerly with Knight-Ridder/The Miami Herald. The company is now led by their son, CEO & Publisher Hans Appen.\nSince its inception, AMG has focused on professionally produced local journalism in the areas of government, education, business, public safety, and lifestyle news and features. That core mission remains the same today and AMG’s credible, unbiased, and timely community journalism is now disseminated across a wide spectrum of print, audio and digital platforms.\nThe AMG product portfolio includes a core of seven weekly community newspapers with a combined home-delivered circulation of 113,000 editions distributed weekly to the affluent metro Atlanta suburbs of Alpharetta, Roswell, Johns Creek, Sandy Springs, Dunwoody, Milton, Decatur and south Forsyth County. AMG provides a competitive advantage in print and digital media in the region in terms of market penetration and community trust. The AMG brand is anchored historically in partnerships within the communities it serves.\nAMG has also operated and published news on the award winning appenmedia.com since 1996.\nIn 2024, AMG purchased the online news hub decaturish.com from longtime owner and founder Dan Whisenhunt. Decaturish serves Decatur and neighboring cities including Avondale Estates, Tucker, Clarkston and Stone Mountain.\nIn addition to its weekly newspapers and online news websites, AMG assets also include community guides, events, event management, newsletters, custom publications, full service brand development, creative design and production of niche publications.\nContact\n➤ LOCATION\n319 North Main Street Alpharetta, GA 30009\n☎ CONTACT\nhello@appenmedia.com (770)442-3278\nAreas of Practice\nNewspapers\nThe core of its business, Appen Media Group publishes the weekly newspapers Alpharetta-Roswell Herald, Dunwoody Crier, Sandy Springs Crier, Johns Creek Herald, Forsyth Herald, Milton Herald, and Decaturish INK.\nsocial media\nAppen Media Group owns and operates portals through Facebook, Twitter, YouTube, and Instagram with the largest subscribers and follower base for its market. It also has tools to operate custom campaigns for clients and events.\nEvent Management\nAppen Media Group is strongly positioned to manage events marketing efforts for local companies by streamlining marketing, revenue, and day of operations. Internally it operates the annual Best of North Atlanta, Best of Perimeter and Best of Decaturish contests and events.\npodcasts\nIn 2018 Appen Media Group launched the Appen Podcast Network, offering listeners a unique way of consuming local news and entertainment, as well as an outlet for advertisers to reach"
     },
     {
+      "id": "fed0f0159a657611b17102d7",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "pdf",
+      "title": "ADA Compliance Statement , opens PDF file in a new tab",
+      "url": "https://static.libnet.info/frontend-images/pdfs/forsyth/ADA_Compliance_Notice_rev2024.pdf",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:51+00:00",
+      "matched_keywords": [],
+      "text": "NOTICE UNDER THE AMERICANS WITH DISABILITIES ACT In accordance with the requirements of title II of the Americans with Disabilities Act of 1990 (\"ADA\"), Forsyth County Public Library will not discriminate against qualified individuals with disabilities on the basis of disability in its services, programs, or activities. Employment: Forsyth County Public Library does not discriminate on the basis of disability in its hiring or employment practices and complies with all regulations promulgated by the U.S. Equal Employment Opportunity Commission under title I of the ADA. Effective Communication: Forsyth County Public Library will generally, upon request, provide appropriate aids and services leading to effective communication for qualified persons with disabilities so they can participate equally in Forsyth County Public Library programs, services, and activities, including qualified sign language interpreters, documents in braille, and other ways of making information and communications accessible to people who have speech, hearing, or vision impairments. Modifications to Policies and Procedures: Forsyth County Public Library will make all reasonable modifications to policies and programs to ensure that people with disabilities have an equal opportunity to enjoy all of its programs, services, and activities. For example, individuals with service animals are welcomed in Forsyth County Public Library’s locations , even where pets are generally prohibited. Anyone who requires an auxiliary aid or service for effective communication, or a modification of policies or procedures to participate in a program, service, or activity of Forsyth County Public Library, should contact the IT & Facilities Manager at ADAofficer@ForsythPL.org or (678) 513-9383 as soon as possible but no later than 48 hours before the scheduled event. The ADA does not require Forsyth County Public Library to take any action that would fundamentally alter the nature of its programs or services, or impose an undue financial or administrative burden. Complaints that a program, service, or activity of Forsyth County Public Library is not accessible to persons with disabilities should be directed to the IT & Facilities Manager at ADAofficer@ForsythPL.org or (678) 513-9383. Forsyth County Public Library will not place a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the cost of providing auxiliary aids/services or reasonable modifications of policy, such as retrieving items from locations that are open to the public but are not accessible to persons who use wheelchairs."
+    },
+    {
+      "id": "6a490e417e7f4e6812c0fb74",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Press Room",
+      "url": "https://www.forsythpl.org/press-room",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:50+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Press Room\nAbout Us\nBrand Assets\nMedia Contact\nMedia Guidelines\nPhotos\nPress Releases\nThe name of our library system is Forsyth County Public Library (4 words, all capitalized). The formal abbreviation for the Library is FCPL .\nForsyth County Public Library (FCPL) in Cumming, Georgia serves the residents of Forsyth County with five libraries, an administrative building, and a mobile library. Although varying degrees of library services have existed in Forsyth County since the 1920s, FCPL as a single-county, independent library was founded in 1996. Please see our History page to learn more about the Library’s history.\nFCPL leads the state in checkouts per capita and the Sharon Forks Library lends more physical materials than any other library in Georgia. Library Director Adrianne Junius attributes such high circulation to FCPL’s “outstanding Materials Department and Information Staff for selecting, displaying, and promoting our materials so successfully.” Director Junius also credits Forsyth County's strong commitment to education, which fosters a community of readers. More information about the Library’s usage can be found in our latest Annual Report .\nForsyth County Public Library’s mission is to connect our community with exceptional resources, spaces, and experiences. Our vision is to be your first choice for discovery, inspiration, and enrichment. Please see our Strategic Plan for more information.\nFCPL press releases organized by year.\nYears 2026 Library Partners to Provide Free Summer Snacks - June 8, 2026 , PDF file (opens in a new tab) Library to Host 4th Annual Forsyth County Lunar New Year Celebration - February 5, 2026 , PDF file (opens in a new tab) Library to Host an Evening With Bestselling Author Liz Moore - February 3, 2026 , PDF file (opens in a new tab) Experts lead local discussions on global politics at the Cumming Library - January 15, 2026 , PDF file (opens in a new tab) 2025 Library to Host Traveling Exhibit About American Revolution - October 30, 2025 , PDF file (opens in a new tab) Library to Host Dedication Celebration for Denmark Library - May 1, 2025 , PDF file (opens in a new tab) Denmark Library Set to Open This Week - March 26, 2025 , PDF file (opens in a new tab) Library to Host Touch a Truck at Fowler Park - March 24, 2025 , PDF file (opens in a new tab) Annual Public Library Award Winners 2024 - January 14, 2025 , PDF file (opens in a new tab) Library and OneForsyth Partner for 3rd Annual Forsyth County Lunar New Year Celebration - January 8, 2025 , PDF file (opens in a new tab) 2024 Library Board Appoints New Director - November 7, 2024 , , PDF file (opens in a new tab) Library Announces Sole Finalist for Director Position - October 16, 2024 , PDF file (opens in a new tab) Library Director Anna Lyle Announces Retirement - May 17, 2024 , PDF file (opens in a new tab) Library to Host Touch a Truck at Fowler Park - March 28, 2024 , PDF file (opens in a new tab) Library Celebrates Black History Month in February - J"
+    },
+    {
+      "id": "0dfe8b54c21a3ec67f2a3475",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Annual Reports",
+      "url": "https://www.forsythpl.org/Annual-Reports",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:47+00:00",
+      "matched_keywords": [],
+      "text": "Annual Reports\n2025 Annual Report , opens in a new tab\n2024 Annual Report , opens in a new tab\n2023 Annual Report , opens in a new tab\n2022 Annual Report , opens in a new tab\n2021 Annual Report , opens in a new tab"
+    },
+    {
+      "id": "77bd53e8b704bab22df08d74",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Events - Forsyth County Public Library",
+      "url": "https://www.forsythpl.org/events?r=thismonth",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:46+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": ""
+    },
+    {
+      "id": "85df33a5cbc050dcf6ed5c9a",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Events - Forsyth County Public Library",
+      "url": "https://www.forsythpl.org/events?term=America+250&r=range&start=today&end=2026-12-31",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:45+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": ""
+    },
+    {
+      "id": "02f15160459231ff28d708d0",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Events - Forsyth County Public Library",
+      "url": "https://www.forsythpl.org/events?n=1&term=trick+or+treat&r=months",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:44+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": ""
+    },
+    {
+      "id": "75081830b417c21d373b15fa",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "My Events - Forsyth County Public Library",
+      "url": "https://www.forsythpl.org/myevents",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:43+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Manage your event registrations\nLibrary card\nReference\nPlease enter your library card and pin below to check, cancel or amend your registration\nPlease enter your last name and registration reference into the boxes below to check, cancel or amend your registration"
+    },
+    {
+      "id": "cf5477849b37e0a2b5a8f626",
+      "source": "Forsyth County Public Library",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Events - Forsyth County Public Library",
+      "url": "https://www.forsythpl.org/events?n=1&r=months",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:41+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": ""
+    },
+    {
       "id": "86c27091e8f735371dc32abb",
       "source": "Forsyth County Public Library",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
       "title": "Forsyth County Public Library Website",
       "url": "https://www.forsythpl.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:07+00:00",
+      "fetched_at": "2026-10-13T20:47:40+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Forsyth County Public Library Website\nToday's hours\nWe're open 9:00AM to 9:00PM\nBranch Locations\nLibrary Hours\nMon, Oct 12\n9:00AM to 9:00PM\nTue, Oct 13\nWed, Oct 14\nThu, Oct 15\nFri, Oct 16\n10:00AM to 5:30PM\nSat, Oct 17\nSun, Oct 18\n1:30PM to 5:30PM\nToday's Events\nBook Recommendation\nGeorgia Reads for America250\nEnjoy These Titles From the Official List!\nBook river - Main page\nSign up for Reading Recommendations , opens in a new tab\neLibrary\nPodcast\nBlog\nMarvin's World of Wonder at Sharon Forks Library , opens in a new tab\n2026 ended up being a very exciting year for Marvin the Mouse, the Sharon Forks Library mascot. He found his calling to travel across the globe, then shared his experience of world culture, traditions, cuisine, and language with all the kids during Storytime at Sharon Forks through the Marvin’s World Travels series.\nAdult Nonfiction Staff Pick: No One's Coming by Kevin Hazzard Wilgus , opens in a new tab\nThis is a fascinating nonfiction account of how a small aviation company became a crucial support group for not just the United States but nations around the world. Their company initially grew by flying dangerous cargo that no one wanted to. These included explosives and other potentially volatile and flammable items, as well as, emergency medical evacuation missions.\nRead More Blog Posts , opens in a new tab\nSocial Media\nFacebook"
     },
     {
-      "id": "b9625e9e2e07be68fa85bbcc",
-      "source": "Forsyth County Schools",
-      "source_scope": "broad",
+      "id": "4ee7c555d7ea5dd00a1b8a72",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
       "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Press Releases | Forsyth County School District",
-      "url": "https://www.forsyth.k12.ga.us/district-services/communications/press-release",
+      "item_type": "pdf",
+      "title": "Cert Application",
+      "url": "https://www.forsythco.com/app/uploads/sites/3/2026/05/CERT-Application-2021-2.pdf",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:05+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": ""
+      "fetched_at": "2026-10-13T20:47:38+00:00",
+      "matched_keywords": [],
+      "text": "FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team APPLICATION FOR ENROLLMENT _____________________________ Applicant’s Name _____________________________ Address _____________________________ City, State, and Zip Code __________________________ Date of Application REV 08/2021 FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team How to apply: 1. On cover sheet give the name you wish to be called and your full address. 2. Fill out the application in this packet. Please complete the entire application. 3. Please print or type all requested information. 4. Please write as legibly as possible, as we will use this information to contact you in the event of a change in location or time of a class. IMPORTANT: True and complete responses to this application are a necessity. A copy of your driver’s license is required to verify information for your background check. This information will be subject to confirmation by administrative investigation. If you do not wish to answer a question in this booklet, you may choose not to do so and the application will be terminated. Exclusive of the aforementioned statement, all information which is recorded in this application will be used only in relation to determining the suitability and qualifications of the applicant for enrollment only, and no other purpose. Please bring the completed application to the Sheriff’s Office North Precinct located at 2310 Keith Bridge Road, Cumming, Ga 30040 during normal business hours. You may leave it with the Administrative Assistant at the desk, attention Sgt. Pete Sabella. You may also email the completed application to Sgt. Pete Sabella at pjsabella@forsythco.com For additional questions contact Sgt. Pete Sabella at 678-780-1524 or email at pjsabella@forsythco.com Thank you for your interest in this very informative and fun program that we are proud to be able to offer. REV 08/2021 FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team APPLICATION Name: _________________________________________ Date of Birth: _______ LAST FIRST MI Name you would like to be called: _________________________ Sex: __________ Address: ______________________________________________________ Number/Street City/State/Zip Telephone: (_____) _____ -________ (_____) _____ -_________ HOME – WORK – CELL (CIRCLE) HOME – WORK – CELL (CIRCLE) Personal: Hgt: ________ Wgt: ________ Hair: ________ Eyes: _______ Employer: __________________________ Phone: (_____) _____ -______ Emergency Contact: ________________________________________________ Name Phone# City/State How long have you lived in Forsyth County? _____________________________________ Have you previously attended any other class or program hosted or sponsored by the Forsyth County Sheriff’s Office (i.e. CLEA, SALT, etc.)? YES NO If so, please list: ______________________________________________________________ Have you ever been arrested for any offense other than traffic? YES / NO If yes, what: ________________________________________ When: ____________ Where: ____________________________________________ _________________________ ______________ Applicant Signature Date REV 08/2021 COVENANT NOT TO SUE WHEREAS, certain Citizens and persons having business interests in the County of Forsyth desire to participate in the Community Emergency Response Team; and WHEREAS, the Forsyth County Sheriff’s Office desires to facilitate their participation; NOW, THEREFORE, for good and valuable consideration, the undersigned covenants and agrees for myself, heirs and assigns, tha t I will not at any time make any claim or demand, nor sue or commence, nor prosecute, nor cause or allow to be prosecuted in my name, any action at law or in equity against the County or its agents and employees because of injuries, damages, or other loss es sustained or resulting to me directly or indirectly as a result of my participation in any activities as a part of the Community Emergency Response Team. I fully understand that this covenant not to sue may be pleaded as a complete defense to any action that may be brought by me, my heirs or assigns. I am executing this covenant freely and voluntarily. This ___________ day of _____________________________, 20__. _____________________________________ Signature _________________________________ Notary Public My Commission Expires: _________________ (SEAL) REV 08/2021 Forsyth County Sheriff’s Office Community Emergency Response Team PHOTOGRAPH AND VIDEO RELEASE I grant to the Forsyth County Sheriff’s Office, its representatives and employees the right to take photographs of me and my property in connection with my involvement with the Community Emergency Response Team. I authorize the Forsyth County Sheriff’s Office, its assigns and transferees to copyright, use and publish the same in print and/or electronically. I agree that the Forsyth County Sheriff’s Office may use such photographs of me with or without my name and for any lawful purpose, including for example such purposes as publicity, illustration, advertising, and internet content. I have read and understand the above: Signature _________________________________ Printed name ______________________________ Address __________________________________ Date _____________________________________ REV 08/2021 FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team Background Check Consent Form I hereby request the Forsyth County Sheriff’s Office to receive any Criminal History Record information which may pertain to myself (or the person named below) and may be found in any state or local criminal justice agency in Georgia. Records obtained from Forsyth County Sheriff’s Office may only be used by the requesting agency or entity solely for the purposes requested. If any information is used to deny employment or license, it shall not reflect on the liability of this office but on the agency or entity who makes that decision and to allow the person/applicant a chance to dispute any information which may be in error. Any dissemination of this information must be with the permission of the person/applicant. Forsyth County shall not be held responsible for information obtained by another agency, State or Federal, which provides such information and whose files reflect records which may contain errors or omissions. TO REDUCE ERRORS, FULL AND COMPLETE INFORMATION IS REQUIRED. This request is in accordance to state law as it applies to: PLEASE PRINT Today’s Date: ____________________ Business Name: ___________________________Business Phone: _____________________ First Name: __________________ Mid Name: ___________ Last Name: __________________ Home Address: _________________________________________________________ City: ________________State: _____________ Zip Code: ___________________________ Home / Cell Phone: _________________ Driver’s License Number: ______________________ SSN: ____________________________ DOB: __________________ Place of Birth: ___________________ Sex: _____Race: ______ Hgt: _________ Wgt: _________ Hair: __________ Eye: _________ ______________________ ________________________________________ Signature of Applicant Print Name of requesting person (if not applicant) __________________________________ ___________________________________ Notary (Not the same as the person requesting) Signature of requesting person (if not applicant) REV 08/2021"
     },
     {
-      "id": "4ebe22a64fb77b67d5115be6",
-      "source": "Forsyth County Schools",
-      "source_scope": "broad",
+      "id": "2e09c2617d2517d8a2c15b2f",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "About Us | Forsyth County School District",
-      "url": "https://www.forsyth.k12.ga.us/inside-fcs/about-us/overview",
+      "title": "P3 Campus Reporting",
+      "url": "https://www.forsythsheriff.org/resources/p3-campus-reporting",
       "published": null,
-      "fetched_at": "2026-10-13T20:35:02+00:00",
+      "fetched_at": "2026-10-13T20:47:36+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": ""
+      "text": "P3 Campus Reporting\nHome\nResources\nSEE SOMETHING SAY SOMETHING ON CAMPUS\nTo report a crime in progress call 911!\nThe Forsyth County Sheriff’s Office and Forsyth County Schools work together to provide P3 Campus Reporting, which provides an avenue for all members of the community to submit anonymous tips about non-urgent illegal activities such as unsolved cases, vandalism, theft, the sale and distribution of drugs, possession of weapons or information about crimes that are being planned on their schools’ campus.\nStudents are encouraged to report information about dangerous or harmful situations to the principal, an assistant principal, a teacher, or another trusted adult. Anonymous TIPS can also be reported to the Forsyth County Schools P3 Campus Anonymous Reporting in one of three ways.\n3 ways to submit an anonymous tip to Campus Crime Stoppers:\nDownload the App\nOnline\nPhone\nCall Forsyth County Campus Crime Stoppers’ anonymous tip line at 770-888-3466 ext. 1 or 3\nAnimal Control\nContact Us\nCrime Stoppers\nDomestic Violence\nFCSO Careers Current Openings Apply With Us Hiring Process Why Forsyth\nCurrent Openings Apply With Us\nApply With Us\nHiring Process\nWhy Forsyth\nHEROES Foundation About HEROES Foundation\nAbout HEROES Foundation\nHoliday Hope\nImmigration Compliance Reporting Past Immigration Compliance Reports\nPast Immigration Compliance Reports\nPet Adoption & Resource Center Adopt A Pet Foster A Pet Lost & Found Pets Mobile Care Unit Surrender A Pet Volunteer & Donate\nAdopt A Pet\nFoster A Pet\nLost & Found Pets\nMobile Care Unit\nSurrender A Pet\nVolunteer & Donate\nPups With Purpose Current Pups Donations How To Adopt Previously Adopted Pups\nCurrent Pups\nDonations\nHow To Adopt\nPreviously Adopted Pups"
     },
     {
-      "id": "e7d4191a88bdc695a82c5ca7",
-      "source": "Forsyth County Schools",
-      "source_scope": "broad",
+      "id": "c64e13ba4f39492f63666426",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Home | Forsyth County School District",
-      "url": "https://www.forsyth.k12.ga.us",
+      "title": "News & Events",
+      "url": "https://www.forsythsheriff.org/news",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:59+00:00",
+      "fetched_at": "2026-10-13T20:47:34+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": ""
+      "text": "News & Press Releases\nThe Latest From FCSO\nSeptember 21, 2026 Holiday Hope The Forsyth County Sheriff’s Office will be delivering meals, pantry staple items, comfort items and pet food for 300+ seniors in our community during the Christmas Holiday and we need your help! Please consider donating DRY dog and cat food at any of the Hollywood Feed locations in Forsyth County…\nSeptember 21, 2026\nHoliday Hope\nThe Forsyth County Sheriff’s Office will be delivering meals, pantry staple items, comfort items and pet food for 300+ seniors in our community during the Christmas Holiday and we need your help! Please consider donating DRY dog and cat food at any of the Hollywood Feed locations in Forsyth County…\nJuly 16, 2026 New Podcast Launched: Up In Cumming with Sheriff Ron Freeman A brand-new podcast featuring casual conversations with Sheriff Freeman and a variety of special guests from across Forsyth County.\nJuly 16, 2026\nNew Podcast Launched: Up In Cumming with Sheriff Ron Freeman\nA brand-new podcast featuring casual conversations with Sheriff Freeman and a variety of special guests from across Forsyth County.\nMay 3, 2026 Corporate SWAT Challenge Forsyth County Sheriff’s OfficeCORPORATE SWAT CHALLENGE Presented By: Sheriff Ron Freeman and the Forsyth County Sheriff’s Office invite you to participate in the annual Corporate SWAT Challenge! The challenge includes tactical events that involve endurance activities and strategic thinking. While the goal is to have…\nMay 3, 2026\nCorporate SWAT Challenge\nForsyth County Sheriff’s OfficeCORPORATE SWAT CHALLENGE Presented By: Sheriff Ron Freeman and the Forsyth County Sheriff’s Office invite you to participate in the annual Corporate SWAT Challenge! The challenge includes tactical events that involve endurance activities and strategic thinking. While the goal is to have…\nNews\n2026\nSeptember (1)\nJuly (1)\nMay (1)\nConnect with FCSO\nFollow FCSO on Facebook\nFollow FCSO on X\nFollow FCSO on Instagram\nFollow FCSO on Youtube\nFollow FCSO on Tiktok\nConnect with Our K9 Team\nK9 Boo Berry fcso_k9_Boo_Berry\nfcso_k9_Boo_Berry\nK9 Bouke fcsok9bouke\nfcsok9bouke\nK9 Buzz fcsok9buzz\nfcsok9buzz\nK9 Calvin fcsok9calvin\nfcsok9calvin\nMore from FCSO\nForsyth County Pups With Purpose\nHeroes of Forsyth County\nForsyth County Pet Resource Center"
     },
     {
       "id": "b28ebdc6e0c1d56c780f31d0",
       "source": "Forsyth County Sheriff's Office",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:58+00:00",
+      "fetched_at": "2026-10-13T20:47:32+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Community Outreach\nHome\nLaw Enforcement\nThe Community Outreach Section consists of the Community Relations, Park Rangers and the Volunteer Unit.\nCommunity Relations Unit\n​​​The Community Relations Unit serves to promote safety and education to the citizens and businesses of Forsyth County and is a vital component of the Forsyth County Sheriff’s Office. The FCSO Community Relations Unit is responsible for coordinating and delivering special classes and programs that work to educate the community and to better build the relationship between the community and the Sheriff’s Office. Along with the many courses and programs offered by FCSO Community Relations, they also partner with other organizations throughout the year and attend many other community events.\nClasses\nWomen’s Self Defense\nThis course is designed to teach women situational awareness by reviewing case studies of previous abductions. Some hands-on training is provided but limited. This class is designed for women and reserved for women only. (Teenagers 14+ can only attend at parent’s discretion due to mature content.)\nCRASE\n(Citizens Response to Active Shooter Event). Intended to teach what to do/not do in the case of an active shooter. The skills taught are to Avoid, Deny and Defend-STAY ALIVE and Survive!\nstranger danger\nEducates and empowers children ages 4-11 with knowledge and skills that will help them be safer from various crimes against children.\nPrograms\nSeniors and Lawmen Together\n(SALT) Open to all Forsyth County Senior Citizens and held monthly. Each month features different speakers and different topics pertaining to senior safety.\nPUBLIC SAFETY CADET PROGRAM\nThe Public Safety Cadet program is designed to attract young, well-qualified men and women to participate in an organized on the job training program that will prepare them for a career in law enforcement. To learn more, visit the PUBLIC SAFETY CADET PAGE .Neighborhood Watch & Business Watch\nCitizens Law Enforcement Academy\n(CLEA) The program closely follows the actual hands-on training that deputies undergo. Topics include constitutional law, conducting traffic stops, judgmental use of force, K9 and S.W.A.T. demonstrations, ride alongs with deputies, and much more. Applications are accepted twice a year, watch our Facebook page for those dates. Contact our Community Outreach Section for an application and details.\nNeighborhood Watch & Business Watch\nThis program provides information and specific actions to homeowners that can help protect themselves and their homes. Information covered also includes solutions to common neighborhood problems.\nThe Business watch program is an offshoot of the Neighborhood Watch concept. The purpose of establishing a Business Watch program is to help educate business proprietors about various precautions they can take in an effort to deter crime. For more information visit the POP page.\nIf you have questions about programs listed above or would like to request a class, program, or speaker,"
     },
     {
+      "id": "60a43eeec57574f22a65595f",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "National Human Trafficking Notice",
+      "url": "https://www.forsythsheriff.org/national-human-trafficking-notice",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:30+00:00",
+      "matched_keywords": [],
+      "text": "National Human Trafficking Notice\nHome\nAre you or someone you know being sold for sex or made/forced to work for little or no pay and cannot leave?\nCall the National Human Trafficking Resource Center at 1-888-373-7888 or the Statewide Georgia Hotline for Domestic Minor Trafficking at 1-844-842-3678 for help. All victims of slavery and human trafficking have rights and are protected by international, federal, and state law.\nThe hotline is:\nAnonymous and confidential\nAvailable 24 hours a day, seven days a week\nAble to provide help, referral to services, training, and general information\nAccessible in 170 languages\nOperated by a nonprofit, nongovernmental organization\nToll free\nAVISO NACIONAL SOBRE TRATA DE PERSONAS\n¿Usted o alguien que usted conoce son víctimas de tráfico de personas a cambio de sexo o son obligados a trabajar a cambio de un salario irrisorio o sin salario y no pueden escapar?\nLlame al Centro Nacional de Recursos para el Tráfico de Personas (National Human Trafficking Resource Center) al 1-888-373-7888 , o a la línea de asistencia telefónica para casos de Tráfico de Menores en el País de Georgia (Georgia Hotline for Domestic Minor Trafficking) en todo el estado al 1-844-842-3678 para solicitar ayuda. Todas las víctimas de tráfico de personas y esclavitud tienen derechos y están protegidas por leyes internacionales, federales y estatales. La línea de asistencia telefónica:\nEs anónima y confidencial\nEstá disponible las 24 horas del día, los 7 días de la semana\nPuede ofrecer asistencia, recomendación de servicios, capacitación e información general\nEs accesible en 170 idiomas\nEs operada por una organización no gubernamental, sin fines de lucro\nEs un número de llamada gratuita\n“Defeating human trafficking is a great moral calling of our time.”\nCondoleeza Rice Former U.S. Secretary of State\n“You can choose to look the other way but you can never say again that you did not know.”\nWilliam Wilberforce British Politician & Abolitionist\n“Power concedes nothing without a demand. It never did and it never will.”\nFrederick Douglass Formerly Enslaved Person"
+    },
+    {
+      "id": "508e5e7c939ba4c46be0856f",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Public Notice",
+      "url": "https://www.forsythsheriff.org/headquarters/finance-procurement/public-notice",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:27+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Public Notice\nHome\nHeadquarters\nFinance & Procurement\nApplication for Grant Funding\nThe Forsyth County Sheriff’s Office intends to apply for the U.S. Department of Justice (DOJ) Bureau of Justice Assistance (BJA) FY26 Justice Assistance Grant (JAG) in the amount of $12,139 to purchase Automatic External Defibrillators (AED) for its patrol units.\nPublic comments regarding this application are being collected from Monday, September 14th, 2026 thru Thursday, October 15th, 2026. To comment on the Forsyth County Sheriff’s Office’s intent to apply, please complete the form below.\nThe Edward Byrne Memorial Justice Assistance Grant (JAG) Progra m\nFunding Agency Grant RFP Details\nGrant Program Name\nFY26 Justice Assistance Grant (JAG)\nFunding Source (Grantor)/Type\nDepartment of Justice (DOJ), Office of Justice Programs (OJP), Bureau of Justice Assistance (BJA), Justice Assistance Grant (JAG) / Federal\nFunding Opportunity Description\nThe U.S. Department of Justice (DOJ), Office of Justice Programs (OJP), Bureau of Justice Assistance (BJA) seeks applications for formula funding to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice or civil proceedings to local governments to support a range of program areas under the Edward Byrne Memorial Justice Assistance Grant (JAG) Program—Local Solicitation. Forsyth County’s FY26 formula allocation is $12,1393. The Sheriff’s Office will use the grant funds to purchase Automatic External Defibrillators (AEDs) for its patrol units.\nFunding Award Amount\n$12,139\nGrant Timeline\nApplication Due in Grants.gov : October 9, 2026\nApplication Due in JustGrants : October 16, 2026\nPeriod of Performance\nOctober 1, 2026 – September 30, 2028\n\" * \" indicates required fields\nArchived Expenditures\nInmate Communication Services\nRequest for Quote"
+    },
+    {
+      "id": "b4bac455af8f8ee8e0595991",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Past Immigration Compliance Reports",
+      "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting/past-immigration-compliance-reports",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:24+00:00",
+      "matched_keywords": [],
+      "text": "Past Immigration Compliance Reports\nHome\nResources\nImmigration Compliance Reporting\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and local agencies to enter into agreements with federal immigration authorities to assist with enforcement of immigration laws. Mandating that custodial authorities honor immigration detainer notices and report information on foreign-born inmates. Imposing penalties on local governments that adopt “sanctuary” policies that restrict cooperation with federal immigration enforcement. Requiring the Department of Audits and Accounts to review and audit annual reports on agency compliance with immigration-related laws. Expanding the collection of DNA samples from certain convicted felons subject to immigration detainers. The bill aims to promote compliance with state laws related to deterring the presence of criminal illegal aliens in Georgia.\nGeorgia HB1105 Quarterly Reports\nPast Quarterly Reports are shown below.\n1st Quarter 2025\n1st Quarter of 2025\nThis report period is: January 1, 2025 through March 31, 2025\nTotal Number of Inmates Booked\n1,360\nImmigration Alien Queries\n334\nDetainers for Immigration & Customs Enforcement\n17\nWarrants for Removal\n11\nImmigration Alien Queries Response as Illegal Alien\n193\n2nd Quarter 2025\n2nd Quarter of 2025\nThis report period is: April 1, 2025 through June 30, 2025\n1,358\n297\n29\n15\n168\n3rd Quarter 2025\n3rd Quarter of 2025\nThis report period is: July 1, 2025 through September 30, 2025\n1,272\n299\n26\n16\n189\n4th Quarter 2025\n4th Quarter of 2025\nThis report period is: October 1, 2025 through December 31, 2025\n1,141\n249\n20\n142\n1st Quarter 2026\n1st Quarter of 2026\nThis report period is: January 1, 2026 through March 31, 2026\n227\n37*\n150\n*Previous number reported was incorrect. Corrected on August 20, 2026.\n2nd Quarter 2026\n2nd Quarter of 2026\nThis report period is: April 1, 2026 through June 30, 2026\n1,196\n273\n52\n161\n3rd Quarter of 2026\nDetainers for Immigration & Custom Enforcement"
+    },
+    {
+      "id": "ed9e3f4271156a53d6a51e99",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Immigration Compliance Reporting",
+      "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:22+00:00",
+      "matched_keywords": [],
+      "text": "Immigration Compliance Reporting\nHome\nResources\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and local agencies to enter into agreements with federal immigration authorities to assist with enforcement of immigration laws. Mandating that custodial authorities honor immigration detainer notices and report information on foreign-born inmates. Imposing penalties on local governments that adopt “sanctuary” policies that restrict cooperation with federal immigration enforcement. Requiring the Department of Audits and Accounts to review and audit annual reports on agency compliance with immigration-related laws. Expanding the collection of DNA samples from certain convicted felons subject to immigration detainers. The bill aims to promote compliance with state laws related to deterring the presence of criminal illegal aliens in Georgia.\nGeorgia HB1105 Quarterly Reports\nCurrent Quarterly Report is shown below. Additional past reports are listed under current report.\nQuarterly Report Pursuant to Immigration and Nationality Act\nThis report period is: July 1, 2026 through september 30, 2026\nTotal Number of Inmates Booked\n1,220\nImmigration Alien Queries\n314\nDetainers for Immigration & Customs Enforcement\n77\nWarrants for Removal\n25\nImmigration Alien Queries Response as Illegal Alien\n186\nAnimal Control\nContact Us\nCrime Stoppers\nDomestic Violence\nFCSO Careers Current Openings Apply With Us Hiring Process Why Forsyth\nCurrent Openings Apply With Us\nApply With Us\nHiring Process\nWhy Forsyth\nHEROES Foundation About HEROES Foundation\nAbout HEROES Foundation\nHoliday Hope\nImmigration Compliance Reporting Past Immigration Compliance Reports\nPast Immigration Compliance Reports\nP3 Campus Reporting\nPet Adoption & Resource Center Adopt A Pet Foster A Pet Lost & Found Pets Mobile Care Unit Surrender A Pet Volunteer & Donate\nAdopt A Pet\nFoster A Pet\nLost & Found Pets\nMobile Care Unit\nSurrender A Pet\nVolunteer & Donate\nPups With Purpose Current Pups Donations How To Adopt Previously Adopted Pups\nCurrent Pups\nDonations\nHow To Adopt\nPreviously Adopted Pups"
+    },
+    {
+      "id": "8532dde728c90565256e592a",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Traffic Enforcement",
+      "url": "https://www.forsythsheriff.org/law-enforcement/traffic-enforcement",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:20+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Traffic Enforcement\nHome\nLaw Enforcement\nTRAFFIC UNIT\nThe Forsyth County Sheriff’s Office has a full-time Traffic Unit responsible for keeping the roads safe. The Traffic Unit consists of the Governor’s Office of Highway Safety H.E.A.T. (Highway Enforcement of Aggressive Driving) Unit and D.U.I. Task Force, and working alongside the Motorcycle Unit, Traffic Specialist Unit, K9 Unit, and a Traffic Response Vehicle.\nH.E.A.T. UNIT\nThe Forsyth County Sheriff’s Office is proud of its partnership with the Georgia Governor’s Office of Highway Safety (G.O.H.S.). In 2018, The Forsyth County Sheriff’s Office continued its H.E.A.T. Unit program and received a grant from the Governor’s Office for its enforcement and educational efforts. The G.O.H.S. H.E.A.T. Unit members aggressively target unsafe driving behavior in the areas of D.U.I., speeding, occupant protection, and distracted driving. The mission statement for the H.E.A.T. members is to reduce accidents, fatalities, and serious injuries through education and enforcement. The H.E.A.T. members work various schedules with different days and hours to target the most violators of unsafe driving behavior. The members participate in all state and national traffic safety campaigns. They also deploy across the state during H.E.A.T. mobilization, including “Rolling Thunder” and “100 Days of HEAT,” as well as conducting concentrated enforcement and checkpoints with other agencies and H.E.A.T. members. The H.E.A.T. members attend monthly Traffic Network meetings for education, networking, and enforcement to help keep our surrounding communities safe. The H.E.A.T. Officers are expected to be at the top of their game in all areas of traffic safety and continue training and education to maintain those expectations.\nNot only do the H.E.A.T. members aggressively target unsafe driving violators, but they also spend time on educational efforts. The H.E.A.T. members are commonly requested to teach at schools, businesses, and community events to educate the public about Traffic Safety issues.\nThe Forsyth County Sheriff’s Office also has a D.U.I. Unit that essentially has the same goals and responsibilities as a H.E.A.T. member, just not attached to the grant. The H.E.A.T. and D.U.I. members work side by side to combat unsafe driving behavior.\nMOTORS UNIT\nThe Forsyth County Sheriff’s Office also has a full-time Motor Unit. The agency understands the benefits of having a Motor Unit to enforce traffic laws. The Motor Unit is also tasked with aggressive traffic enforcement, targeting high traffic crash areas and complaints from citizens of traffic issues. The Motor Unit also oversees deploying “Speed Smart Trailers” and TraxxPro devices. These devices help the agency target dates and times to best focus on speed enforcement, as well as educating the public on speeding issues.\nThe Motor Unit is also responsible for funeral escorts and other special assignments.\nTRAFFIC SPECIALIST UNIT\nThe Traffic Specialist Unit (TSU) of the F"
+    },
+    {
+      "id": "3df2d786d904005211d9d709",
+      "source": "Forsyth County Sheriff's Office",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Home",
+      "url": "https://www.forsythsheriff.org",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:18+00:00",
+      "matched_keywords": [],
+      "text": "The Edward Byrne Memorial Justice Assistance Grant (JAG) – FY26\nGrant Details and citizen comment form… [READ MORE]"
+    },
+    {
       "id": "dab33e91690c80cc930dc339",
       "source": "City of Cumming",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
       "title": "City of Cumming",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:55+00:00",
+      "fetched_at": "2026-10-13T20:47:15+00:00",
       "matched_keywords": [
         "City of Cumming"
       ],
       "text": ""
     },
     {
-      "id": "b4e792d8953df845a6d25a3b",
+      "id": "b6b6f8c6f22b06d73d08acb9",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
-      "category": "government",
-      "item_type": "pdf",
-      "title": "Manor Sewer Rate Increase",
-      "url": "https://forsythco.b-cdn.net/app/uploads/2026/04/Manor-sewer-rate-increase.pdf",
-      "published": null,
-      "fetched_at": "2026-10-13T20:34:50+00:00",
-      "matched_keywords": [
-        "Forsyth County Board of Commissioners",
-        "Forsyth County",
-        "sewer rate"
-      ],
-      "text": "A RESOLUTION AUTHORIZING A SEWER SERVICE AND REUSE WATER RATE INCREASE FOR THE MANOR DEVELOPMENT IN FORSYTH COUNTY, GEORGIA WHEREAS, Forsyth County, Georgia, and the Forsyth County Board of Commissioners are committed to providing the highest quality water and sewer service through superior customer support, strong financial management, progressive leadership, and environmental stewardship; WHEREAS, in fulfillment of that mission, the County routinely considers the costs of providing water and sewer services in determining how to best serve the water and sewer needs of its customers; WHEREAS, on October 5th, 2006, the Forsyth County Board of Commissioners adopted the Sewer and Reuse Water Services Agreement for the Manor Water Reuse Facility (the \"Agreement\"), an agreement between Forsyth County, Georgia and Brooks Land, Inc., Pilliar Development, Inc., The Manor Community Association, Inc., and The Manor Golf and Country Club, LLC concerning the use and regulation of sewer and reuse water, inter alia, for The Manor and The Manor North residential subdivisions (the \"Manor Development\"), as more particularly described in the Agreement, a copy of which is attached hereto as Exhibit \"A\"; WHEREAS, pursuant to a Resolution dated August 19, 2010, the monthly sewer service fee and Reuse Water availability fee charged by Forsyth County to Manor Development residents was increased to and is currently one hundred thirty dollars and twenty cents ($130.20) per month per residence (the \"Monthly Fee\"); WHEREAS, pursuant to Section 6 of the Agreement, Forsyth County shall limit the annual increases of the Monthly Fee to an amount not to exceed five percent (5%) of the prior year's fees; WHEREAS, effective January 1, 2022 Forsyth County desires to implement a five percent (5%) increase of the Monthly Fee to the amount of one hundred thirty-six dollars and seventy-one cents ($136.71) per month for the residents of the Manor Development; and WHEREAS, Forsyth County wishes to implement an annual increase of the Monthly Fee such that, effective January 1, 2023, and on January pt of each succeeding year, the Monthly Fee will increase by five percent (5%) of the prior year's fees; NOW, THEREFORE, BE IT RESOLVED AS FOLLOWS: • Effective January 1, 2022 the Monthly Fee, pursuant to Section 6 of the Agreement, shall be increased by five percent (5%) to the amount of one hundred thirty-six dollars and seventy-one cents ($136.71); and • Effective January 1, 2023, and on January 1 of each succeeding year, the Monthly Fee shall be increased by five percent (5%) of the prior year's fees. Be it resolved this 21st day of_ October _, 2021. [SIGNATURES ON FOLLOWING PAGE] Mills, Mils, Molly Cooper, Vice Chairman Todd Levent , Member FORSYTH COUNTY BOARD OF COMMISSIONERS ct2e Cindy J. Chairman Alfg ecretary \"cl&- Laura Semanson, Member Attest: Ka de _Pu.. Cierk to tieGoard"
-    },
-    {
-      "id": "5fecfb37ce032efc58a24d29",
-      "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Park Maps",
-      "url": "https://www.forsythco.com/government/departments/parks-recreation/park-maps",
+      "title": "Planning & Community Development",
+      "url": "https://www.forsythco.com/government/departments/planning-community-development",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:48+00:00",
+      "fetched_at": "2026-10-13T20:47:13+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Park Maps\nGovernment\nDepartments A-Z\nParks & Recreation\nTitle\nAddress\nMap\nAll Forsyth County Parks Map\nDownload PDF\nBald Ridge Creek Campground\n4100 Bald Ridge Park Road Cumming, GA 30041\nBennett Park\n5930 Burruss Mill Road Cumming, GA 30041\nBig Creek Greenway\nCaney Creek Preserve\n2755 Caney Road Cumming, GA 30041\nCentral Park\n2300 Keith Bridge Road Cumming, GA 30040\nCharleston Park\n5850 Charleston Park Road Cumming, GA 30041\nChattahoochee Pointe\n5790 Chattahoochee Pointe Drive Suwanee, GA 30024\nCoal Mountain Park\n3560 Settingdown Road Cumming, GA 30028\nDucktown Community Park\n5895 Heardsville Road Cumming, GA 30028\nEagles Beak Park\n8420 Old Federal Road Ball Ground, GA 30107\nFowler Park\n4110 Carolene Way Cumming, GA 30040\nHaw Creek Park\n2205 Echols Road Cumming, GA 30041\nJoint Venture Park at Daves Creek\n3660 Melody Mizer Lane Cumming, GA 30041\nLanierland Park\n6115 Jot-Em-Down Road Cumming, GA 30041\nMary Alice Park\n1820 Mary Alice Park Road Cumming, GA 30041\nMatt Community Park\n6555 Wallace Tatum Road Cumming, GA 30028\nMidway Park\n5100 Post Road Cumming, GA 30040\nOld Atlanta Park\n810 Nichols Road Suwanee, GA 30024\nPooles Mill Park\n7725 Poole’s Mill Road Ball Ground, GA 30107\nSawnee Campground\n3200 Buford Dam Road Cumming, GA 30041\nSawnee Mountain Park\n3995 Watson Road Cumming, GA 30028\nSawnee Mountain Preserve\nVisitor Center 4075 Spot Road Cumming, GA 30040\nSawnee Mountain Preserve Trail Map\nDownload JPG\nShady Grove Campground\n7800 Allyn Lane Memorial Way Cumming, GA 30041\nSharon Springs Park\n1950 Sharon Road Cumming, GA 30041\nSix Mile Creek Park\n6020 Browns Bridge Road Cumming, GA 30041\nSouth Forsyth Soccer Complex\n800 Kemp Road Suwanee, GA 30024\nWindermere Park\n3355 Windermere Parkway Cumming, GA 30041\nYoung Deer Creek Park\n7300 Heard Road Cumming, GA 30041\nAbout Us\nActivities & Events Athletic Leagues Inclement Weather Updates Camps, Classes & Programs Environmental Education Fitness & Memberships Outdoor Recreation Party Packages Special Events Therapeutic Recreation\nAthletic Leagues Inclement Weather Updates\nInclement Weather Updates\nCamps, Classes & Programs\nEnvironmental Education\nFitness & Memberships\nOutdoor Recreation\nParty Packages\nSpecial Events\nTherapeutic Recreation\nLake Lanier Day Use Parks\nPark Permits\nPark Rules\nParks & Facilities\nParks Frequently Asked Questions\nRegistration Information Refund & Transfer Request Scholarships Form\nRefund & Transfer Request\nScholarships Form\nVolunteer & Serve\nPhone\nEmail\nRelated Pages"
+      "text": "Get Involved\nPublic Engagement\nGet informed and involved in the zoning and land use process in Forsyth County."
     },
     {
-      "id": "45e7d4678962714428069bdb",
+      "id": "25be7e79d10ccc8fb64ddae3",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Water & Sewer Rates",
-      "url": "https://www.forsythco.com/government/departments/water-sewer/water-sewer-rates",
+      "title": "Economic Development",
+      "url": "https://www.forsythco.com/government/departments/economic-development",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:44+00:00",
-      "matched_keywords": [
-        "sewer rate"
-      ],
-      "text": "Water & Sewer Rates\nGovernment\nDepartments A-Z\nWater & Sewer\nRates and Information\nWater Rate Calculator (2026)\nBackflow Prevention\nEducational Resources About PFAS About Wastewater Don’t Flush It! Fats, Oils and Grease (FOG) Fix a Leak Week Keeping Your Water Meter Accessible Pressure Reducing Valves Pretreatment Requirements Reuse Water & Hydrants Septic System Care & Maintenance Septic Systems and Tanks Swimming Pool Draining & Discharge Water Service Line Inventory Water Source Water Taste & Odor WaterFirst Community\nAbout PFAS\nAbout Wastewater\nDon’t Flush It!\nFats, Oils and Grease (FOG)\nFix a Leak Week\nKeeping Your Water Meter Accessible\nPressure Reducing Valves\nPretreatment Requirements\nReuse Water & Hydrants\nSeptic System Care & Maintenance\nSeptic Systems and Tanks\nSwimming Pool Draining & Discharge\nWater Service Line Inventory\nWater Source\nWater Taste & Odor\nWaterFirst Community\nFacilities & Tours\nOutdoor Watering & Conservation Water Conservation Kit Why Saving Water Matters\nWater Conservation Kit\nWhy Saving Water Matters\nPay Water Bill & Billing Information\nReport a Problem\nSeptic Tank Pump-Out Septic Tank Pump-Out Application\nSeptic Tank Pump-Out Application\nStart, Stop or Restore Water Service\nWater & Sewer Engineering\nWater & Sewer Projects\nWater Quality\nWaterSmart Portal\nPhone\nHours\nMonday - Friday 8:30 a.m. - 5 p.m.\nAddress\n2435 Freedom Parkway, Suite 1200 Cumming, GA 30041"
+      "fetched_at": "2026-10-13T20:47:11+00:00",
+      "matched_keywords": [],
+      "text": "Lowest Property Taxes in Metro Atlanta\nSee how our 2025 millage rates compare. *Includes government and school rates."
     },
     {
-      "id": "2d1ba3d224d4efe57c6a5bec",
+      "id": "296a15b6114596adccd877a7",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Forsyth County Meetings",
-      "url": "https://www.forsythco.com/government/forsyth-county-meetings",
+      "title": "Film and Video Production Permit",
+      "url": "https://www.forsythco.com/government/departments/planning-community-development/film-and-video-production-permit",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:40+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "Forsyth County Meetings\nFind information about upcoming and past meetings for Forsyth County boards and committees.\nBOC Meeting Minutes Library\nMeeting Video Archive\nLive Broadcast\nPublic Participation Procedures\nUpcoming Meetings\nOctober 15, 2026\nDevelopment Authority Regular Meeting\nRegular Meeting\n9:30 AM\nAdministration Building\nDocuments\nBoard of Commissioners Regular Meeting / Public Hearings\nRegular Meeting/Public Hearings\n5:00 PM\nBoard of Commissioners Building\nOctober 20, 2026\nBoard of Commissioners Work Session Meeting\nWork Session\n2:00 PM\nPlanning Commission Work Session\n6:30 PM\nOctober 27, 2026\nPlanning Commission Regular Meeting/Public Hearings\nNovember 3, 2026\nZoning Board of Appeals Work Session\nBoard of Voter Registrations & Elections\nSpecial Called Meeting\n7:00 PM\nVoter Registrations & Elections\nZoning Board of Appeals Regular Meeting/Public Hearings\nNovember 5, 2026\nNovember 9, 2026\nRegular Meeting/Special Called Meeting\n9:00 AM"
+      "fetched_at": "2026-10-13T20:47:08+00:00",
+      "matched_keywords": [],
+      "text": "Colin Maurer\nPlanner II\n(770) 205-4572\nEmail Colin Maurer"
+    },
+    {
+      "id": "11ed64a447efd6635064b9ea",
+      "source": "Forsyth County Government",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Zoning",
+      "url": "https://www.forsythco.com/government/departments/planning-community-development/zoning",
+      "published": null,
+      "fetched_at": "2026-10-13T20:47:05+00:00",
+      "matched_keywords": [],
+      "text": "Kiley Smith\nPlanning Manager, Zoning Division\n(770) 205-4568\nEmail Kiley Smith"
     },
     {
       "id": "a24edd90dbddae34cb23d265",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
       "title": "Building Permitting",
       "url": "https://www.forsythco.com/government/departments/building-licensing/building-permitting",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:38+00:00",
+      "fetched_at": "2026-10-13T20:47:03+00:00",
       "matched_keywords": [
         "building permit"
       ],
       "text": "Tyler Goode\nDeputy Building Official\n678-513-5929\nEmail Tyler Goode"
     },
     {
-      "id": "83cf507aee5b206332959abb",
+      "id": "7ffef373d8c557144ac99e9a",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Forsyth County App",
-      "url": "https://www.forsythco.com/residents/forsyth-county-app",
+      "title": "Emergency Management Agency",
+      "url": "https://www.forsythco.com/government/departments/emergency-management-agency",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:35+00:00",
+      "fetched_at": "2026-10-13T20:47:00+00:00",
+      "matched_keywords": [],
+      "text": "Sign up for Alert Forsyth\nAs the County’s main emergency alert and notification system, Alert Forsyth enables you to receive real-time alerts and instructions about imminent and local threats to health or safety via text message, telephone call or email. You can select the delivery method(s) you prefer."
+    },
+    {
+      "id": "50d7f4b2ef125b901d0c8f88",
+      "source": "Forsyth County Government",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Homestead & Other Exemptions",
+      "url": "https://www.forsythco.com/government/departments/board-of-assessors/homestead-other-exemptions",
+      "published": null,
+      "fetched_at": "2026-10-13T20:46:57+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Need Help?\nWatch this tutorial, and learn how to get the most out of your app experience!"
+      "text": "Homestead & Other Exemptions\nGovernment\nDepartments A-Z\nBoard of Assessors\nHomestead Exemption – What is it?\nA homestead exemption is one way to reduce the amount of property tax you pay on your residential property. The amount exempted is deducted from the 40% assessed value of the property in the applicable tax categories. In addition to the regular homestead exemption, there are others available for seniors, those with disabilities, military surviving spouses, and more.\nYou must apply for your homestead exemption. Once granted, that homestead exemption is automatically renewed each year unless there is a change in ownership or you no longer meet the eligibility requirements. You do not need to reapply for an exemption if you refinance your home unless there is an ownership name change. If you become eligible for a different exemption, you must apply for the new exemption.\nView Types of Exemptions to see which exemptions may apply to you.\nEligibility\nIn Forsyth County, if you own the property, reside on that property, and are a legal resident of the County, all as of Jan. 1 of the tax year, you may qualify for homestead exemption. Legal resident means that you are registered to vote and/or register your vehicles in Forsyth County. Only one owner needs to meet the requirements to qualify for full exemption.\nYou may only have one homestead exemption on your primary residence. Once you have a homestead exemption, you may not claim homestead exemption at any other property. If you are married, you and your spouse are one entity and may only claim one homestead exemption, even if one house is in your name and the other is in your spouse’s name.\nAdditional eligibility requirements may apply for some exemptions.\nChanges in Property Ownership\nIf the names on the deed change, the person listed on the deed who occupies the property will need to re-apply for homestead exemption.\nTo legally change ownership under your name, a new deed must be recorded in the Forsyth County Clerk of Court’s office.\nIf a change of ownership occurs due to death or divorce, the new owner must apply in person for any exemption granted in the previous owner’s name at the Board of Assessors’ office (426 Canton Hwy).\nWhen to Apply\nYou may apply for regular homestead exemptions year-round, but you must apply by April 1, or during your 45-day appeal window, to receive the exemption for that tax year. Any application received after this date will not be processed until the next tax year.\nIncome-based exemptions are only accepted from Jan. 2 through April 1, or during your 45-day appeal window. Income-based exemptions require additional documentation and include the following:\nS3/L3 – Low Income exemptions for ages 62+\nS4/L4 – Double Homestead Exemption for ages 65+\nS6/L6 – Local Disability\nDocuments Needed to Apply\nFor non income-based standard homestead exemptions, each applicant needs to provide the following information:\nValid Georgia Driver’s License or Georgia State ID card that"
+    },
+    {
+      "id": "91dc6bb7b74ae2e1f57df687",
+      "source": "Forsyth County Government",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Zoning and Land Use Information & Guides",
+      "url": "https://www.forsythco.com/government/departments/planning-community-development/zoning/zoning-land-use-information-guides",
+      "published": null,
+      "fetched_at": "2026-10-13T20:46:55+00:00",
+      "matched_keywords": [],
+      "text": "Linda Brown\nPlanner I\n(770) 781-2115, ext. 2689\nEmail Linda Brown"
+    },
+    {
+      "id": "c326c5da5b3b7823d976a222",
+      "source": "Forsyth County Government",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Report a Problem",
+      "url": "https://www.forsythco.com/report-a-problem",
+      "published": null,
+      "fetched_at": "2026-10-13T20:46:52+00:00",
+      "matched_keywords": [],
+      "text": "Online 311 Portal\nReport an issue with the Online 311 Portal."
     },
     {
       "id": "312fd3857140a7f8cb6f34fd",
       "source": "Forsyth County Government",
-      "source_scope": "broad",
+      "source_scope": "local",
       "category": "government",
       "item_type": "listing_or_page",
       "title": "Home",
       "url": "https://www.forsythco.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:34:33+00:00",
+      "fetched_at": "2026-10-13T20:46:49+00:00",
       "matched_keywords": [
         "Forsyth County",
-        "Forsyth County Court",
         "sewer rate"
       ],
       "text": "Forsyth County is…\nInspiring a Vibrant & Healthy Community\nKeeping Our Community Active\nForsyth County’s Parks & Recreation department is inspiring a connected, vibrant and healthy community through parks and play!\nTop services for…\nCounty Calendar\nMeetings\nEvents\nFeatured Departments\nCourts\nPublic Safety\nParks & Recreation\nSenior Services\nWater & Sewer\nVoting & Elections\nForsyth County Courts strives to uphold justice and protect our community through fair, ethical prosecution and a commitment to the rule of law.\nQuick Links\nSuperior, State and Juvenile Courts\nDistrict Attorney’s Office\nAccountability Courts\nIndigent Defense\nMagistrate Court\nProbate Court\nClerk of Court\nSolicitor-General\nForsyth County Emergency Management Agency (EMA) aims to protect lives and property by helping ensure Forsyth County is prepared for significant emergencies.\n911 Center\nEmergency Management Agency\nFire Department\nSheriff’s Office\nAlert Forsyth\nForsyth County Parks & Recreation is inspiring a connected, vibrant and healthy community through parks and play.\nOnline Registration\nActivities & Events\nFitness & Memberships\nParks & Facilities\nThe Department of Senior Services is committed to providing engaging, impactful life enrichment programs and services for adults ages 60 and better in Forsyth County.\nFacility Rentals\nSenior Centers\nMembership\nOlder Adult Services\nVolunteer & Donate\nForsyth County Department of Water & Sewer aims to provide the highest quality of water and sewer service through progressive leadership and environmental stewardship.\nPay a Water Bill\nReport a Problem\nStart or Stop Service\nWater & Sewer Rates\nWater Quality\nWaterSmart Portal\nThe Department of Voter Registrations & Elections aims to enable all eligible citizens of Forsyth County to exercise their right to register and vote under the Constitution of the United States.\n2026 Elections\nPolling Places & Precincts\nElection Results & Statistics\nRegister to Vote\nMeet Your Representatives\nKerry Hill District 1\nKerry Hill\nDistrict 1\nAlfred John District 2\nAlfred John\nDistrict 2\nTodd Levent District 3\nTodd Levent\nDistrict 3\nMendy Moore District 4\nMendy Moore\nDistrict 4\nLaura Semanson District 5\nLaura Semanson\nDistrict 5\nWho represents me?\nEnter your address to find your elected representatives.\nExploring FoCo\nForsyth County is among the fastest-growing counties in Georgia, with just over 280,000 residents. Offering an abundance of natural resources and entertainment options along with a top-tier education system, it’s no wonder so many want to call Forsyth County their home and community."
