@@ -1,10 +1,10 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T21:16:25+00:00",
-  "finished_at": "2026-10-13T21:18:25+00:00",
-  "item_count": 64,
+  "started_at": "2026-10-13T21:33:54+00:00",
+  "finished_at": "2026-10-13T21:34:55+00:00",
+  "item_count": 35,
   "error_count": 0,
-  "checked_source_count": 11,
+  "checked_source_count": 8,
   "skipped_source_count": 0,
   "notes": [
     "Python collected the material; it did not decide newsworthiness.",
@@ -13,66 +13,51 @@
     "Some websites may block automated requests, render content with JavaScript, or require source-specific handling.",
     "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate."
   ],
-  "stale_skipped_count": 183,
+  "stale_skipped_count": 182,
   "robots_blocked_count": 1,
   "robots_blocked": [
     "https://www.forsyth.k12.ga.us"
   ],
   "checked_sources": [
     {
-      "source": "Forsyth County Government",
-      "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:16:50+00:00"
-    },
-    {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:16:55+00:00"
+      "checked_at": "2026-10-13T21:33:58+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:17:18+00:00"
+      "checked_at": "2026-10-13T21:34:19+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:17:19+00:00"
-    },
-    {
-      "source": "Forsyth County Public Library",
-      "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:17:31+00:00"
+      "checked_at": "2026-10-13T21:34:20+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T21:17:47+00:00"
+      "checked_at": "2026-10-13T21:34:33+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T21:18:00+00:00"
+      "checked_at": "2026-10-13T21:34:46+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:18:05+00:00"
-    },
-    {
-      "source": "Age Well Forsyth",
-      "refresh_minutes": 180,
-      "checked_at": "2026-10-13T21:18:19+00:00"
+      "checked_at": "2026-10-13T21:34:50+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:18:22+00:00"
+      "checked_at": "2026-10-13T21:34:54+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:18:25+00:00"
+      "checked_at": "2026-10-13T21:34:55+00:00"
     }
   ],
   "skipped_sources": [],
@@ -86,7 +71,7 @@
       "title": "Cumming Events Calendar for October 13, 2026 - Cumming, GA Patch",
       "url": "https://patch.com/georgia/cumming/calendar",
       "published": "2026-10-19T23:30:00.000Z",
-      "fetched_at": "2026-10-13T21:17:50+00:00",
+      "fetched_at": "2026-10-13T21:34:36+00:00",
       "matched_keywords": [],
       "text": ""
     },
@@ -99,7 +84,7 @@
       "title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/us/across-america",
       "published": "2026-10-13T17:21:03Z",
-      "fetched_at": "2026-10-13T21:17:51+00:00",
+      "fetched_at": "2026-10-13T21:34:37+00:00",
       "matched_keywords": [],
       "text": "If You Used This App, You May Get A Share Of $15.8M Refund\nThe Federal Trade Commission said eligible consumers should get an email on next steps by Oct. 26."
     },
@@ -112,7 +97,7 @@
       "title": "Atlanta, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/atlanta",
       "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:17:57+00:00",
+      "fetched_at": "2026-10-13T21:34:42+00:00",
       "matched_keywords": [],
       "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
     },
@@ -125,7 +110,7 @@
       "title": "South Cobb, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/southcobb",
       "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:17:55+00:00",
+      "fetched_at": "2026-10-13T21:34:41+00:00",
       "matched_keywords": [],
       "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
     },
@@ -138,7 +123,7 @@
       "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/cumming",
       "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:17:49+00:00",
+      "fetched_at": "2026-10-13T21:34:35+00:00",
       "matched_keywords": [],
       "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
     },
@@ -151,7 +136,7 @@
       "title": "Local Event: Discover Hope, Forgiveness, and New Life in Christ",
       "url": "https://patch.com/georgia/cumming/calendar/event/20261019/8b6d3b1d-0761-47bb-a6ce-597a3985a3c8/discover-hope-forgiveness-and-new-life-in-christ",
       "published": "2026-10-13T15:52:16.489Z",
-      "fetched_at": "2026-10-13T21:17:53+00:00",
+      "fetched_at": "2026-10-13T21:34:38+00:00",
       "matched_keywords": [],
       "text": "Discover Hope, Forgiveness, and New Life in Christ\nEvent Details\nCan you know for certain that your sins are forgiven? What does it mean to be born again?\nJoin Good News Atlanta Church for a three-day Bible Seminar exploring forgiveness, salvation, and the assurance found in Jesus Christ. Guest speaker Pastor Yeong Kook Park will share biblical teaching centered on the promise: “It is God that justifieth.” — Romans 8:33 (KJV)\nWhether you are studying the Bible for the first time or seeking a deeper understanding of your faith, you are warmly invited.\nOctober 19–21, 2026\nMonday: 7:30 PM\nTuesday"
     },
@@ -164,7 +149,7 @@
       "title": "Across Georgia Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/across-ga",
       "published": "2026-10-11T17:47:03Z",
-      "fetched_at": "2026-10-13T21:17:54+00:00",
+      "fetched_at": "2026-10-13T21:34:40+00:00",
       "matched_keywords": [],
       "text": "New Private School Scholarships Could Aid GA Families, But There's A Catch\nGeorgia families could qualify for federal scholarships covering private school tuition, tutoring and more starting in 2027."
     },
@@ -177,7 +162,7 @@
       "title": "Local Event: Witches Night Out",
       "url": "https://patch.com/georgia/cumming/calendar/event/20261015/45ac2bb2-47fc-40a9-a8f3-4a3a851ac716/witches-night-out",
       "published": "2026-10-06T20:15:30.260Z",
-      "fetched_at": "2026-10-13T21:17:59+00:00",
+      "fetched_at": "2026-10-13T21:34:45+00:00",
       "matched_keywords": [],
       "text": "Witches Night Out\nEvent Details\nGather your friends for the annual Halloween ladies night out featuring a costume contest, cocktails, music, and dancing. This bewitching evening of fun benefits The Place and promises a spirited atmosphere for all attendees. Tickets available here: give.theplacega.org/event/witches-night-out-2026/e834206"
     },
@@ -190,7 +175,7 @@
       "title": "Local Event: Cumming Farmers Market",
       "url": "https://patch.com/georgia/cumming/calendar/event/20261017/e5865b36-aacc-4b4b-91f9-8b8e3d19ea98/cumming-farmers-market",
       "published": "2026-10-06T14:32:01.412Z",
-      "fetched_at": "2026-10-13T21:18:00+00:00",
+      "fetched_at": "2026-10-13T21:34:46+00:00",
       "matched_keywords": [],
       "text": "Cumming Farmers Market\nEvent Details\nThe Cumming Farmers Market is a year round market that runs every Saturday. Their hours are from 8am to 11am.\nFind your fresh produce, baked goods, hand made goods, and support local.\nThe Farmers Market will be set up in the Vision Parkway parking lot, to the left as soon as you enter the City Center from Canton Hwy. Parking for the market is available in this lot and in the parallel spots along Vision Parkway"
     },
@@ -203,7 +188,7 @@
       "title": "Local Event: Financial Literacy Fall Series",
       "url": "https://patch.com/georgia/cumming/calendar/event/20261013/b0e09e02-9941-4662-b9de-f24356051632/financial-literacy-fall-series",
       "published": "2026-09-16T13:02:13.487Z",
-      "fetched_at": "2026-10-13T21:17:58+00:00",
+      "fetched_at": "2026-10-13T21:34:44+00:00",
       "matched_keywords": [],
       "text": "Financial Literacy Fall Series\nEvent Details\nEmpower your financial future with this no-cost, four-week series presented by Chase for adults aged 18 and over. Enjoy light refreshments and available childcare while gaining valuable knowledge, but be sure to sign up soon as spots are limited."
     },
@@ -216,7 +201,7 @@
       "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
       "published": "2025-03-14T14:25:00-0400",
-      "fetched_at": "2026-10-13T21:17:36+00:00",
+      "fetched_at": "2026-10-13T21:34:24+00:00",
       "matched_keywords": [],
       "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affect the substantive part of the trial court decision.\n“Council will discuss this matter and proceed in"
     },
@@ -229,7 +214,7 @@
       "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
       "published": "2025-02-18T12:24:00-0500",
-      "fetched_at": "2026-10-13T21:17:39+00:00",
+      "fetched_at": "2026-10-13T21:34:26+00:00",
       "matched_keywords": [],
       "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy topics, like the tragic death of Roswell Police Officer Jeremy Labonte. For a hometown news group, c"
     },
@@ -242,7 +227,7 @@
       "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
       "published": "2025-02-10T16:00:55-0500",
-      "fetched_at": "2026-10-13T21:17:40+00:00",
+      "fetched_at": "2026-10-13T21:34:28+00:00",
       "matched_keywords": [],
       "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, arts and culture highlights and engaging opinion pieces.\n\"Our readers have expressed a desire for deepe"
     },
@@ -255,7 +240,7 @@
       "title": "Appen Media named legal organ by City of Mountain Park officials — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/9/appen-media-named-legal-organ-by-city-of-mountain-park-officials",
       "published": "2025-02-04T18:27:00-0500",
-      "fetched_at": "2026-10-13T21:17:42+00:00",
+      "fetched_at": "2026-10-13T21:34:29+00:00",
       "matched_keywords": [],
       "text": "Appen Media named legal organ by City of Mountain Park officials\nThe Mountain Park City Council named Appen Media Group its legal organ Jan. 27, joining other Metro Atlanta governments who place their public notices in the company’s newspapers.\nState law requires cities to advertise certain announcements in a paper of record, ensuring public knowledge of official meetings, budgets and other municipal business.\nWith a population of fewer than a thousand, the half-square-mile City of Mountain Park is no different.\nLast year Mountain Park ran ads in the Alpharetta-Roswell Herald notifying the pub"
     },
@@ -268,7 +253,7 @@
       "title": "WABE, Appen Media Group/Decaturish sign new partnership agreement — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/1/23/wabe-appen-media-groupdecaturish-sign-new-partnership-agreement",
       "published": "2025-01-23T10:38:01-0500",
-      "fetched_at": "2026-10-13T21:17:44+00:00",
+      "fetched_at": "2026-10-13T21:34:30+00:00",
       "matched_keywords": [],
       "text": "WABE, Appen Media Group/Decaturish sign new partnership agreement\nWABE and Appen Media Group/Decaturish recently signed a new partnership agreement that will mean more collaboration between the two organizations.\nThe two companies are also discussing a multimedia collaboration to be determined.\nDecaturish editor and founder Dan Whisenhunt led the effort to renew and expand a previous agreement with WABE to include Appen Media, which purchased Decaturish in July 2024.\n“Our original agreement has served us well, but it hadn’t been revisited in a while and didn’t include Appen Media,” Whisenhunt "
     },
@@ -281,7 +266,7 @@
       "title": "Marietta native Jon Wilcox joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2024/9/24/marietta-native-jon-wilcox-joins-appen-reporting-team",
       "published": "2024-07-19T10:19:00-0400",
-      "fetched_at": "2026-10-13T21:17:45+00:00",
+      "fetched_at": "2026-10-13T21:34:32+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -296,7 +281,7 @@
       "title": "Appen Media buys Decaturish.com with newsroom staff staying on — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2024/9/24/1ktq0wsblzkdn8w981sr9gyffm2kaq",
       "published": "2024-07-09T10:12:00-0400",
-      "fetched_at": "2026-10-13T21:17:47+00:00",
+      "fetched_at": "2026-10-13T21:34:33+00:00",
       "matched_keywords": [],
       "text": "Appen Media buys Decaturish.com with newsroom staff staying on\nAppen Media Group, publishers of the Herald and Crier newspapers, announced July 1 it has purchased the digital news company Decaturish from longtime owner and founder Dan Whisenhunt.\nThe Alpharetta-based company will keep on Whisenhunt and assistant editor Zoe Seiler to continue their coverage of DeKalb County along with the Decaturish core of freelance writers and photographers. Debbie Inglis will stay in her advertising and marketing role with the company.\n“We couldn’t be more excited to add the Decaturish brand to our media com"
     },
@@ -309,7 +294,7 @@
       "title": "Gottfried Marketing | Custom Apparel, Printing & Marketing in South Florida",
       "url": "https://gottfriedmarketing.com",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:25+00:00",
+      "fetched_at": "2026-10-13T21:34:55+00:00",
       "matched_keywords": [],
       "text": "Shop products\nSouth Florida based · serving businesses anywhere\nYour one-stop branding partner. Fast, easy, and priced to win.\nCustom apparel, printing, promo, websites, and SEO, all under one roof. We help you brand, build, and make more money, without the big-agency runaround.\nOur products\nEvery cat is a product — grab yours\nEach bouncing cat up top stands for something we make. Find what you need, scan the list, and hit the button to get a quote and order it.\nCustom Shirts\nScreen print, DTF & embroidery\n1-hour service available\nAny run, big or small\nFull-Color Printing\nDTF, screen & sublima"
     },
@@ -322,7 +307,7 @@
       "title": "familypromiseforsyth",
       "url": "https://www.fpforsyth.org/board-information",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:22+00:00",
+      "fetched_at": "2026-10-13T21:34:54+00:00",
       "matched_keywords": [],
       "text": ""
     },
@@ -335,7 +320,7 @@
       "title": "Our Board | familypromiseforsyth",
       "url": "https://www.fpforsyth.org/our-board",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:21+00:00",
+      "fetched_at": "2026-10-13T21:34:52+00:00",
       "matched_keywords": [],
       "text": "Our Board\nOur Board of Trustees is a dynamic group of professionals from diverse backgrounds, all united by a common mission: to empower guest families toward sustainable independence through Family Promise’s innovative programs.\nOur Commitment and Role\nEach board member serves as part of our governing body, volunteering their time on one or more committees alongside passionate community volunteers. We are dedicated to supporting our Executive Director and staff—ensuring they have the time and freedom to focus on what matters most: family.\nActive and Engaged Governance\nStaggered Terms: Board m"
     },
@@ -348,141 +333,11 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:20+00:00",
+      "fetched_at": "2026-10-13T21:34:51+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Empowering Families. Strengthening Stability. Transforming Futures.\nAbout\nSince 2016, we have been walking alongside families as they build lives filled with stability and hope. Through personalized support, community partnerships, and compassion-driven care, we help families overcome housing instability and move toward lasting independence.\nOur Programs\nFrom prevention to empowerment, our programs provide more than just a safety net—they offer a path forward. Families engage with tailored supports like Career Couture, FP on the GO, and THRIVE Workshops to build confidence, skills, and stabili"
-    },
-    {
-      "id": "4b878475b4db5de82c7814ba",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "2025 Valentines Party",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-valentines-party",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:18+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Valentines Party 3/7/2025 0 Comments Our first ever Valentine Masquerade Party was held at "
-    },
-    {
-      "id": "75e5fa86f6f962b58e1b9968",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "2025 Charleston Trip",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-charleston-trip",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:17+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Charleston Trip 6/24/2025 0 Comments Wonderful bus trip to Charleston SC in June 2025! See "
-    },
-    {
-      "id": "009aa08e5bab4b9e7ef2b87b",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "2025 Fall Dance at Central Park",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-fall-dance-at-central-park",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:16+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Fall Dance at Central Park 10/27/2025 0 Comments 0 Comments Leave a Reply.\n2025 Fall Dance "
-    },
-    {
-      "id": "f0de31f2c3476f3425b5293b",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "2025 Haunted History Tour",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips/2025-haunted-history-tour",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:14+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2025 Haunted History Tour 10/27/2025 0 Comments The 2025 Haunted History Tour at the Cumming Cem"
-    },
-    {
-      "id": "ed99a9fa231679c57043fa9b",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "2026 Valentine Party",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips/2026-valentine-party",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:13+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2026 Valentine Party 2/5/2026 0 Comments Just a few pics from this year's Valentine Party held a"
-    },
-    {
-      "id": "629cbacaaa4ab6e54ced3ed4",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "Upcoming Events",
-      "url": "https://www.agewellforsyth.com/upcoming-events.html",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:12+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nEvents for seniors (and maybe youngsters too!) ​"
-    },
-    {
-      "id": "2beee190627a5b3bc99651b7",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "Past Events and Trips",
-      "url": "https://www.agewellforsyth.com/past-events-and-trips",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:10+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nCheck out our past events and trips!\n2026 Valentine Party 2/5/2026 0 Comments Just a few pics from this year's Valentine Party held a"
-    },
-    {
-      "id": "090920f746f8f7472dde5021",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "Calendar",
-      "url": "https://www.agewellforsyth.com/calendar.html",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:09+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party"
-    },
-    {
-      "id": "2a037abe63a122cd7cad1ebd",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "Trips and Events",
-      "url": "https://www.agewellforsyth.com/trips-and-events.html",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:08+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nUpcoming Trips\nUpcoming Events\nPrevious Trips and Events"
-    },
-    {
-      "id": "ff0c558e568f406a65d12cae",
-      "source": "Age Well Forsyth",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "About Age Well",
-      "url": "https://www.agewellforsyth.com",
-      "published": null,
-      "fetched_at": "2026-10-13T21:18:07+00:00",
-      "matched_keywords": [],
-      "text": "Home\nTrips and Events\nBlog\nVolunteer\nDonations\nContact Us\nOur Supporters\nCalendar\n2021 Talent Contest Winners\nPast Events and Trips\n2022 Valentines Dance\nGRANTS\n2022 Talent Contest Winners\n2022 Haunted History Tour\nLocal Services\n2023 Sock Hop\n2023 Hoe Down\nOnline Services\n2024 Valentines Party\n2024 Nashville\n2024 Senior Talent Show\n2024 Haunted History Tour\n2024 Halloween Party\n2025 Valentines Party\nCharleston 2025\n2025 Haunted History Tour\n2026 Valentine Party\nEngage. Inspire. Empower.\nCheck out some of the awesome services provided by Age Well Forsyth!\n​ Be sure not to miss any events or tr"
     },
     {
       "id": "fa204cdde796c1d6ec9e2860",
@@ -493,7 +348,7 @@
       "title": "Read Our Impact Report",
       "url": "https://static1.squarespace.com/static/684443495550a63d24faf185/t/696ff41490d03f12e94430c5/1768944660979/Final+v3+2025+Impact+Report.pdf",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:05+00:00",
+      "fetched_at": "2026-10-13T21:34:50+00:00",
       "matched_keywords": [],
       "text": ""
     },
@@ -506,7 +361,7 @@
       "title": "The Place | Get Assistance Today",
       "url": "https://www.theplacega.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:18:04+00:00",
+      "fetched_at": "2026-10-13T21:34:48+00:00",
       "matched_keywords": [],
       "text": "Support. Empower. Transform.\nTo assist the people of Forsyth and Dawson County areas with essential needs and to be self-sustaining.\nWho We Are\nThe Place is a local nonprofit serving Forsyth and Dawson counties, helping individuals and families meet essential needs such as food, clothing, and financial assistance while guiding them toward long-term self-sufficiency through education, workforce training, and holistic support.\nValues\nCompassion and Hope\nWe provide an inclusive and welcoming environment for all clients. We review each case on an individual basis and work to address all needs we i"
     },
@@ -519,7 +374,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:33+00:00",
+      "fetched_at": "2026-10-13T21:34:21+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -534,7 +389,7 @@
       "title": "Cert Application",
       "url": "https://www.forsythco.com/app/uploads/sites/3/2026/05/CERT-Application-2021-2.pdf",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:18+00:00",
+      "fetched_at": "2026-10-13T21:34:19+00:00",
       "matched_keywords": [],
       "text": "FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team APPLICATION FOR ENROLLMENT _____________________________ Applicant’s Name _____________________________ Address _____________________________ City, State, and Zip Code __________________________ Date of Application REV 08/2021 FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team How to apply: 1. On cover sheet give the name you wish to be called and your full address. 2. Fill out the application in this packet. Please complete the entire application. 3. Please print or type all requested information. 4. Please write"
     },
@@ -547,7 +402,7 @@
       "title": "P3 Campus Reporting",
       "url": "https://www.forsythsheriff.org/resources/p3-campus-reporting",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:16+00:00",
+      "fetched_at": "2026-10-13T21:34:17+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -562,7 +417,7 @@
       "title": "News & Events",
       "url": "https://www.forsythsheriff.org/news",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:14+00:00",
+      "fetched_at": "2026-10-13T21:34:15+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -577,7 +432,7 @@
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:12+00:00",
+      "fetched_at": "2026-10-13T21:34:13+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -592,7 +447,7 @@
       "title": "National Human Trafficking Notice",
       "url": "https://www.forsythsheriff.org/national-human-trafficking-notice",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:09+00:00",
+      "fetched_at": "2026-10-13T21:34:11+00:00",
       "matched_keywords": [],
       "text": "National Human Trafficking Notice\nHome\nAre you or someone you know being sold for sex or made/forced to work for little or no pay and cannot leave?\nCall the National Human Trafficking Resource Center at 1-888-373-7888 or the Statewide Georgia Hotline for Domestic Minor Trafficking at 1-844-842-3678 for help. All victims of slavery and human trafficking have rights and are protected by international, federal, and state law.\nThe hotline is:\nAnonymous and confidential\nAvailable 24 hours a day, seven days a week\nAble to provide help, referral to services, training, and general information\nAccessib"
     },
@@ -605,7 +460,7 @@
       "title": "Public Notice",
       "url": "https://www.forsythsheriff.org/headquarters/finance-procurement/public-notice",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:07+00:00",
+      "fetched_at": "2026-10-13T21:34:09+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -620,7 +475,7 @@
       "title": "Past Immigration Compliance Reports",
       "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting/past-immigration-compliance-reports",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:05+00:00",
+      "fetched_at": "2026-10-13T21:34:06+00:00",
       "matched_keywords": [],
       "text": "Past Immigration Compliance Reports\nHome\nResources\nImmigration Compliance Reporting\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and lo"
     },
@@ -633,7 +488,7 @@
       "title": "Immigration Compliance Reporting",
       "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:02+00:00",
+      "fetched_at": "2026-10-13T21:34:04+00:00",
       "matched_keywords": [],
       "text": "Immigration Compliance Reporting\nHome\nResources\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and local agencies to enter into agreement"
     },
@@ -646,7 +501,7 @@
       "title": "Traffic Enforcement",
       "url": "https://www.forsythsheriff.org/law-enforcement/traffic-enforcement",
       "published": null,
-      "fetched_at": "2026-10-13T21:17:00+00:00",
+      "fetched_at": "2026-10-13T21:34:02+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -661,9 +516,24 @@
       "title": "Home",
       "url": "https://www.forsythsheriff.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:16:58+00:00",
+      "fetched_at": "2026-10-13T21:34:00+00:00",
       "matched_keywords": [],
       "text": "The Edward Byrne Memorial Justice Assistance Grant (JAG) – FY26\nGrant Details and citizen comment form… [READ MORE]"
+    },
+    {
+      "id": "dab33e91690c80cc930dc339",
+      "source": "City of Cumming",
+      "source_scope": "local",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "City of Cumming",
+      "url": "https://www.cityofcumming.net",
+      "published": null,
+      "fetched_at": "2026-10-13T21:33:58+00:00",
+      "matched_keywords": [
+        "City of Cumming"
+      ],
+      "text": ""
     }
   ],
   "errors": []
