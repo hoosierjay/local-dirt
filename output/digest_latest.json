@@ -1,8 +1,8 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T21:33:54+00:00",
-  "finished_at": "2026-10-13T21:34:55+00:00",
-  "item_count": 35,
+  "started_at": "2026-10-13T21:39:46+00:00",
+  "finished_at": "2026-10-13T21:40:14+00:00",
+  "item_count": 15,
   "error_count": 0,
   "checked_source_count": 8,
   "skipped_source_count": 0,
@@ -13,7 +13,7 @@
     "Some websites may block automated requests, render content with JavaScript, or require source-specific handling.",
     "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate."
   ],
-  "stale_skipped_count": 182,
+  "stale_skipped_count": 162,
   "robots_blocked_count": 1,
   "robots_blocked": [
     "https://www.forsyth.k12.ga.us"
@@ -22,42 +22,42 @@
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:33:58+00:00"
+      "checked_at": "2026-10-13T21:39:51+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:34:19+00:00"
+      "checked_at": "2026-10-13T21:39:53+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T21:34:20+00:00"
+      "checked_at": "2026-10-13T21:39:53+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T21:34:33+00:00"
+      "checked_at": "2026-10-13T21:40:05+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T21:34:46+00:00"
+      "checked_at": "2026-10-13T21:40:07+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:34:50+00:00"
+      "checked_at": "2026-10-13T21:40:10+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:34:54+00:00"
+      "checked_at": "2026-10-13T21:40:12+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T21:34:55+00:00"
+      "checked_at": "2026-10-13T21:40:14+00:00"
     }
   ],
   "skipped_sources": [],
@@ -71,48 +71,9 @@
       "title": "Cumming Events Calendar for October 13, 2026 - Cumming, GA Patch",
       "url": "https://patch.com/georgia/cumming/calendar",
       "published": "2026-10-19T23:30:00.000Z",
-      "fetched_at": "2026-10-13T21:34:36+00:00",
+      "fetched_at": "2026-10-13T21:40:07+00:00",
       "matched_keywords": [],
       "text": ""
-    },
-    {
-      "id": "167474dd0039690fcba156b3",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Across America Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
-      "url": "https://patch.com/us/across-america",
-      "published": "2026-10-13T17:21:03Z",
-      "fetched_at": "2026-10-13T21:34:37+00:00",
-      "matched_keywords": [],
-      "text": "If You Used This App, You May Get A Share Of $15.8M Refund\nThe Federal Trade Commission said eligible consumers should get an email on next steps by Oct. 26."
-    },
-    {
-      "id": "9ef3c6bea43d1643bdc1f317",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Atlanta, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
-      "url": "https://patch.com/georgia/atlanta",
-      "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:34:42+00:00",
-      "matched_keywords": [],
-      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
-    },
-    {
-      "id": "1cd989cf40c91ddb9fde00a4",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "South Cobb, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
-      "url": "https://patch.com/georgia/southcobb",
-      "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:34:41+00:00",
-      "matched_keywords": [],
-      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
     },
     {
       "id": "4f814f1d7b24461e054305cc",
@@ -123,77 +84,12 @@
       "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/cumming",
       "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-13T21:34:35+00:00",
+      "fetched_at": "2026-10-13T21:40:06+00:00",
       "matched_keywords": [],
       "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
     },
     {
-      "id": "9e06a0741502bdb53423110e",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Local Event: Discover Hope, Forgiveness, and New Life in Christ",
-      "url": "https://patch.com/georgia/cumming/calendar/event/20261019/8b6d3b1d-0761-47bb-a6ce-597a3985a3c8/discover-hope-forgiveness-and-new-life-in-christ",
-      "published": "2026-10-13T15:52:16.489Z",
-      "fetched_at": "2026-10-13T21:34:38+00:00",
-      "matched_keywords": [],
-      "text": "Discover Hope, Forgiveness, and New Life in Christ\nEvent Details\nCan you know for certain that your sins are forgiven? What does it mean to be born again?\nJoin Good News Atlanta Church for a three-day Bible Seminar exploring forgiveness, salvation, and the assurance found in Jesus Christ. Guest speaker Pastor Yeong Kook Park will share biblical teaching centered on the promise: “It is God that justifieth.” — Romans 8:33 (KJV)\nWhether you are studying the Bible for the first time or seeking a deeper understanding of your faith, you are warmly invited.\nOctober 19–21, 2026\nMonday: 7:30 PM\nTuesday"
-    },
-    {
-      "id": "b4b4643a1d06491e01fcba2d",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Across Georgia Patch - Breaking News, Local News, Schools, Weather, Sports and Shopping",
-      "url": "https://patch.com/georgia/across-ga",
-      "published": "2026-10-11T17:47:03Z",
-      "fetched_at": "2026-10-13T21:34:40+00:00",
-      "matched_keywords": [],
-      "text": "New Private School Scholarships Could Aid GA Families, But There's A Catch\nGeorgia families could qualify for federal scholarships covering private school tuition, tutoring and more starting in 2027."
-    },
-    {
-      "id": "b0cefa5b1ab16e140c0ff093",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Local Event: Witches Night Out",
-      "url": "https://patch.com/georgia/cumming/calendar/event/20261015/45ac2bb2-47fc-40a9-a8f3-4a3a851ac716/witches-night-out",
-      "published": "2026-10-06T20:15:30.260Z",
-      "fetched_at": "2026-10-13T21:34:45+00:00",
-      "matched_keywords": [],
-      "text": "Witches Night Out\nEvent Details\nGather your friends for the annual Halloween ladies night out featuring a costume contest, cocktails, music, and dancing. This bewitching evening of fun benefits The Place and promises a spirited atmosphere for all attendees. Tickets available here: give.theplacega.org/event/witches-night-out-2026/e834206"
-    },
-    {
-      "id": "69f9938c768de35d298a08c7",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Local Event: Cumming Farmers Market",
-      "url": "https://patch.com/georgia/cumming/calendar/event/20261017/e5865b36-aacc-4b4b-91f9-8b8e3d19ea98/cumming-farmers-market",
-      "published": "2026-10-06T14:32:01.412Z",
-      "fetched_at": "2026-10-13T21:34:46+00:00",
-      "matched_keywords": [],
-      "text": "Cumming Farmers Market\nEvent Details\nThe Cumming Farmers Market is a year round market that runs every Saturday. Their hours are from 8am to 11am.\nFind your fresh produce, baked goods, hand made goods, and support local.\nThe Farmers Market will be set up in the Vision Parkway parking lot, to the left as soon as you enter the City Center from Canton Hwy. Parking for the market is available in this lot and in the parallel spots along Vision Parkway"
-    },
-    {
-      "id": "28e685acbdde12e9ecac2624",
-      "source": "Patch Cumming",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Local Event: Financial Literacy Fall Series",
-      "url": "https://patch.com/georgia/cumming/calendar/event/20261013/b0e09e02-9941-4662-b9de-f24356051632/financial-literacy-fall-series",
-      "published": "2026-09-16T13:02:13.487Z",
-      "fetched_at": "2026-10-13T21:34:44+00:00",
-      "matched_keywords": [],
-      "text": "Financial Literacy Fall Series\nEvent Details\nEmpower your financial future with this no-cost, four-week series presented by Chase for adults aged 18 and over. Enjoy light refreshments and available childcare while gaining valuable knowledge, but be sure to sign up soon as spots are limited."
-    },
-    {
-      "id": "2fd3715a338fe9b5d689cabe",
+      "id": "2d471d0faa1af91866c7d208",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -201,12 +97,12 @@
       "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
       "published": "2025-03-14T14:25:00-0400",
-      "fetched_at": "2026-10-13T21:34:24+00:00",
+      "fetched_at": "2026-10-13T21:39:57+00:00",
       "matched_keywords": [],
-      "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affect the substantive part of the trial court decision.\n“Council will discuss this matter and proceed in"
+      "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affec"
     },
     {
-      "id": "585d000052e113382dd19b81",
+      "id": "46a6c498b10c3520b70519d9",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -214,12 +110,12 @@
       "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
       "published": "2025-02-18T12:24:00-0500",
-      "fetched_at": "2026-10-13T21:34:26+00:00",
+      "fetched_at": "2026-10-13T21:39:59+00:00",
       "matched_keywords": [],
-      "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy topics, like the tragic death of Roswell Police Officer Jeremy Labonte. For a hometown news group, c"
+      "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy "
     },
     {
-      "id": "74a01290efdceeb816a5ab0b",
+      "id": "65c78af01df6c75623a4583b",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -227,12 +123,12 @@
       "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
       "published": "2025-02-10T16:00:55-0500",
-      "fetched_at": "2026-10-13T21:34:28+00:00",
+      "fetched_at": "2026-10-13T21:40:01+00:00",
       "matched_keywords": [],
-      "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, arts and culture highlights and engaging opinion pieces.\n\"Our readers have expressed a desire for deepe"
+      "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, art"
     },
     {
-      "id": "7fdf30c9735f186d8a4e93f6",
+      "id": "22d751c746a88cfd0b5547cf",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -240,12 +136,12 @@
       "title": "Appen Media named legal organ by City of Mountain Park officials — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/9/appen-media-named-legal-organ-by-city-of-mountain-park-officials",
       "published": "2025-02-04T18:27:00-0500",
-      "fetched_at": "2026-10-13T21:34:29+00:00",
+      "fetched_at": "2026-10-13T21:40:02+00:00",
       "matched_keywords": [],
-      "text": "Appen Media named legal organ by City of Mountain Park officials\nThe Mountain Park City Council named Appen Media Group its legal organ Jan. 27, joining other Metro Atlanta governments who place their public notices in the company’s newspapers.\nState law requires cities to advertise certain announcements in a paper of record, ensuring public knowledge of official meetings, budgets and other municipal business.\nWith a population of fewer than a thousand, the half-square-mile City of Mountain Park is no different.\nLast year Mountain Park ran ads in the Alpharetta-Roswell Herald notifying the pub"
+      "text": "Appen Media named legal organ by City of Mountain Park officials\nThe Mountain Park City Council named Appen Media Group its legal organ Jan. 27, joining other Metro Atlanta governments who place their public notices in the company’s newspapers.\nState law requires cities to advertise certain announcements in a paper of record, ensuring public knowledge of official meetings, budgets and other municipal business.\nWith a population of fewer than a thousand, the half-square-mile City of Mountain Park"
     },
     {
-      "id": "48ddc26aaa605f101d123cf1",
+      "id": "98e14d5327b839b688c6ed70",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -253,12 +149,12 @@
       "title": "WABE, Appen Media Group/Decaturish sign new partnership agreement — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/1/23/wabe-appen-media-groupdecaturish-sign-new-partnership-agreement",
       "published": "2025-01-23T10:38:01-0500",
-      "fetched_at": "2026-10-13T21:34:30+00:00",
+      "fetched_at": "2026-10-13T21:40:03+00:00",
       "matched_keywords": [],
-      "text": "WABE, Appen Media Group/Decaturish sign new partnership agreement\nWABE and Appen Media Group/Decaturish recently signed a new partnership agreement that will mean more collaboration between the two organizations.\nThe two companies are also discussing a multimedia collaboration to be determined.\nDecaturish editor and founder Dan Whisenhunt led the effort to renew and expand a previous agreement with WABE to include Appen Media, which purchased Decaturish in July 2024.\n“Our original agreement has served us well, but it hadn’t been revisited in a while and didn’t include Appen Media,” Whisenhunt "
+      "text": "WABE, Appen Media Group/Decaturish sign new partnership agreement\nWABE and Appen Media Group/Decaturish recently signed a new partnership agreement that will mean more collaboration between the two organizations.\nThe two companies are also discussing a multimedia collaboration to be determined.\nDecaturish editor and founder Dan Whisenhunt led the effort to renew and expand a previous agreement with WABE to include Appen Media, which purchased Decaturish in July 2024.\n“Our original agreement has "
     },
     {
-      "id": "8e915b8e8855b6e682f61c03",
+      "id": "e00eb0b05f1356e08f0badf0",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -266,27 +162,14 @@
       "title": "Marietta native Jon Wilcox joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2024/9/24/marietta-native-jon-wilcox-joins-appen-reporting-team",
       "published": "2024-07-19T10:19:00-0400",
-      "fetched_at": "2026-10-13T21:34:32+00:00",
+      "fetched_at": "2026-10-13T21:40:05+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Marietta native Jon Wilcox joins Appen reporting team\nAppen Media Group announced July 17 that Jon Wilcox will join its staff as a reporter. Wilcox will cover local government and business in Alpharetta and Forsyth County. He will report to Carl Appen, director of content and development, and he will be based in Alpharetta.\n“Jon developed sharp reporting and editing chops in a Texas newsroom similar to ours,” Appen said in a statement. “We’re excited to have him here with us now and to see what he can do back in friendly territory.”\nWilcox grew up in Marietta and graduated from Texas State Uni"
+      "text": "Marietta native Jon Wilcox joins Appen reporting team\nAppen Media Group announced July 17 that Jon Wilcox will join its staff as a reporter. Wilcox will cover local government and business in Alpharetta and Forsyth County. He will report to Carl Appen, director of content and development, and he will be based in Alpharetta.\n“Jon developed sharp reporting and editing chops in a Texas newsroom similar to ours,” Appen said in a statement. “We’re excited to have him here with us now and to see what "
     },
     {
-      "id": "4e8615a02b8c6f21f0610328",
-      "source": "Appen Media Group (Forsyth Herald)",
-      "source_scope": "local",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Appen Media buys Decaturish.com with newsroom staff staying on — Appen Media Group",
-      "url": "https://www.appenmediagroup.com/news/2024/9/24/1ktq0wsblzkdn8w981sr9gyffm2kaq",
-      "published": "2024-07-09T10:12:00-0400",
-      "fetched_at": "2026-10-13T21:34:33+00:00",
-      "matched_keywords": [],
-      "text": "Appen Media buys Decaturish.com with newsroom staff staying on\nAppen Media Group, publishers of the Herald and Crier newspapers, announced July 1 it has purchased the digital news company Decaturish from longtime owner and founder Dan Whisenhunt.\nThe Alpharetta-based company will keep on Whisenhunt and assistant editor Zoe Seiler to continue their coverage of DeKalb County along with the Decaturish core of freelance writers and photographers. Debbie Inglis will stay in her advertising and marketing role with the company.\n“We couldn’t be more excited to add the Decaturish brand to our media com"
-    },
-    {
-      "id": "9f8b38dc71ec05bbdc204879",
+      "id": "3ea883535d8d9e3894748055",
       "source": "Forsyth County Chamber of Commerce",
       "source_scope": "local",
       "category": "business",
@@ -294,25 +177,12 @@
       "title": "Gottfried Marketing | Custom Apparel, Printing & Marketing in South Florida",
       "url": "https://gottfriedmarketing.com",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:55+00:00",
+      "fetched_at": "2026-10-13T21:40:14+00:00",
       "matched_keywords": [],
-      "text": "Shop products\nSouth Florida based · serving businesses anywhere\nYour one-stop branding partner. Fast, easy, and priced to win.\nCustom apparel, printing, promo, websites, and SEO, all under one roof. We help you brand, build, and make more money, without the big-agency runaround.\nOur products\nEvery cat is a product — grab yours\nEach bouncing cat up top stands for something we make. Find what you need, scan the list, and hit the button to get a quote and order it.\nCustom Shirts\nScreen print, DTF & embroidery\n1-hour service available\nAny run, big or small\nFull-Color Printing\nDTF, screen & sublima"
+      "text": "Shop products\nSouth Florida based · serving businesses anywhere\nYour one-stop branding partner. Fast, easy, and priced to win.\nCustom apparel, printing, promo, websites, and SEO, all under one roof. We help you brand, build, and make more money, without the big-agency runaround.\nOur products\nEvery cat is a product — grab yours\nEach bouncing cat up top stands for something we make. Find what you need, scan the list, and hit the button to get a quote and order it.\nCustom Shirts\nScreen print, DTF &"
     },
     {
-      "id": "57416a0b507ce7dbd024869c",
-      "source": "Family Promise of Forsyth County",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "familypromiseforsyth",
-      "url": "https://www.fpforsyth.org/board-information",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:54+00:00",
-      "matched_keywords": [],
-      "text": ""
-    },
-    {
-      "id": "31ad42e848b71d37bbf0b17e",
+      "id": "30607a544cef461a44561c28",
       "source": "Family Promise of Forsyth County",
       "source_scope": "local",
       "category": "nonprofit",
@@ -320,12 +190,12 @@
       "title": "Our Board | familypromiseforsyth",
       "url": "https://www.fpforsyth.org/our-board",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:52+00:00",
+      "fetched_at": "2026-10-13T21:40:12+00:00",
       "matched_keywords": [],
-      "text": "Our Board\nOur Board of Trustees is a dynamic group of professionals from diverse backgrounds, all united by a common mission: to empower guest families toward sustainable independence through Family Promise’s innovative programs.\nOur Commitment and Role\nEach board member serves as part of our governing body, volunteering their time on one or more committees alongside passionate community volunteers. We are dedicated to supporting our Executive Director and staff—ensuring they have the time and freedom to focus on what matters most: family.\nActive and Engaged Governance\nStaggered Terms: Board m"
+      "text": "Our Board\nOur Board of Trustees is a dynamic group of professionals from diverse backgrounds, all united by a common mission: to empower guest families toward sustainable independence through Family Promise’s innovative programs.\nOur Commitment and Role\nEach board member serves as part of our governing body, volunteering their time on one or more committees alongside passionate community volunteers. We are dedicated to supporting our Executive Director and staff—ensuring they have the time and f"
     },
     {
-      "id": "121c7309e84d3f57227c1aff",
+      "id": "d96d41187f2045881ee75bdc",
       "source": "Family Promise of Forsyth County",
       "source_scope": "local",
       "category": "nonprofit",
@@ -333,27 +203,14 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:51+00:00",
+      "fetched_at": "2026-10-13T21:40:11+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Empowering Families. Strengthening Stability. Transforming Futures.\nAbout\nSince 2016, we have been walking alongside families as they build lives filled with stability and hope. Through personalized support, community partnerships, and compassion-driven care, we help families overcome housing instability and move toward lasting independence.\nOur Programs\nFrom prevention to empowerment, our programs provide more than just a safety net—they offer a path forward. Families engage with tailored supports like Career Couture, FP on the GO, and THRIVE Workshops to build confidence, skills, and stabili"
+      "text": "Empowering Families. Strengthening Stability. Transforming Futures.\nAbout\nSince 2016, we have been walking alongside families as they build lives filled with stability and hope. Through personalized support, community partnerships, and compassion-driven care, we help families overcome housing instability and move toward lasting independence.\nOur Programs\nFrom prevention to empowerment, our programs provide more than just a safety net—they offer a path forward. Families engage with tailored suppo"
     },
     {
-      "id": "fa204cdde796c1d6ec9e2860",
-      "source": "The Place of Forsyth County",
-      "source_scope": "local",
-      "category": "nonprofit",
-      "item_type": "pdf",
-      "title": "Read Our Impact Report",
-      "url": "https://static1.squarespace.com/static/684443495550a63d24faf185/t/696ff41490d03f12e94430c5/1768944660979/Final+v3+2025+Impact+Report.pdf",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:50+00:00",
-      "matched_keywords": [],
-      "text": ""
-    },
-    {
-      "id": "42f78eab0d9d3fa0202706d3",
+      "id": "193538566e96047b9d0396d8",
       "source": "The Place of Forsyth County",
       "source_scope": "local",
       "category": "nonprofit",
@@ -361,12 +218,12 @@
       "title": "The Place | Get Assistance Today",
       "url": "https://www.theplacega.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:48+00:00",
+      "fetched_at": "2026-10-13T21:40:10+00:00",
       "matched_keywords": [],
-      "text": "Support. Empower. Transform.\nTo assist the people of Forsyth and Dawson County areas with essential needs and to be self-sustaining.\nWho We Are\nThe Place is a local nonprofit serving Forsyth and Dawson counties, helping individuals and families meet essential needs such as food, clothing, and financial assistance while guiding them toward long-term self-sufficiency through education, workforce training, and holistic support.\nValues\nCompassion and Hope\nWe provide an inclusive and welcoming environment for all clients. We review each case on an individual basis and work to address all needs we i"
+      "text": "Support. Empower. Transform.\nTo assist the people of Forsyth and Dawson County areas with essential needs and to be self-sustaining.\nWho We Are\nThe Place is a local nonprofit serving Forsyth and Dawson counties, helping individuals and families meet essential needs such as food, clothing, and financial assistance while guiding them toward long-term self-sufficiency through education, workforce training, and holistic support.\nValues\nCompassion and Hope\nWe provide an inclusive and welcoming enviro"
     },
     {
-      "id": "e09f68be82120722c6f509f5",
+      "id": "96c6fde82f58577a777cf141",
       "source": "Appen Media Group (Forsyth Herald)",
       "source_scope": "local",
       "category": "news",
@@ -374,138 +231,11 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:21+00:00",
+      "fetched_at": "2026-10-13T21:39:54+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Delivering quality news and marketing campaigns to Alpharetta, Roswell, Johns Creek, south Forsyth County, Milton, Dunwoody, Sandy Springs, Decatur and surrounding communities\nAppen Media Group (AMG) is a family owned news media company located in the Northern suburbs of Atlanta. The company was founded in 1990 by Ray and Christina Appen, two veteran newspaper executives formerly with Knight-Ridder/The Miami Herald. The company is now led by their son, CEO & Publisher Hans Appen.\nSince its inception, AMG has focused on professionally produced local journalism in the areas of government, educat"
-    },
-    {
-      "id": "de8223948b01ac51d6de18a0",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "pdf",
-      "title": "Cert Application",
-      "url": "https://www.forsythco.com/app/uploads/sites/3/2026/05/CERT-Application-2021-2.pdf",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:19+00:00",
-      "matched_keywords": [],
-      "text": "FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team APPLICATION FOR ENROLLMENT _____________________________ Applicant’s Name _____________________________ Address _____________________________ City, State, and Zip Code __________________________ Date of Application REV 08/2021 FORSYTH COUNTY SHERIFF’S OFFICE Community Emergency Response Team How to apply: 1. On cover sheet give the name you wish to be called and your full address. 2. Fill out the application in this packet. Please complete the entire application. 3. Please print or type all requested information. 4. Please write"
-    },
-    {
-      "id": "c996a88a47c3b762f9e42d41",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "P3 Campus Reporting",
-      "url": "https://www.forsythsheriff.org/resources/p3-campus-reporting",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:17+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "P3 Campus Reporting\nHome\nResources\nSEE SOMETHING SAY SOMETHING ON CAMPUS\nTo report a crime in progress call 911!\nThe Forsyth County Sheriff’s Office and Forsyth County Schools work together to provide P3 Campus Reporting, which provides an avenue for all members of the community to submit anonymous tips about non-urgent illegal activities such as unsolved cases, vandalism, theft, the sale and distribution of drugs, possession of weapons or information about crimes that are being planned on their schools’ campus.\nStudents are encouraged to report information about dangerous or harmful situation"
-    },
-    {
-      "id": "b427707c72236a358ecc7a40",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "News & Events",
-      "url": "https://www.forsythsheriff.org/news",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:15+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "News & Press Releases\nThe Latest From FCSO\nSeptember 21, 2026 Holiday Hope The Forsyth County Sheriff’s Office will be delivering meals, pantry staple items, comfort items and pet food for 300+ seniors in our community during the Christmas Holiday and we need your help! Please consider donating DRY dog and cat food at any of the Hollywood Feed locations in Forsyth County…\nSeptember 21, 2026\nHoliday Hope\nThe Forsyth County Sheriff’s Office will be delivering meals, pantry staple items, comfort items and pet food for 300+ seniors in our community during the Christmas Holiday and we need your hel"
-    },
-    {
-      "id": "e08823e1691617a387b4c5df",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Community Outreach",
-      "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:13+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "Community Outreach\nHome\nLaw Enforcement\nThe Community Outreach Section consists of the Community Relations, Park Rangers and the Volunteer Unit.\nCommunity Relations Unit\n​​​The Community Relations Unit serves to promote safety and education to the citizens and businesses of Forsyth County and is a vital component of the Forsyth County Sheriff’s Office. The FCSO Community Relations Unit is responsible for coordinating and delivering special classes and programs that work to educate the community and to better build the relationship between the community and the Sheriff’s Office. Along with the "
-    },
-    {
-      "id": "73a5ff47c78a8409a6c4f230",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "National Human Trafficking Notice",
-      "url": "https://www.forsythsheriff.org/national-human-trafficking-notice",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:11+00:00",
-      "matched_keywords": [],
-      "text": "National Human Trafficking Notice\nHome\nAre you or someone you know being sold for sex or made/forced to work for little or no pay and cannot leave?\nCall the National Human Trafficking Resource Center at 1-888-373-7888 or the Statewide Georgia Hotline for Domestic Minor Trafficking at 1-844-842-3678 for help. All victims of slavery and human trafficking have rights and are protected by international, federal, and state law.\nThe hotline is:\nAnonymous and confidential\nAvailable 24 hours a day, seven days a week\nAble to provide help, referral to services, training, and general information\nAccessib"
-    },
-    {
-      "id": "b43af501e18e197a0ea56dcc",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Public Notice",
-      "url": "https://www.forsythsheriff.org/headquarters/finance-procurement/public-notice",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:09+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "Public Notice\nHome\nHeadquarters\nFinance & Procurement\nApplication for Grant Funding\nThe Forsyth County Sheriff’s Office intends to apply for the U.S. Department of Justice (DOJ) Bureau of Justice Assistance (BJA) FY26 Justice Assistance Grant (JAG) in the amount of $12,139 to purchase Automatic External Defibrillators (AED) for its patrol units.\nPublic comments regarding this application are being collected from Monday, September 14th, 2026 thru Thursday, October 15th, 2026. To comment on the Forsyth County Sheriff’s Office’s intent to apply, please complete the form below.\nThe Edward Byrne Me"
-    },
-    {
-      "id": "e01fa638537f74684336cad3",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Past Immigration Compliance Reports",
-      "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting/past-immigration-compliance-reports",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:06+00:00",
-      "matched_keywords": [],
-      "text": "Past Immigration Compliance Reports\nHome\nResources\nImmigration Compliance Reporting\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and lo"
-    },
-    {
-      "id": "25ae70d5c4e407bb84219c22",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Immigration Compliance Reporting",
-      "url": "https://www.forsythsheriff.org/resources/immigration-compliance-reporting",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:04+00:00",
-      "matched_keywords": [],
-      "text": "Immigration Compliance Reporting\nHome\nResources\nGeorgia HB 1105 – Georgia Criminal Alien Track and Report Act of 2024\nThis bill, the Georgia Criminal Alien Track and Report Act of 2024, aims to enhance cooperation between state and local law enforcement agencies and federal immigration authorities in order to identify and detain criminal illegal aliens. Key provisions include: Authorizing law enforcement officers to verify the immigration status of individuals accused of certain misdemeanor offenses prior to releasing them on citation. Requiring state and local agencies to enter into agreement"
-    },
-    {
-      "id": "e680a6b4aee3f6b939ce8acd",
-      "source": "Forsyth County Sheriff's Office",
-      "source_scope": "local",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Traffic Enforcement",
-      "url": "https://www.forsythsheriff.org/law-enforcement/traffic-enforcement",
-      "published": null,
-      "fetched_at": "2026-10-13T21:34:02+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "Traffic Enforcement\nHome\nLaw Enforcement\nTRAFFIC UNIT\nThe Forsyth County Sheriff’s Office has a full-time Traffic Unit responsible for keeping the roads safe. The Traffic Unit consists of the Governor’s Office of Highway Safety H.E.A.T. (Highway Enforcement of Aggressive Driving) Unit and D.U.I. Task Force, and working alongside the Motorcycle Unit, Traffic Specialist Unit, K9 Unit, and a Traffic Response Vehicle.\nH.E.A.T. UNIT\nThe Forsyth County Sheriff’s Office is proud of its partnership with the Georgia Governor’s Office of Highway Safety (G.O.H.S.). In 2018, The Forsyth County Sheriff’s O"
+      "text": "Delivering quality news and marketing campaigns to Alpharetta, Roswell, Johns Creek, south Forsyth County, Milton, Dunwoody, Sandy Springs, Decatur and surrounding communities\nAppen Media Group (AMG) is a family owned news media company located in the Northern suburbs of Atlanta. The company was founded in 1990 by Ray and Christina Appen, two veteran newspaper executives formerly with Knight-Ridder/The Miami Herald. The company is now led by their son, CEO & Publisher Hans Appen.\nSince its incep"
     },
     {
       "id": "3df2d786d904005211d9d709",
@@ -516,7 +246,7 @@
       "title": "Home",
       "url": "https://www.forsythsheriff.org",
       "published": null,
-      "fetched_at": "2026-10-13T21:34:00+00:00",
+      "fetched_at": "2026-10-13T21:39:53+00:00",
       "matched_keywords": [],
       "text": "The Edward Byrne Memorial Justice Assistance Grant (JAG) – FY26\nGrant Details and citizen comment form… [READ MORE]"
     },
@@ -529,7 +259,7 @@
       "title": "City of Cumming",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T21:33:58+00:00",
+      "fetched_at": "2026-10-13T21:39:51+00:00",
       "matched_keywords": [
         "City of Cumming"
       ],
