@@ -104,7 +104,7 @@ The simplest Windows setup is Task Scheduler:
 The script itself decides which websites are actually due.
 
 ## ADDING/REMOVING SITES
-Add a Southside-specific site:
+Add a local site:
 
     {
       "name": "Example Town",
@@ -114,7 +114,7 @@ Add a Southside-specific site:
       "refresh_minutes": 120
     }
 
-Add a broad site where only Southside matches should survive:
+Add a broad site where only local matches should survive:
 
     {
       "name": "Example News",

@@ -17,12 +17,9 @@
       "patch.com/georgia/cumming",
       "theplaceofforsyth.org", 
       "agewellforsyth.com", 
-      "abbahouse.com", 
       "caes.uga.edu/extension/forsyth", 
       "forsyth-cummingoptimistclub.com", 
-      "unitedwayforsyth.org",
       "fpforsyth.org", 
-      "i1project.org", 
       "forsythchamber.com", 
       "ymcaatlanta.org"
     ]
@@ -149,10 +146,10 @@
     "scope": "broad",
     "category": "government",
     "refresh_minutes": 240,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -161,10 +158,10 @@
     "scope": "broad",
     "category": "government",
     "refresh_minutes": 240,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -173,10 +170,10 @@
     "scope": "broad",
     "category": "government",
     "refresh_minutes": 240,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -185,10 +182,10 @@
     "scope": "broad",
     "category": "government",
     "refresh_minutes": 240,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -197,10 +194,10 @@
     "scope": "broad",
     "category": "government",
     "refresh_minutes": 240,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -209,10 +206,10 @@
     "scope": "broad",
     "category": "news",
     "refresh_minutes": 60,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -221,10 +218,10 @@
     "scope": "broad",
     "category": "news",
     "refresh_minutes": 60,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -233,10 +230,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -245,22 +242,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
-    "is_feed": false
-  },
-  {
-    "name": "Abba House",
-    "url": "https://www.abbahouse.com",
-    "scope": "broad",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 1,
-    "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -269,10 +254,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -281,22 +266,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
-    "is_feed": false
-  },
-  {
-    "name": "United Way of Forsyth County",
-    "url": "https://www.unitedwayforsyth.org",
-    "scope": "broad",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 1,
-    "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -305,22 +278,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
-    "is_feed": false
-  },
-  {
-    "name": "i1 Project",
-    "url": "https://www.i1project.org",
-    "scope": "broad",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 1,
-    "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -329,10 +290,10 @@
     "scope": "broad",
     "category": "business",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   },
   {
@@ -341,10 +302,10 @@
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
-    "crawl_depth": 1,
+    "crawl_depth": 3,
     "max_pages": 10,
-    "max_item_age_days": 400,
-    "max_text_chars": 25000,
+    "max_item_age_days": 30,
+    "max_text_chars": 20000,
     "is_feed": false
   }
 ],
