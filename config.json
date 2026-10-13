@@ -8,7 +8,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 LocalDirt/0.2 (+local public-information collector; contact: YOUR_EMAIL_HERE)",
     "respect_robots_txt": true,
     "robots_exempt_domains": [
-      "forsythco.com", 
       "cityofcumming.net", 
       "fpforsyth.org", 
       "forsythchamber.com"
@@ -108,18 +107,6 @@
   ],
 "sources": [
   {
-    "name": "Forsyth County Government",
-    "url": "https://www.forsythco.com",
-    "scope": "local",
-    "category": "government",
-    "refresh_minutes": 240,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 600,
-    "is_feed": false
-  },
-  {
     "name": "City of Cumming",
     "url": "https://www.cityofcumming.net",
     "scope": "local",
@@ -146,18 +133,6 @@
   {
     "name": "Forsyth County Schools",
     "url": "https://www.forsyth.k12.ga.us",
-    "scope": "local",
-    "category": "government",
-    "refresh_minutes": 240,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 600,
-    "is_feed": false
-  },
-  {
-    "name": "Forsyth County Public Library",
-    "url": "https://www.forsythpl.org",
     "scope": "local",
     "category": "government",
     "refresh_minutes": 240,
@@ -204,18 +179,6 @@
     "is_feed": false
   },
   {
-    "name": "Age Well Forsyth",
-    "url": "https://www.agewellforsyth.com",
-    "scope": "local",
-    "category": "nonprofit",
-    "refresh_minutes": 180,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 600,
-    "is_feed": false
-  },
-  {
     "name": "Family Promise of Forsyth County",
     "url": "https://www.fpforsyth.org",
     "scope": "local",
@@ -241,7 +204,7 @@
   }
 ],
   "scheduler": {
-    "master_run_minutes": 15,
+    "master_run_minutes": 60,
     "last_checked_file": "last_checked.json",
     "default_refresh_minutes_by_category": {
       "sports": 120,
