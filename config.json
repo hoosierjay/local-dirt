@@ -11,12 +11,11 @@
       "forsythco.com", 
       "cityofcumming.net", 
       "fpforsyth.org", 
-      "forsythchamber.com", 
-      "ymcaatlanta.org"
+      "forsythchamber.com"
     ]
   },
   "limits": {
-    "max_pages_per_source": 12,
+    "max_pages_per_source": 10,
     "max_links_from_page": 120,
     "max_text_chars_per_item": 600,
     "max_pdf_pages": 25,
@@ -73,6 +72,13 @@
     "rezoning",
     "sewer rate",
     "referendum",
+    "health department",
+    "board of health",
+    "restaurant inspection",
+    "food inspection",
+    "building permit",
+    "rezoning",
+    "sewer rate",
     "median home price",
     "press release"
   ],
@@ -93,20 +99,12 @@
     "twitter.com",
     "youtube.com",
     "practice",
-    "calendar-template"
+    "calendar-template",
+    "promote"
   ],
   "broad_source_keywords": [
     "Forsyth County", 
-    "City of Cumming", 
-    "health department",
-    "board of health",
-    "restaurant inspection",
-    "food inspection",
-    "building permit",
-    "rezoning",
-    "sewer rate",
-    "referendum",
-    "median home price"
+    "City of Cumming"
   ],
 "sources": [
   {
@@ -210,7 +208,7 @@
     "url": "https://www.agewellforsyth.com",
     "scope": "local",
     "category": "nonprofit",
-    "refresh_minutes": 1440,
+    "refresh_minutes": 180,
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
@@ -240,45 +238,33 @@
     "max_item_age_days": 30,
     "max_text_chars": 600,
     "is_feed": false
-  },
-  {
-    "name": "Metro Atlanta YMCA",
-    "url": "https://www.ymcaatlanta.org",
-    "scope": "local",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 600,
-    "is_feed": false
   }
 ],
   "scheduler": {
     "master_run_minutes": 15,
     "last_checked_file": "last_checked.json",
     "default_refresh_minutes_by_category": {
-      "sports": 15,
-      "school_district": 30,
-      "school_news": 30,
+      "sports": 120,
+      "school_district": 360,
+      "school_news": 360,
       "school_board": 360,
-      "news": 30,
-      "business_news": 30,
-      "city": 120,
-      "town": 120,
-      "county": 120,
-      "government": 120,
-      "city_government": 120,
+      "news": 60,
+      "business_news": 60,
+      "city": 360,
+      "town": 360,
+      "county": 360,
+      "government": 360,
+      "city_government": 360,
       "city_council": 360,
       "town_council": 360,
       "county_council": 360,
       "county_meetings": 360,
-      "planning_zoning": 180,
-      "development": 120,
-      "transportation": 30,
-      "weather": 15,
-      "civic": 180
+      "planning_zoning": 360,
+      "development": 360,
+      "transportation": 360,
+      "weather": 360,
+      "civic": 360
     },
-    "fallback_refresh_minutes": 60
+    "fallback_refresh_minutes": 360
   }
 }
