@@ -1,10 +1,10 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T20:23:42+00:00",
-  "finished_at": "2026-10-13T20:24:50+00:00",
-  "item_count": 17,
-  "error_count": 1,
-  "checked_source_count": 14,
+  "started_at": "2026-10-13T20:34:32+00:00",
+  "finished_at": "2026-10-13T20:35:18+00:00",
+  "item_count": 16,
+  "error_count": 0,
+  "checked_source_count": 12,
   "skipped_source_count": 0,
   "notes": [
     "Python collected the material; it did not decide newsworthiness.",
@@ -20,91 +20,66 @@
     {
       "source": "Forsyth County Government",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:24:06+00:00"
+      "checked_at": "2026-10-13T20:34:50+00:00"
     },
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:24:07+00:00"
+      "checked_at": "2026-10-13T20:34:55+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:24:12+00:00"
+      "checked_at": "2026-10-13T20:34:58+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:24:20+00:00"
+      "checked_at": "2026-10-13T20:35:05+00:00"
     },
     {
       "source": "Forsyth County Public Library",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:24:21+00:00"
+      "checked_at": "2026-10-13T20:35:07+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:24:22+00:00"
+      "checked_at": "2026-10-13T20:35:08+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:24:24+00:00"
+      "checked_at": "2026-10-13T20:35:09+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:27+00:00"
+      "checked_at": "2026-10-13T20:35:11+00:00"
     },
     {
       "source": "Age Well Forsyth",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:32+00:00"
-    },
-    {
-      "source": "UGA Extension Forsyth County",
-      "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:41+00:00"
-    },
-    {
-      "source": "Forsyth-Cumming Optimist Club",
-      "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:41+00:00"
+      "checked_at": "2026-10-13T20:35:13+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:42+00:00"
+      "checked_at": "2026-10-13T20:35:14+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:48+00:00"
+      "checked_at": "2026-10-13T20:35:17+00:00"
     },
     {
       "source": "Metro Atlanta YMCA",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:24:50+00:00"
+      "checked_at": "2026-10-13T20:35:18+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
-    {
-      "id": "501c0d9435c3711ee3f99a17",
-      "source": "UGA Extension Forsyth County",
-      "source_scope": "broad",
-      "category": "nonprofit",
-      "item_type": "listing_or_page",
-      "title": "Home",
-      "url": "https://extension.uga.edu/county-offices/forsyth.html",
-      "published": "2026-10-13T08:00Z",
-      "fetched_at": "2026-10-13T20:24:41+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": "Home\nSupport Our Mission\nAgriculture & Natural Resources Upcoming ANR Events Forsyth County ANR Podcast Soil and Water Testing Lawn and Landscape Videos Lawn & Landscape FAQ Well and Water FAQ Lawn Care Calendars Sending Photos to ANR Agent for ID Speaker Request Form GA Pesticide Applicator License Information, Publications and Videos Pollinators Archived ANR Newsletters On Demand Webinars\nUpcoming ANR Events\nForsyth County ANR Podcast\nSoil and Water Testing\nLawn and Landscape Videos\nLawn & Landscape FAQ\nWell and Water FAQ\nLawn Care Calendars\nSending Photos to ANR Agent for ID\nSpeaker Request Form\nGA Pesticide Applicator License\nInformation, Publications and Videos\nPollinators\nArchived ANR Newsletters\nOn Demand Webinars\n4-H Youth Development Current 4-H Activities and Events Monthly Club Meetings (4th-12th grade) Cloverbuds (K-3rd grade) LifeSmarts (6th-12th grade) Public Speaking Road to Project Achievement Cloverleaf Project Achievement (4th-6th) Projects 2026 Summer Day Camps Summer Overnight Camps Cloverleaf Camp Junior Camp Marine Resource Camp Wilderness Challenge Camp Senior Camp S.A.F.E. Shooting Sports Judging Teams Forestry Judging Team Consumer Judging and Cotton Boll Teacher Resources\nCurrent 4-H Activities and Events\nMonthly Club Meetings (4th-12th grade)\nCloverbuds (K-3rd grade)\nLifeSmarts (6th-12th grade)\nPublic Speaking Road to Project Achievement Cloverleaf Project Achievement (4th-6th) Projects\nRoad to Project Achievement\nCloverleaf Project Achievement (4th-6th) Projects\n2026 Summer Day Camps\nSummer Overnight Camps Cloverleaf Camp Junior Camp Marine Resource Camp Wilderness Challenge Camp Senior Camp\nCloverleaf Camp\nJunior Camp\nMarine Resource Camp\nWilderness Challenge Camp\nSenior Camp\nS.A.F.E. Shooting Sports\nJudging Teams Forestry Judging Team Consumer Judging and Cotton Boll\nForestry Judging Team\nConsumer Judging and Cotton Boll\nTeacher Resources\nFamily & Consumer Sciences (FACS) Nutrition and Health Food Safety and Preservation Food Security Home Environment FACS Podcast Fresh & Local\nNutrition and Health\nFood Safety and Preservation\nFood Security\nHome Environment\nFACS Podcast\nFresh & Local\nForsyth County Extension Help Desk\nField Notes Newsletter\nContact the Forsyth County Extension office\nForsyth County's Impact\nForsyth County Master Naturalists Songbirds Frogs and Toads Bats Help Forsyth County's Bats Trees of Forsyth County\nSongbirds\nFrogs and Toads\nBats Help Forsyth County's Bats\nHelp Forsyth County's Bats\nTrees of Forsyth County\nStaff Listing\nBeverly Adams Agriculture & Natural Resources ANR Program Assistant beverly.adams@uga.edu 770-887-2418\nAlicia Graser 4-H Youth 4-H Program Assistant alicia.graser@uga.edu 770-887-2418\nHeather Haines 4-H Youth 4-H Agent heather.haines@uga.edu 770-887-2418\nShannon Henderson Agriculture & Natural Resources ANR Educator shannon.henderson25@uga.edu 770-887-2418\nHeather Kolich Administration Agriculture & Natural Resources County Extension Coordinator/ANR Agent hnkolich@uga.edu 770-887"
-    },
     {
       "id": "62c233654367624fb79a1837",
       "source": "Family Promise of Forsyth County",
@@ -114,7 +89,7 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:42+00:00",
+      "fetched_at": "2026-10-13T20:35:14+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -129,7 +104,7 @@
       "title": "About Age Well",
       "url": "https://www.agewellforsyth.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:32+00:00",
+      "fetched_at": "2026-10-13T20:35:13+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -144,7 +119,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:22+00:00",
+      "fetched_at": "2026-10-13T20:35:08+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -159,7 +134,7 @@
       "title": "Forsyth County Public Library Website",
       "url": "https://www.forsythpl.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:21+00:00",
+      "fetched_at": "2026-10-13T20:35:07+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -174,7 +149,7 @@
       "title": "Press Releases | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/district-services/communications/press-release",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:20+00:00",
+      "fetched_at": "2026-10-13T20:35:05+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -189,7 +164,7 @@
       "title": "About Us | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/inside-fcs/about-us/overview",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:16+00:00",
+      "fetched_at": "2026-10-13T20:35:02+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -204,7 +179,7 @@
       "title": "Home | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:14+00:00",
+      "fetched_at": "2026-10-13T20:34:59+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -219,7 +194,7 @@
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:12+00:00",
+      "fetched_at": "2026-10-13T20:34:58+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -234,7 +209,7 @@
       "title": "City of Cumming",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:07+00:00",
+      "fetched_at": "2026-10-13T20:34:55+00:00",
       "matched_keywords": [
         "City of Cumming"
       ],
@@ -249,7 +224,7 @@
       "title": "Manor Sewer Rate Increase",
       "url": "https://forsythco.b-cdn.net/app/uploads/2026/04/Manor-sewer-rate-increase.pdf",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:06+00:00",
+      "fetched_at": "2026-10-13T20:34:50+00:00",
       "matched_keywords": [
         "Forsyth County Board of Commissioners",
         "Forsyth County",
@@ -266,7 +241,7 @@
       "title": "Park Maps",
       "url": "https://www.forsythco.com/government/departments/parks-recreation/park-maps",
       "published": null,
-      "fetched_at": "2026-10-13T20:24:03+00:00",
+      "fetched_at": "2026-10-13T20:34:48+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -281,7 +256,7 @@
       "title": "Water & Sewer Rates",
       "url": "https://www.forsythco.com/government/departments/water-sewer/water-sewer-rates",
       "published": null,
-      "fetched_at": "2026-10-13T20:23:57+00:00",
+      "fetched_at": "2026-10-13T20:34:44+00:00",
       "matched_keywords": [
         "sewer rate"
       ],
@@ -296,7 +271,7 @@
       "title": "Forsyth County Meetings",
       "url": "https://www.forsythco.com/government/forsyth-county-meetings",
       "published": null,
-      "fetched_at": "2026-10-13T20:23:52+00:00",
+      "fetched_at": "2026-10-13T20:34:40+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -311,7 +286,7 @@
       "title": "Building Permitting",
       "url": "https://www.forsythco.com/government/departments/building-licensing/building-permitting",
       "published": null,
-      "fetched_at": "2026-10-13T20:23:50+00:00",
+      "fetched_at": "2026-10-13T20:34:38+00:00",
       "matched_keywords": [
         "building permit"
       ],
@@ -326,7 +301,7 @@
       "title": "Forsyth County App",
       "url": "https://www.forsythco.com/residents/forsyth-county-app",
       "published": null,
-      "fetched_at": "2026-10-13T20:23:47+00:00",
+      "fetched_at": "2026-10-13T20:34:35+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -341,7 +316,7 @@
       "title": "Home",
       "url": "https://www.forsythco.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:23:44+00:00",
+      "fetched_at": "2026-10-13T20:34:33+00:00",
       "matched_keywords": [
         "Forsyth County",
         "Forsyth County Court",
@@ -350,10 +325,5 @@
       "text": "Forsyth County is…\nInspiring a Vibrant & Healthy Community\nKeeping Our Community Active\nForsyth County’s Parks & Recreation department is inspiring a connected, vibrant and healthy community through parks and play!\nTop services for…\nCounty Calendar\nMeetings\nEvents\nFeatured Departments\nCourts\nPublic Safety\nParks & Recreation\nSenior Services\nWater & Sewer\nVoting & Elections\nForsyth County Courts strives to uphold justice and protect our community through fair, ethical prosecution and a commitment to the rule of law.\nQuick Links\nSuperior, State and Juvenile Courts\nDistrict Attorney’s Office\nAccountability Courts\nIndigent Defense\nMagistrate Court\nProbate Court\nClerk of Court\nSolicitor-General\nForsyth County Emergency Management Agency (EMA) aims to protect lives and property by helping ensure Forsyth County is prepared for significant emergencies.\n911 Center\nEmergency Management Agency\nFire Department\nSheriff’s Office\nAlert Forsyth\nForsyth County Parks & Recreation is inspiring a connected, vibrant and healthy community through parks and play.\nOnline Registration\nActivities & Events\nFitness & Memberships\nParks & Facilities\nThe Department of Senior Services is committed to providing engaging, impactful life enrichment programs and services for adults ages 60 and better in Forsyth County.\nFacility Rentals\nSenior Centers\nMembership\nOlder Adult Services\nVolunteer & Donate\nForsyth County Department of Water & Sewer aims to provide the highest quality of water and sewer service through progressive leadership and environmental stewardship.\nPay a Water Bill\nReport a Problem\nStart or Stop Service\nWater & Sewer Rates\nWater Quality\nWaterSmart Portal\nThe Department of Voter Registrations & Elections aims to enable all eligible citizens of Forsyth County to exercise their right to register and vote under the Constitution of the United States.\n2026 Elections\nPolling Places & Precincts\nElection Results & Statistics\nRegister to Vote\nMeet Your Representatives\nKerry Hill District 1\nKerry Hill\nDistrict 1\nAlfred John District 2\nAlfred John\nDistrict 2\nTodd Levent District 3\nTodd Levent\nDistrict 3\nMendy Moore District 4\nMendy Moore\nDistrict 4\nLaura Semanson District 5\nLaura Semanson\nDistrict 5\nWho represents me?\nEnter your address to find your elected representatives.\nExploring FoCo\nForsyth County is among the fastest-growing counties in Georgia, with just over 280,000 residents. Offering an abundance of natural resources and entertainment options along with a top-tier education system, it’s no wonder so many want to call Forsyth County their home and community."
     }
   ],
-  "errors": [
-    {
-      "url": "https://www.forsyth-cummingoptimistclub.com",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.forsyth-cummingoptimistclub.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.forsyth-cummingoptimistclub.com', port=443): Failed to resolve 'www.forsyth-cummingoptimistclub.com' ([Errno -2] Name or service not known)\"))"
-    }
-  ]
+  "errors": []
 }
