@@ -147,3 +147,9 @@ and recognizable businesses, taxes, schools, school-board decisions, public
 safety, major local government decisions, significant sports results and
 unusual community news. When in doubt, skip it. For each selected item, give
 me a short X/Facebook-ready post and preserve the original source URL."
+
+The GitHub Actions workflow sends this prompt and `output/digest_latest.json` to
+Gemini after each scheduled or manual run. Add a `GOOGLE_API_KEY` repository
+secret in the repository's Settings to enable it. The generated report is
+available as the `gemini-report` workflow artifact for 14 days; it is not
+committed to the repository.
