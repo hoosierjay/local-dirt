@@ -1,8 +1,8 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T01:23:41+00:00",
-  "finished_at": "2026-10-13T01:24:49+00:00",
-  "item_count": 27,
+  "started_at": "2026-10-13T01:57:29+00:00",
+  "finished_at": "2026-10-13T01:58:31+00:00",
+  "item_count": 26,
   "error_count": 4,
   "checked_source_count": 18,
   "skipped_source_count": 0,
@@ -20,92 +20,92 @@
     {
       "source": "Forsyth County Government",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T01:23:54+00:00"
+      "checked_at": "2026-10-13T01:57:42+00:00"
     },
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T01:23:56+00:00"
+      "checked_at": "2026-10-13T01:57:43+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T01:24:01+00:00"
+      "checked_at": "2026-10-13T01:57:47+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T01:24:07+00:00"
+      "checked_at": "2026-10-13T01:57:50+00:00"
     },
     {
       "source": "Forsyth County Public Library",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T01:24:08+00:00"
+      "checked_at": "2026-10-13T01:57:52+00:00"
     },
     {
       "source": "Forsyth County News",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T01:24:34+00:00"
+      "checked_at": "2026-10-13T01:58:17+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T01:24:36+00:00"
+      "checked_at": "2026-10-13T01:58:18+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T01:24:37+00:00"
+      "checked_at": "2026-10-13T01:58:20+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:39+00:00"
+      "checked_at": "2026-10-13T01:58:22+00:00"
     },
     {
       "source": "Age Well Forsyth",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:41+00:00"
+      "checked_at": "2026-10-13T01:58:23+00:00"
     },
     {
       "source": "Abba House",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:41+00:00"
+      "checked_at": "2026-10-13T01:58:23+00:00"
     },
     {
       "source": "UGA Extension Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:43+00:00"
+      "checked_at": "2026-10-13T01:58:25+00:00"
     },
     {
       "source": "Forsyth-Cumming Optimist Club",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:44+00:00"
+      "checked_at": "2026-10-13T01:58:25+00:00"
     },
     {
       "source": "United Way of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:44+00:00"
+      "checked_at": "2026-10-13T01:58:25+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:45+00:00"
+      "checked_at": "2026-10-13T01:58:27+00:00"
     },
     {
       "source": "i1 Project",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:45+00:00"
+      "checked_at": "2026-10-13T01:58:27+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:47+00:00"
+      "checked_at": "2026-10-13T01:58:29+00:00"
     },
     {
       "source": "Metro Atlanta YMCA",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T01:24:49+00:00"
+      "checked_at": "2026-10-13T01:58:31+00:00"
     }
   ],
   "skipped_sources": [],
@@ -119,7 +119,7 @@
       "title": "Hundreds turn out to hear Jackson and Dolezal make campaign pitches to Forsyth County’s Indian American community",
       "url": "https://www.forsythnews.com/news/politics/hundreds-turn-out-to-hear-jackson-and-dolezal-make-campaign-pitches-to-forsyth-countys-indian-american-community",
       "published": "Mon, 12 Oct 2026 00:34:33 +0000",
-      "fetched_at": "2026-10-13T01:24:11+00:00",
+      "fetched_at": "2026-10-13T01:57:54+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -134,7 +134,7 @@
       "title": "Home",
       "url": "https://extension.uga.edu/county-offices/forsyth.html",
       "published": "2026-10-09T09:00Z",
-      "fetched_at": "2026-10-13T01:24:43+00:00",
+      "fetched_at": "2026-10-13T01:58:25+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -149,7 +149,7 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:45+00:00",
+      "fetched_at": "2026-10-13T01:58:27+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -164,7 +164,7 @@
       "title": "About Age Well",
       "url": "https://www.agewellforsyth.com",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:41+00:00",
+      "fetched_at": "2026-10-13T01:58:23+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -179,7 +179,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:36+00:00",
+      "fetched_at": "2026-10-13T01:58:18+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -194,7 +194,7 @@
       "title": "Football: Week 8 wrap-up of Forsyth County games",
       "url": "https://www.forsythnews.com/sports/football/football-week-8-wrap-up-of-forsyth-county-games",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:34+00:00",
+      "fetched_at": "2026-10-13T01:58:17+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -209,7 +209,7 @@
       "title": "Softball: Here's the GHSA playoff schedule for Forsyth County teams",
       "url": "https://www.forsythnews.com/sports/softball/softball-heres-ghsa-playoff-schedule-forsyth-county-teams-2026",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:32+00:00",
+      "fetched_at": "2026-10-13T01:58:15+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -224,7 +224,7 @@
       "title": "Football: Forsyth County PSR check-in following Week 8 games",
       "url": "https://www.forsythnews.com/sports/football/football-forsyth-county-psr-check-in-following-week-8-games",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:29+00:00",
+      "fetched_at": "2026-10-13T01:58:12+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -239,7 +239,7 @@
       "title": "Forsyth County kids are being encouraged to try the world of dog sports - here's how",
       "url": "https://www.forsythnews.com/life/animals/forsyth-county-kids-are-being-encouraged-to-try-the-world-of-dog-sports-heres-how",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:27+00:00",
+      "fetched_at": "2026-10-13T01:58:10+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -254,7 +254,7 @@
       "title": "2026 Glow Run to raise money for Forsyth County Schools staff scholarships. Here's how you can take part",
       "url": "https://www.forsythnews.com/news/education/2026-glow-run-to-raise-money-for-forsyth-county-schools-staff-scholarships-heres-how-you-can-take-part",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:24+00:00",
+      "fetched_at": "2026-10-13T01:58:07+00:00",
       "matched_keywords": [
         "Forsyth County",
         "Forsyth County Schools"
@@ -270,7 +270,7 @@
       "title": "Forsyth County Voter Guide: What to know before the November 2026 election",
       "url": "https://www.forsythnews.com/news/politics/forsyth-county-voter-guide-what-to-know-before-the-november-2026-election",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:22+00:00",
+      "fetched_at": "2026-10-13T01:58:05+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -285,7 +285,7 @@
       "title": "No Kings groups to hold event in Forsyth County",
       "url": "https://www.forsythnews.com/news/politics/no-kings-groups-to-hold-event-in-forsyth-county",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:19+00:00",
+      "fetched_at": "2026-10-13T01:58:02+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -300,7 +300,7 @@
       "title": "Forsyth County grand jury indicts Buford man in $65K check fraud case",
       "url": "https://www.forsythnews.com/news/crime-courts/forsyth-county-grand-jury-indicts-buford-man-in-65k-check-fraud-case",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:16+00:00",
+      "fetched_at": "2026-10-13T01:57:59+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -315,7 +315,7 @@
       "title": "How you can weigh in on extending Forsyth County’s pause on residential development",
       "url": "https://www.forsythnews.com/news/government/how-you-can-weigh-in-on-extending-forsyth-countys-pause-on-residential-development",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:14+00:00",
+      "fetched_at": "2026-10-13T01:57:57+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -330,7 +330,7 @@
       "title": "Forsyth County News",
       "url": "https://www.forsythnews.com",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:11+00:00",
+      "fetched_at": "2026-10-13T01:57:54+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -345,7 +345,7 @@
       "title": "Forsyth County Public Library Website",
       "url": "https://www.forsythpl.org",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:08+00:00",
+      "fetched_at": "2026-10-13T01:57:52+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -360,7 +360,7 @@
       "title": "Press Releases | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/district-services/communications/press-release",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:07+00:00",
+      "fetched_at": "2026-10-13T01:57:50+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -375,7 +375,7 @@
       "title": "About Us | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/inside-fcs/about-us/overview",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:05+00:00",
+      "fetched_at": "2026-10-13T01:57:49+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -390,7 +390,7 @@
       "title": "Home | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:02+00:00",
+      "fetched_at": "2026-10-13T01:57:48+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -405,41 +405,26 @@
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T01:24:01+00:00",
+      "fetched_at": "2026-10-13T01:57:47+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Community Outreach\nHome\nLaw Enforcement\nThe Community Outreach Section consists of the Community Relations, Park Rangers and the Volunteer Unit.\nCommunity Relations Unit\n​​​The Community Relations Unit serves to promote safety and education to the citizens and businesses of Forsyth County and is a vital component of the Forsyth County Sheriff’s Office. The FCSO Community Relations Unit is responsible for coordinating and delivering special classes and programs that work to educate the community and to better build the relationship between the community and the Sheriff’s Office. Along with the many courses and programs offered by FCSO Community Relations, they also partner with other organizations throughout the year and attend many other community events.\nClasses\nWomen’s Self Defense\nThis course is designed to teach women situational awareness by reviewing case studies of previous abductions. Some hands-on training is provided but limited. This class is designed for women and reserved for women only. (Teenagers 14+ can only attend at parent’s discretion due to mature content.)\nCRASE\n(Citizens Response to Active Shooter Event). Intended to teach what to do/not do in the case of an active shooter. The skills taught are to Avoid, Deny and Defend-STAY ALIVE and Survive!\nstranger danger\nEducates and empowers children ages 4-11 with knowledge and skills that will help them be safer from various crimes against children.\nPrograms\nSeniors and Lawmen Together\n(SALT) Open to all Forsyth County Senior Citizens and held monthly. Each month features different speakers and different topics pertaining to senior safety.\nPUBLIC SAFETY CADET PROGRAM\nThe Public Safety Cadet program is designed to attract young, well-qualified men and women to participate in an organized on the job training program that will prepare them for a career in law enforcement. To learn more, visit the PUBLIC SAFETY CADET PAGE .Neighborhood Watch & Business Watch\nCitizens Law Enforcement Academy\n(CLEA) The program closely follows the actual hands-on training that deputies undergo. Topics include constitutional law, conducting traffic stops, judgmental use of force, K9 and S.W.A.T. demonstrations, ride alongs with deputies, and much more. Applications are accepted twice a year, watch our Facebook page for those dates. Contact our Community Outreach Section for an application and details.\nNeighborhood Watch & Business Watch\nThis program provides information and specific actions to homeowners that can help protect themselves and their homes. Information covered also includes solutions to common neighborhood problems.\nThe Business watch program is an offshoot of the Neighborhood Watch concept. The purpose of establishing a Business Watch program is to help educate business proprietors about various precautions they can take in an effort to deter crime. For more information visit the POP page.\nIf you have questions about programs listed above or would like to request a class, program, or speaker,"
     },
     {
-      "id": "3809730e0979c4f8943a3318",
+      "id": "dab33e91690c80cc930dc339",
       "source": "City of Cumming",
       "source_scope": "broad",
       "category": "government",
       "item_type": "listing_or_page",
-      "title": "Rezoning",
-      "url": "https://www.cityofcumming.net/rezoning",
-      "published": null,
-      "fetched_at": "2026-10-13T01:23:56+00:00",
-      "matched_keywords": [
-        "rezoning"
-      ],
-      "text": "Home\nDepartments Administration Utilities Planning and Zoning Submit Plans Inspection Information Erosion Control Rezoning Fairgrounds Police Municipal Court Recreation and Parks Aquatic Center Streets\nAdministration\nUtilities\nPlanning and Zoning Submit Plans Inspection Information Erosion Control Rezoning\nSubmit Plans\nInspection Information\nErosion Control\nRezoning\nFairgrounds\nPolice\nMunicipal Court\nRecreation and Parks\nAquatic Center\nStreets\nFacilities Aquatic Center City Center City Hall Dobbs Creek Gym and Fields Fairgrounds Police Station & Municipal Court Recreation Center School Street Playhouse Veterans War Memorial\nCity Center\nCity Hall\nDobbs Creek Gym and Fields\nPolice Station & Municipal Court\nRecreation Center\nSchool Street Playhouse\nVeterans War Memorial\nHow Do I? How Do I? Establish Cumming Utilities Service Pay My Cumming Utilities Bill Get a Business License Get an Alcohol License Pay Alcohol Tax Get a Permit for a Commercial Project Get a Permit for a Residential Project View Current Projects Open for Bid/RFP How Do I? Get a Special Events Permit Contact Code Enforcement Officer Contact the Cumming Police Department Pay My Municipal Court Fine Register for Cumming Recreation Programs Register for Cumming Aquatic Center Programs Reserve the Cumming Recreation Center for an Event How Do I? Stay Informed about City Happenings File an Open Records Request View Meetings and Work Sessions Apply for a Job with the City Find City Facilities Ask a Question\nHow Do I? Establish Cumming Utilities Service Pay My Cumming Utilities Bill Get a Business License Get an Alcohol License Pay Alcohol Tax Get a Permit for a Commercial Project Get a Permit for a Residential Project View Current Projects Open for Bid/RFP\nHow Do I?\nEstablish Cumming Utilities Service\nPay My Cumming Utilities Bill\nGet a Business License\nGet an Alcohol License Pay Alcohol Tax\nPay Alcohol Tax\nGet a Permit for a Commercial Project\nGet a Permit for a Residential Project\nView Current Projects Open for Bid/RFP\nHow Do I? Get a Special Events Permit Contact Code Enforcement Officer Contact the Cumming Police Department Pay My Municipal Court Fine Register for Cumming Recreation Programs Register for Cumming Aquatic Center Programs Reserve the Cumming Recreation Center for an Event\nGet a Special Events Permit\nContact Code Enforcement Officer\nContact the Cumming Police Department\nPay My Municipal Court Fine\nRegister for Cumming Recreation Programs\nRegister for Cumming Aquatic Center Programs\nReserve the Cumming Recreation Center for an Event\nHow Do I? Stay Informed about City Happenings File an Open Records Request View Meetings and Work Sessions Apply for a Job with the City Find City Facilities Ask a Question\nStay Informed about City Happenings\nFile an Open Records Request\nView Meetings and Work Sessions\nApply for a Job with the City\nFind City Facilities\nAsk a Question\nNews Alerts Events E-Newsletters Mayor’s Memo Meeting Videos\nAlerts\nEvents\nE-Newsletters\nMayor’s Memo\nMeeting Vid"
-    },
-    {
-      "id": "6fa584931bcab00babee1e96",
-      "source": "City of Cumming",
-      "source_scope": "broad",
-      "category": "government",
-      "item_type": "listing_or_page",
-      "title": "Home",
+      "title": "City of Cumming",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:55+00:00",
+      "fetched_at": "2026-10-13T01:57:43+00:00",
       "matched_keywords": [
-        "rezoning"
+        "City of Cumming"
       ],
-      "text": "Home\nDepartments Administration Utilities Planning and Zoning Submit Plans Inspection Information Erosion Control Rezoning Fairgrounds Police Municipal Court Recreation and Parks Aquatic Center Streets\nAdministration\nUtilities\nPlanning and Zoning Submit Plans Inspection Information Erosion Control Rezoning\nSubmit Plans\nInspection Information\nErosion Control\nRezoning\nFairgrounds\nPolice\nMunicipal Court\nRecreation and Parks\nAquatic Center\nStreets\nFacilities Aquatic Center City Center City Hall Dobbs Creek Gym and Fields Fairgrounds Police Station & Municipal Court Recreation Center School Street Playhouse Veterans War Memorial\nCity Center\nCity Hall\nDobbs Creek Gym and Fields\nPolice Station & Municipal Court\nRecreation Center\nSchool Street Playhouse\nVeterans War Memorial\nHow Do I? How Do I? Establish Cumming Utilities Service Pay My Cumming Utilities Bill Get a Business License Get an Alcohol License Pay Alcohol Tax Get a Permit for a Commercial Project Get a Permit for a Residential Project View Current Projects Open for Bid/RFP How Do I? Get a Special Events Permit Contact Code Enforcement Officer Contact the Cumming Police Department Pay My Municipal Court Fine Register for Cumming Recreation Programs Register for Cumming Aquatic Center Programs Reserve the Cumming Recreation Center for an Event How Do I? Stay Informed about City Happenings File an Open Records Request View Meetings and Work Sessions Apply for a Job with the City Find City Facilities Ask a Question\nHow Do I? Establish Cumming Utilities Service Pay My Cumming Utilities Bill Get a Business License Get an Alcohol License Pay Alcohol Tax Get a Permit for a Commercial Project Get a Permit for a Residential Project View Current Projects Open for Bid/RFP\nHow Do I?\nEstablish Cumming Utilities Service\nPay My Cumming Utilities Bill\nGet a Business License\nGet an Alcohol License Pay Alcohol Tax\nPay Alcohol Tax\nGet a Permit for a Commercial Project\nGet a Permit for a Residential Project\nView Current Projects Open for Bid/RFP\nHow Do I? Get a Special Events Permit Contact Code Enforcement Officer Contact the Cumming Police Department Pay My Municipal Court Fine Register for Cumming Recreation Programs Register for Cumming Aquatic Center Programs Reserve the Cumming Recreation Center for an Event\nGet a Special Events Permit\nContact Code Enforcement Officer\nContact the Cumming Police Department\nPay My Municipal Court Fine\nRegister for Cumming Recreation Programs\nRegister for Cumming Aquatic Center Programs\nReserve the Cumming Recreation Center for an Event\nHow Do I? Stay Informed about City Happenings File an Open Records Request View Meetings and Work Sessions Apply for a Job with the City Find City Facilities Ask a Question\nStay Informed about City Happenings\nFile an Open Records Request\nView Meetings and Work Sessions\nApply for a Job with the City\nFind City Facilities\nAsk a Question\nNews Alerts Events E-Newsletters Mayor’s Memo Meeting Videos\nAlerts\nEvents\nE-Newsletters\nMayor’s Memo\nMeeting Vid"
+      "text": ""
     },
     {
       "id": "45e7d4678962714428069bdb",
@@ -450,7 +435,7 @@
       "title": "Water & Sewer Rates",
       "url": "https://www.forsythco.com/government/departments/water-sewer/water-sewer-rates",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:54+00:00",
+      "fetched_at": "2026-10-13T01:57:42+00:00",
       "matched_keywords": [
         "sewer rate"
       ],
@@ -465,7 +450,7 @@
       "title": "Forsyth County Meetings",
       "url": "https://www.forsythco.com/government/forsyth-county-meetings",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:49+00:00",
+      "fetched_at": "2026-10-13T01:57:37+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -480,7 +465,7 @@
       "title": "Building Permitting",
       "url": "https://www.forsythco.com/government/departments/building-licensing/building-permitting",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:47+00:00",
+      "fetched_at": "2026-10-13T01:57:35+00:00",
       "matched_keywords": [
         "building permit"
       ],
@@ -495,7 +480,7 @@
       "title": "Forsyth County App",
       "url": "https://www.forsythco.com/residents/forsyth-county-app",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:45+00:00",
+      "fetched_at": "2026-10-13T01:57:33+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -510,7 +495,7 @@
       "title": "Home",
       "url": "https://www.forsythco.com",
       "published": null,
-      "fetched_at": "2026-10-13T01:23:42+00:00",
+      "fetched_at": "2026-10-13T01:57:30+00:00",
       "matched_keywords": [
         "Forsyth County",
         "Forsyth County Court",
