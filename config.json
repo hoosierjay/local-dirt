@@ -77,7 +77,10 @@
     "rezoning",
     "sewer rate",
     "median home price",
-    "press release"
+    "press release",
+    "program",
+    "community",
+    "citizen" 
   ],
   "ignore_link_terms": [
     "login",
