@@ -18,8 +18,8 @@ Scheduling design:
 Editorial design:
     * Python gathers.
     * Python does NOT decide what is important enough to post.
-    * "southside" sources are gathered broadly.
-    * "broad" sources are filtered by configured Southside keywords.
+    * "local" sources are gathered broadly.
+    * "broad" sources are filtered by configured local keywords.
     * Persistent state prevents re-outputting the same item forever.
 """
 
@@ -501,7 +501,7 @@ class Collector:
         text = extract_text(soup, self.limits["max_text_chars_per_item"])
         matches = term_match(f"{title}\n{text}\n{r.url}", self.keywords)
 
-        if source["scope"] == "southside" or matches:
+        if source["scope"] == "local" or matches:
             self.add_item(
                 source, r.url, title, text,
                 extract_date(soup), matches, "listing_or_page"
@@ -538,12 +538,12 @@ class Collector:
 
                 if source["scope"] == "broad":
                     # Broad sources are only followed when the link text/URL
-                    # already contains a configured Southside term.
+                    # already contains a configured local term.
                     matches = term_match(f"{link_anchor} {link}", self.keywords)
                     if not matches:
                         continue
                 else:
-                    # Southside-specific sources are allowed to gather broadly,
+                    # Local-specific sources are allowed to gather broadly,
                     # while avoiding irrelevant navigation pages.
                     if not is_pdf and not looks_relevant_link(
                         link, link_anchor, self.crawl_terms
@@ -620,7 +620,7 @@ class Collector:
             "notes": [
                 "Python collected the material; it did not decide newsworthiness.",
                 "The master script may run every 15 minutes, but each source has its own refresh interval.",
-                "Broad sources were filtered only by configured Southside keywords.",
+                "Broad sources were filtered only by configured local keywords.",
                 "Some websites may block automated requests, render content with JavaScript, or require source-specific handling.",
                 "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate.",
             ],
