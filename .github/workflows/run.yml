@@ -47,20 +47,25 @@ jobs:
 
           git push
 
-      # Step 6: Ask Gemini to select and draft posts from the latest digest
-      - name: Generate Gemini Report
+      # Step 6: Ask AI to select and draft posts from the latest digest
+      - name: Generate Report
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+           # GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}  #using Mistral API instead of Gemini
+           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         run: |
           python - <<'PY'
           import json
           import os
           from pathlib import Path
           from urllib.request import Request, urlopen
+        # added for Mistral API error handling
+          from urllib.error import HTTPError  
 
-          api_key = os.environ.get("GOOGLE_API_KEY")
+          # api_key = os.environ.get("GOOGLE_API_KEY")
+          api_key = os.environ.get("MISTRAL_API_KEY")
           if not api_key:
-              raise SystemExit("The GOOGLE_API_KEY repository secret is required.")
+              # raise SystemExit("The GOOGLE_API_KEY repository secret is required.")
+              raise SystemExit("The MISTRAL_API_KEY repository secret is required.")
 
           digest_path = Path("output/digest_latest.json")
           digest = json.loads(digest_path.read_text(encoding="utf-8"))
@@ -73,55 +78,99 @@ jobs:
           unusual community news. When in doubt, skip it. For each selected item, give
           me a short X/Facebook-ready post and preserve the original source URL."""
 
+# Gemini API call commented out, using Mistral API instead          
+#          payload = {
+#              "contents": [{
+#                  "parts": [
+#                      {"text": prompt},
+#                      {
+#                          "text": (
+#                              "Review the contents of output/digest_latest.json:\n"
+#                              + json.dumps(digest, ensure_ascii=False)
+#                          )
+#                      },
+#                  ]
+#              }]
+#          }
           payload = {
-              "contents": [{
-                  "parts": [
-                      {"text": prompt},
-                      {
-                          "text": (
-                              "Review the contents of output/digest_latest.json:\n"
-                              + json.dumps(digest, ensure_ascii=False)
-                          )
-                      },
-                  ]
-              }]
+              "model": "mistral-large-latest",
+              "temperature": 0.3,
+              "messages": [
+                  {"role": "system", "content": prompt},
+                  {
+                      "role": "user",
+                      "content": (
+                          "Review the contents of output/digest_latest.json:\n"
+                          + json.dumps(digest, ensure_ascii=False)
+                      ),
+                  },
+              ],
           }
+# Gemini API call commented out, using Mistral API instead
+#          request = Request(
+#              "https://generativelanguage.googleapis.com/v1beta/"
+#              "models/gemini-flash-latest:generateContent",
+#              data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+#              headers={
+#                  "Content-Type": "application/json",
+#                  "x-goog-api-key": api_key,
+#              },
+#              method="POST",
+#          )
+#          with urlopen(request, timeout=120) as response:
+#              result = json.load(response)
+#
+#          candidates = result.get("candidates", [])
+#          if not candidates:
+#              raise SystemExit(
+#                  "Gemini returned no candidates: "
+#                  + json.dumps(result.get("promptFeedback", result), ensure_ascii=False)
+#              )
+#
+#          text = "".join(
+#              part.get("text", "")
+#              for part in candidates[0].get("content", {}).get("parts", [])
+#          ).strip()
+#          if not text:
+#              raise SystemExit("Gemini returned an empty report.")
+#
+#          report_path = Path("output/gemini_latest.md")
+#          report_path.write_text(text + "\n", encoding="utf-8")
+#          PY
           request = Request(
-              "https://generativelanguage.googleapis.com/v1beta/"
-              "models/gemini-flash-latest:generateContent",
+              "https://api.mistral.ai/v1/chat/completions",
               data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
               headers={
                   "Content-Type": "application/json",
-                  "x-goog-api-key": api_key,
+                  "Accept": "application/json",
+                  "Authorization": f"Bearer {api_key}",
+                  # Some API gateways reject urllib's default User-Agent.
+                  "User-Agent": "local-dirt-workflow/1.0",
               },
               method="POST",
           )
-          with urlopen(request, timeout=120) as response:
-              result = json.load(response)
+          try:
+              with urlopen(request, timeout=180) as response:
+                  result = json.load(response)
+          except HTTPError as e:
+              raise SystemExit(f"Mistral API error {e.code}: {e.read().decode('utf-8', 'ignore')}")
 
-          candidates = result.get("candidates", [])
-          if not candidates:
-              raise SystemExit(
-                  "Gemini returned no candidates: "
-                  + json.dumps(result.get("promptFeedback", result), ensure_ascii=False)
-              )
+          choices = result.get("choices", [])
+          if not choices:
+              raise SystemExit("Mistral returned no choices: " + json.dumps(result, ensure_ascii=False))
 
-          text = "".join(
-              part.get("text", "")
-              for part in candidates[0].get("content", {}).get("parts", [])
-          ).strip()
+          text = (choices[0].get("message", {}).get("content") or "").strip()
           if not text:
-              raise SystemExit("Gemini returned an empty report.")
+              raise SystemExit("Mistral returned an empty report.")
 
-          report_path = Path("output/gemini_latest.md")
-          report_path.write_text(text + "\n", encoding="utf-8")
+          Path("output/report_latest.md").write_text(text + "\n", encoding="utf-8")
           PY
 
-      - name: Upload Gemini Report
+      - name: Upload Report
         uses: actions/upload-artifact@v4
         with:
-          name: gemini-report
-          path: output/gemini_latest.md
+          name: ai-report
+          path: output/report_latest.md
           if-no-files-found: error
           retention-days: 14
           
