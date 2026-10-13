@@ -58,13 +58,10 @@ jobs:
           import os
           from pathlib import Path
           from urllib.request import Request, urlopen
-        # added for Mistral API error handling
           from urllib.error import HTTPError  
 
-          # api_key = os.environ.get("GOOGLE_API_KEY")
           api_key = os.environ.get("MISTRAL_API_KEY")
           if not api_key:
-              # raise SystemExit("The GOOGLE_API_KEY repository secret is required.")
               raise SystemExit("The MISTRAL_API_KEY repository secret is required.")
 
           digest_path = Path("output/digest_latest.json")
@@ -78,20 +75,6 @@ jobs:
           unusual community news. When in doubt, skip it. For each selected item, give
           me a short X/Facebook-ready post and preserve the original source URL."""
 
-# Gemini API call commented out, using Mistral API instead          
-#          payload = {
-#              "contents": [{
-#                  "parts": [
-#                      {"text": prompt},
-#                      {
-#                          "text": (
-#                              "Review the contents of output/digest_latest.json:\n"
-#                              + json.dumps(digest, ensure_ascii=False)
-#                          )
-#                      },
-#                  ]
-#              }]
-#          }
           payload = {
               "model": "mistral-large-latest",
               "temperature": 0.3,
@@ -106,37 +89,6 @@ jobs:
                   },
               ],
           }
-# Gemini API call commented out, using Mistral API instead
-#          request = Request(
-#              "https://generativelanguage.googleapis.com/v1beta/"
-#              "models/gemini-flash-latest:generateContent",
-#              data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
-#              headers={
-#                  "Content-Type": "application/json",
-#                  "x-goog-api-key": api_key,
-#              },
-#              method="POST",
-#          )
-#          with urlopen(request, timeout=120) as response:
-#              result = json.load(response)
-#
-#          candidates = result.get("candidates", [])
-#          if not candidates:
-#              raise SystemExit(
-#                  "Gemini returned no candidates: "
-#                  + json.dumps(result.get("promptFeedback", result), ensure_ascii=False)
-#              )
-#
-#          text = "".join(
-#              part.get("text", "")
-#              for part in candidates[0].get("content", {}).get("parts", [])
-#          ).strip()
-#          if not text:
-#              raise SystemExit("Gemini returned an empty report.")
-#
-#          report_path = Path("output/gemini_latest.md")
-#          report_path.write_text(text + "\n", encoding="utf-8")
-#          PY
           request = Request(
               "https://api.mistral.ai/v1/chat/completions",
               data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
