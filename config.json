@@ -18,9 +18,9 @@
   "limits": {
     "max_pages_per_source": 12,
     "max_links_from_page": 120,
-    "max_text_chars_per_item": 3000,
+    "max_text_chars_per_item": 600,
     "max_pdf_pages": 25,
-    "max_text_chars_broad_source": 400,
+    "max_text_chars_broad_source": 600,
     "max_item_age_days": 9
   },
   "crawl_link_terms": [
@@ -118,7 +118,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -130,7 +130,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -142,7 +142,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -154,7 +154,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -166,7 +166,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -178,7 +178,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -190,7 +190,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -202,7 +202,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -214,7 +214,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -226,7 +226,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -238,7 +238,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   },
   {
@@ -250,7 +250,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 20000,
+    "max_text_chars": 600,
     "is_feed": false
   }
 ],
