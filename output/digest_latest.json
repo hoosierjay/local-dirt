@@ -1,10 +1,10 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T20:12:23+00:00",
-  "finished_at": "2026-10-13T20:13:08+00:00",
-  "item_count": 15,
-  "error_count": 4,
-  "checked_source_count": 17,
+  "started_at": "2026-10-13T20:23:42+00:00",
+  "finished_at": "2026-10-13T20:24:50+00:00",
+  "item_count": 17,
+  "error_count": 1,
+  "checked_source_count": 14,
   "skipped_source_count": 0,
   "notes": [
     "Python collected the material; it did not decide newsworthiness.",
@@ -13,94 +13,79 @@
     "Some websites may block automated requests, render content with JavaScript, or require source-specific handling.",
     "Use source and URL fields when AI drafts a post so the original source can be credited/linked when appropriate."
   ],
-  "stale_skipped_count": 0,
+  "stale_skipped_count": 2,
   "robots_blocked_count": 0,
   "robots_blocked": [],
   "checked_sources": [
     {
       "source": "Forsyth County Government",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:12:35+00:00"
+      "checked_at": "2026-10-13T20:24:06+00:00"
     },
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:12:41+00:00"
+      "checked_at": "2026-10-13T20:24:07+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:12:45+00:00"
+      "checked_at": "2026-10-13T20:24:12+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:12:52+00:00"
+      "checked_at": "2026-10-13T20:24:20+00:00"
     },
     {
       "source": "Forsyth County Public Library",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T20:12:54+00:00"
+      "checked_at": "2026-10-13T20:24:21+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:12:55+00:00"
+      "checked_at": "2026-10-13T20:24:22+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T20:12:56+00:00"
+      "checked_at": "2026-10-13T20:24:24+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:12:58+00:00"
+      "checked_at": "2026-10-13T20:24:27+00:00"
     },
     {
       "source": "Age Well Forsyth",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:00+00:00"
-    },
-    {
-      "source": "Abba House",
-      "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:00+00:00"
+      "checked_at": "2026-10-13T20:24:32+00:00"
     },
     {
       "source": "UGA Extension Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:03+00:00"
+      "checked_at": "2026-10-13T20:24:41+00:00"
     },
     {
       "source": "Forsyth-Cumming Optimist Club",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:03+00:00"
-    },
-    {
-      "source": "United Way of Forsyth County",
-      "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:03+00:00"
+      "checked_at": "2026-10-13T20:24:41+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:04+00:00"
-    },
-    {
-      "source": "i1 Project",
-      "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:04+00:00"
+      "checked_at": "2026-10-13T20:24:42+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:06+00:00"
+      "checked_at": "2026-10-13T20:24:48+00:00"
     },
     {
       "source": "Metro Atlanta YMCA",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T20:13:08+00:00"
+      "checked_at": "2026-10-13T20:24:50+00:00"
     }
   ],
   "skipped_sources": [],
@@ -114,7 +99,7 @@
       "title": "Home",
       "url": "https://extension.uga.edu/county-offices/forsyth.html",
       "published": "2026-10-13T08:00Z",
-      "fetched_at": "2026-10-13T20:13:03+00:00",
+      "fetched_at": "2026-10-13T20:24:41+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -129,7 +114,7 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:13:04+00:00",
+      "fetched_at": "2026-10-13T20:24:42+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -144,7 +129,7 @@
       "title": "About Age Well",
       "url": "https://www.agewellforsyth.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:13:00+00:00",
+      "fetched_at": "2026-10-13T20:24:32+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -159,7 +144,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:55+00:00",
+      "fetched_at": "2026-10-13T20:24:22+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -174,7 +159,7 @@
       "title": "Forsyth County Public Library Website",
       "url": "https://www.forsythpl.org",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:54+00:00",
+      "fetched_at": "2026-10-13T20:24:21+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -189,7 +174,7 @@
       "title": "Press Releases | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/district-services/communications/press-release",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:52+00:00",
+      "fetched_at": "2026-10-13T20:24:20+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -204,7 +189,7 @@
       "title": "About Us | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/inside-fcs/about-us/overview",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:49+00:00",
+      "fetched_at": "2026-10-13T20:24:16+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -219,7 +204,7 @@
       "title": "Home | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:47+00:00",
+      "fetched_at": "2026-10-13T20:24:14+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -234,7 +219,7 @@
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:45+00:00",
+      "fetched_at": "2026-10-13T20:24:12+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -249,11 +234,43 @@
       "title": "City of Cumming",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:41+00:00",
+      "fetched_at": "2026-10-13T20:24:07+00:00",
       "matched_keywords": [
         "City of Cumming"
       ],
       "text": ""
+    },
+    {
+      "id": "b4e792d8953df845a6d25a3b",
+      "source": "Forsyth County Government",
+      "source_scope": "broad",
+      "category": "government",
+      "item_type": "pdf",
+      "title": "Manor Sewer Rate Increase",
+      "url": "https://forsythco.b-cdn.net/app/uploads/2026/04/Manor-sewer-rate-increase.pdf",
+      "published": null,
+      "fetched_at": "2026-10-13T20:24:06+00:00",
+      "matched_keywords": [
+        "Forsyth County Board of Commissioners",
+        "Forsyth County",
+        "sewer rate"
+      ],
+      "text": "A RESOLUTION AUTHORIZING A SEWER SERVICE AND REUSE WATER RATE INCREASE FOR THE MANOR DEVELOPMENT IN FORSYTH COUNTY, GEORGIA WHEREAS, Forsyth County, Georgia, and the Forsyth County Board of Commissioners are committed to providing the highest quality water and sewer service through superior customer support, strong financial management, progressive leadership, and environmental stewardship; WHEREAS, in fulfillment of that mission, the County routinely considers the costs of providing water and sewer services in determining how to best serve the water and sewer needs of its customers; WHEREAS, on October 5th, 2006, the Forsyth County Board of Commissioners adopted the Sewer and Reuse Water Services Agreement for the Manor Water Reuse Facility (the \"Agreement\"), an agreement between Forsyth County, Georgia and Brooks Land, Inc., Pilliar Development, Inc., The Manor Community Association, Inc., and The Manor Golf and Country Club, LLC concerning the use and regulation of sewer and reuse water, inter alia, for The Manor and The Manor North residential subdivisions (the \"Manor Development\"), as more particularly described in the Agreement, a copy of which is attached hereto as Exhibit \"A\"; WHEREAS, pursuant to a Resolution dated August 19, 2010, the monthly sewer service fee and Reuse Water availability fee charged by Forsyth County to Manor Development residents was increased to and is currently one hundred thirty dollars and twenty cents ($130.20) per month per residence (the \"Monthly Fee\"); WHEREAS, pursuant to Section 6 of the Agreement, Forsyth County shall limit the annual increases of the Monthly Fee to an amount not to exceed five percent (5%) of the prior year's fees; WHEREAS, effective January 1, 2022 Forsyth County desires to implement a five percent (5%) increase of the Monthly Fee to the amount of one hundred thirty-six dollars and seventy-one cents ($136.71) per month for the residents of the Manor Development; and WHEREAS, Forsyth County wishes to implement an annual increase of the Monthly Fee such that, effective January 1, 2023, and on January pt of each succeeding year, the Monthly Fee will increase by five percent (5%) of the prior year's fees; NOW, THEREFORE, BE IT RESOLVED AS FOLLOWS: • Effective January 1, 2022 the Monthly Fee, pursuant to Section 6 of the Agreement, shall be increased by five percent (5%) to the amount of one hundred thirty-six dollars and seventy-one cents ($136.71); and • Effective January 1, 2023, and on January 1 of each succeeding year, the Monthly Fee shall be increased by five percent (5%) of the prior year's fees. Be it resolved this 21st day of_ October _, 2021. [SIGNATURES ON FOLLOWING PAGE] Mills, Mils, Molly Cooper, Vice Chairman Todd Levent , Member FORSYTH COUNTY BOARD OF COMMISSIONERS ct2e Cindy J. Chairman Alfg ecretary \"cl&- Laura Semanson, Member Attest: Ka de _Pu.. Cierk to tieGoard"
+    },
+    {
+      "id": "5fecfb37ce032efc58a24d29",
+      "source": "Forsyth County Government",
+      "source_scope": "broad",
+      "category": "government",
+      "item_type": "listing_or_page",
+      "title": "Park Maps",
+      "url": "https://www.forsythco.com/government/departments/parks-recreation/park-maps",
+      "published": null,
+      "fetched_at": "2026-10-13T20:24:03+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": "Park Maps\nGovernment\nDepartments A-Z\nParks & Recreation\nTitle\nAddress\nMap\nAll Forsyth County Parks Map\nDownload PDF\nBald Ridge Creek Campground\n4100 Bald Ridge Park Road Cumming, GA 30041\nBennett Park\n5930 Burruss Mill Road Cumming, GA 30041\nBig Creek Greenway\nCaney Creek Preserve\n2755 Caney Road Cumming, GA 30041\nCentral Park\n2300 Keith Bridge Road Cumming, GA 30040\nCharleston Park\n5850 Charleston Park Road Cumming, GA 30041\nChattahoochee Pointe\n5790 Chattahoochee Pointe Drive Suwanee, GA 30024\nCoal Mountain Park\n3560 Settingdown Road Cumming, GA 30028\nDucktown Community Park\n5895 Heardsville Road Cumming, GA 30028\nEagles Beak Park\n8420 Old Federal Road Ball Ground, GA 30107\nFowler Park\n4110 Carolene Way Cumming, GA 30040\nHaw Creek Park\n2205 Echols Road Cumming, GA 30041\nJoint Venture Park at Daves Creek\n3660 Melody Mizer Lane Cumming, GA 30041\nLanierland Park\n6115 Jot-Em-Down Road Cumming, GA 30041\nMary Alice Park\n1820 Mary Alice Park Road Cumming, GA 30041\nMatt Community Park\n6555 Wallace Tatum Road Cumming, GA 30028\nMidway Park\n5100 Post Road Cumming, GA 30040\nOld Atlanta Park\n810 Nichols Road Suwanee, GA 30024\nPooles Mill Park\n7725 Poole’s Mill Road Ball Ground, GA 30107\nSawnee Campground\n3200 Buford Dam Road Cumming, GA 30041\nSawnee Mountain Park\n3995 Watson Road Cumming, GA 30028\nSawnee Mountain Preserve\nVisitor Center 4075 Spot Road Cumming, GA 30040\nSawnee Mountain Preserve Trail Map\nDownload JPG\nShady Grove Campground\n7800 Allyn Lane Memorial Way Cumming, GA 30041\nSharon Springs Park\n1950 Sharon Road Cumming, GA 30041\nSix Mile Creek Park\n6020 Browns Bridge Road Cumming, GA 30041\nSouth Forsyth Soccer Complex\n800 Kemp Road Suwanee, GA 30024\nWindermere Park\n3355 Windermere Parkway Cumming, GA 30041\nYoung Deer Creek Park\n7300 Heard Road Cumming, GA 30041\nAbout Us\nActivities & Events Athletic Leagues Inclement Weather Updates Camps, Classes & Programs Environmental Education Fitness & Memberships Outdoor Recreation Party Packages Special Events Therapeutic Recreation\nAthletic Leagues Inclement Weather Updates\nInclement Weather Updates\nCamps, Classes & Programs\nEnvironmental Education\nFitness & Memberships\nOutdoor Recreation\nParty Packages\nSpecial Events\nTherapeutic Recreation\nLake Lanier Day Use Parks\nPark Permits\nPark Rules\nParks & Facilities\nParks Frequently Asked Questions\nRegistration Information Refund & Transfer Request Scholarships Form\nRefund & Transfer Request\nScholarships Form\nVolunteer & Serve\nPhone\nEmail\nRelated Pages"
     },
     {
       "id": "45e7d4678962714428069bdb",
@@ -264,7 +281,7 @@
       "title": "Water & Sewer Rates",
       "url": "https://www.forsythco.com/government/departments/water-sewer/water-sewer-rates",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:35+00:00",
+      "fetched_at": "2026-10-13T20:23:57+00:00",
       "matched_keywords": [
         "sewer rate"
       ],
@@ -279,7 +296,7 @@
       "title": "Forsyth County Meetings",
       "url": "https://www.forsythco.com/government/forsyth-county-meetings",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:31+00:00",
+      "fetched_at": "2026-10-13T20:23:52+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -294,7 +311,7 @@
       "title": "Building Permitting",
       "url": "https://www.forsythco.com/government/departments/building-licensing/building-permitting",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:29+00:00",
+      "fetched_at": "2026-10-13T20:23:50+00:00",
       "matched_keywords": [
         "building permit"
       ],
@@ -309,7 +326,7 @@
       "title": "Forsyth County App",
       "url": "https://www.forsythco.com/residents/forsyth-county-app",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:26+00:00",
+      "fetched_at": "2026-10-13T20:23:47+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -324,7 +341,7 @@
       "title": "Home",
       "url": "https://www.forsythco.com",
       "published": null,
-      "fetched_at": "2026-10-13T20:12:24+00:00",
+      "fetched_at": "2026-10-13T20:23:44+00:00",
       "matched_keywords": [
         "Forsyth County",
         "Forsyth County Court",
@@ -335,20 +352,8 @@
   ],
   "errors": [
     {
-      "url": "https://www.abbahouse.com",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.abbahouse.com/"
-    },
-    {
       "url": "https://www.forsyth-cummingoptimistclub.com",
       "error": "ConnectionError: HTTPSConnectionPool(host='www.forsyth-cummingoptimistclub.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.forsyth-cummingoptimistclub.com', port=443): Failed to resolve 'www.forsyth-cummingoptimistclub.com' ([Errno -2] Name or service not known)\"))"
-    },
-    {
-      "url": "https://www.unitedwayforsyth.org",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.unitedwayforsyth.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.unitedwayforsyth.org', port=443): Failed to resolve 'www.unitedwayforsyth.org' ([Errno -2] Name or service not known)\"))"
-    },
-    {
-      "url": "https://www.i1project.org",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.i1project.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.i1project.org', port=443): Failed to resolve 'www.i1project.org' ([Errno -2] Name or service not known)\"))"
     }
   ]
 }
