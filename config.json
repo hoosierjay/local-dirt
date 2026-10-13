@@ -15,11 +15,11 @@
   },
   "limits": {
     "max_pages_per_source": 10,
-    "max_links_from_page": 120,
-    "max_text_chars_per_item": 600,
+    "max_links_from_page": 20,
+    "max_text_chars_per_item": 500,
     "max_pdf_pages": 25,
-    "max_text_chars_broad_source": 600,
-    "max_item_age_days": 9
+    "max_text_chars_broad_source": 500,
+    "max_item_age_days": 7
   },
   "crawl_link_terms": [
     "news",
@@ -115,7 +115,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -127,7 +127,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -139,7 +139,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -151,7 +151,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -163,7 +163,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -175,7 +175,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -187,7 +187,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   },
   {
@@ -199,7 +199,7 @@
     "crawl_depth": 3,
     "max_pages": 10,
     "max_item_age_days": 30,
-    "max_text_chars": 600,
+    "max_text_chars": 500,
     "is_feed": false
   }
 ],
