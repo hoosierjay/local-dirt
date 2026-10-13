@@ -1,8 +1,8 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-13T14:00:09+00:00",
-  "finished_at": "2026-10-13T14:01:23+00:00",
-  "item_count": 26,
+  "started_at": "2026-10-13T19:31:29+00:00",
+  "finished_at": "2026-10-13T19:32:39+00:00",
+  "item_count": 27,
   "error_count": 4,
   "checked_source_count": 18,
   "skipped_source_count": 0,
@@ -20,96 +20,112 @@
     {
       "source": "Forsyth County Government",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T14:00:26+00:00"
+      "checked_at": "2026-10-13T19:31:41+00:00"
     },
     {
       "source": "City of Cumming",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T14:00:32+00:00"
+      "checked_at": "2026-10-13T19:31:46+00:00"
     },
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T14:00:35+00:00"
+      "checked_at": "2026-10-13T19:31:49+00:00"
     },
     {
       "source": "Forsyth County Schools",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T14:00:43+00:00"
+      "checked_at": "2026-10-13T19:31:58+00:00"
     },
     {
       "source": "Forsyth County Public Library",
       "refresh_minutes": 240,
-      "checked_at": "2026-10-13T14:00:44+00:00"
+      "checked_at": "2026-10-13T19:31:59+00:00"
     },
     {
       "source": "Forsyth County News",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T14:01:10+00:00"
+      "checked_at": "2026-10-13T19:32:26+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T14:01:11+00:00"
+      "checked_at": "2026-10-13T19:32:27+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 60,
-      "checked_at": "2026-10-13T14:01:12+00:00"
+      "checked_at": "2026-10-13T19:32:28+00:00"
     },
     {
       "source": "The Place of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:14+00:00"
+      "checked_at": "2026-10-13T19:32:30+00:00"
     },
     {
       "source": "Age Well Forsyth",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:15+00:00"
+      "checked_at": "2026-10-13T19:32:31+00:00"
     },
     {
       "source": "Abba House",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:16+00:00"
+      "checked_at": "2026-10-13T19:32:31+00:00"
     },
     {
       "source": "UGA Extension Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:18+00:00"
+      "checked_at": "2026-10-13T19:32:33+00:00"
     },
     {
       "source": "Forsyth-Cumming Optimist Club",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:18+00:00"
+      "checked_at": "2026-10-13T19:32:33+00:00"
     },
     {
       "source": "United Way of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:18+00:00"
+      "checked_at": "2026-10-13T19:32:33+00:00"
     },
     {
       "source": "Family Promise of Forsyth County",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:20+00:00"
+      "checked_at": "2026-10-13T19:32:35+00:00"
     },
     {
       "source": "i1 Project",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:20+00:00"
+      "checked_at": "2026-10-13T19:32:35+00:00"
     },
     {
       "source": "Forsyth County Chamber of Commerce",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:22+00:00"
+      "checked_at": "2026-10-13T19:32:37+00:00"
     },
     {
       "source": "Metro Atlanta YMCA",
       "refresh_minutes": 1440,
-      "checked_at": "2026-10-13T14:01:23+00:00"
+      "checked_at": "2026-10-13T19:32:39+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
+    {
+      "id": "fd740e7daf6a0a7062660b4a",
+      "source": "Forsyth County News",
+      "source_scope": "broad",
+      "category": "news",
+      "item_type": "feed",
+      "title": "2026 Glow Run to raise money for Forsyth County Schools staff scholarships. Here's how you can take part",
+      "url": "https://www.forsythnews.com/news/education/2026-glow-run-to-raise-money-for-forsyth-county-schools-staff-scholarships-heres-how-you-can-take-part",
+      "published": "Mon, 12 Oct 2026 14:59:18 +0000",
+      "fetched_at": "2026-10-13T19:32:02+00:00",
+      "matched_keywords": [
+        "Forsyth County",
+        "Forsyth County Schools"
+      ],
+      "text": "The 5K and fun run is open to the community."
+    },
     {
       "id": "501c0d9435c3711ee3f99a17",
       "source": "UGA Extension Forsyth County",
@@ -119,7 +135,7 @@
       "title": "Home",
       "url": "https://extension.uga.edu/county-offices/forsyth.html",
       "published": "2026-10-13T08:00Z",
-      "fetched_at": "2026-10-13T14:01:18+00:00",
+      "fetched_at": "2026-10-13T19:32:33+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -134,7 +150,7 @@
       "title": "Family Promise of Forsyth County",
       "url": "https://www.fpforsyth.org",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:20+00:00",
+      "fetched_at": "2026-10-13T19:32:35+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -149,7 +165,7 @@
       "title": "About Age Well",
       "url": "https://www.agewellforsyth.com",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:15+00:00",
+      "fetched_at": "2026-10-13T19:32:31+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -164,26 +180,11 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:11+00:00",
+      "fetched_at": "2026-10-13T19:32:27+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": "Delivering quality news and marketing campaigns to Alpharetta, Roswell, Johns Creek, south Forsyth County, Milton, Dunwoody, Sandy Springs, Decatur and surrounding communities\nAppen Media Group (AMG) is a family owned news media company located in the Northern suburbs of Atlanta. The company was founded in 1990 by Ray and Christina Appen, two veteran newspaper executives formerly with Knight-Ridder/The Miami Herald. The company is now led by their son, CEO & Publisher Hans Appen.\nSince its inception, AMG has focused on professionally produced local journalism in the areas of government, education, business, public safety, and lifestyle news and features. That core mission remains the same today and AMG’s credible, unbiased, and timely community journalism is now disseminated across a wide spectrum of print, audio and digital platforms.\nThe AMG product portfolio includes a core of seven weekly community newspapers with a combined home-delivered circulation of 113,000 editions distributed weekly to the affluent metro Atlanta suburbs of Alpharetta, Roswell, Johns Creek, Sandy Springs, Dunwoody, Milton, Decatur and south Forsyth County. AMG provides a competitive advantage in print and digital media in the region in terms of market penetration and community trust. The AMG brand is anchored historically in partnerships within the communities it serves.\nAMG has also operated and published news on the award winning appenmedia.com since 1996.\nIn 2024, AMG purchased the online news hub decaturish.com from longtime owner and founder Dan Whisenhunt. Decaturish serves Decatur and neighboring cities including Avondale Estates, Tucker, Clarkston and Stone Mountain.\nIn addition to its weekly newspapers and online news websites, AMG assets also include community guides, events, event management, newsletters, custom publications, full service brand development, creative design and production of niche publications.\nContact\n➤ LOCATION\n319 North Main Street Alpharetta, GA 30009\n☎ CONTACT\nhello@appenmedia.com (770)442-3278\nAreas of Practice\nNewspapers\nThe core of its business, Appen Media Group publishes the weekly newspapers Alpharetta-Roswell Herald, Dunwoody Crier, Sandy Springs Crier, Johns Creek Herald, Forsyth Herald, Milton Herald, and Decaturish INK.\nsocial media\nAppen Media Group owns and operates portals through Facebook, Twitter, YouTube, and Instagram with the largest subscribers and follower base for its market. It also has tools to operate custom campaigns for clients and events.\nEvent Management\nAppen Media Group is strongly positioned to manage events marketing efforts for local companies by streamlining marketing, revenue, and day of operations. Internally it operates the annual Best of North Atlanta, Best of Perimeter and Best of Decaturish contests and events.\npodcasts\nIn 2018 Appen Media Group launched the Appen Podcast Network, offering listeners a unique way of consuming local news and entertainment, as well as an outlet for advertisers to reach"
-    },
-    {
-      "id": "cb355b3876f3f83d73e4f409",
-      "source": "Forsyth County News",
-      "source_scope": "broad",
-      "category": "news",
-      "item_type": "listing_or_page",
-      "title": "Softball: Here's the GHSA playoff schedule for Forsyth County teams",
-      "url": "https://www.forsythnews.com/sports/softball/softball-heres-ghsa-playoff-schedule-forsyth-county-teams-2026",
-      "published": null,
-      "fetched_at": "2026-10-13T14:01:10+00:00",
-      "matched_keywords": [
-        "Forsyth County"
-      ],
-      "text": ""
     },
     {
       "id": "6f33e8e311f31790410940a3",
@@ -194,7 +195,7 @@
       "title": "Football: Forsyth County PSR check-in following Week 8 games",
       "url": "https://www.forsythnews.com/sports/football/football-forsyth-county-psr-check-in-following-week-8-games",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:07+00:00",
+      "fetched_at": "2026-10-13T19:32:26+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -209,7 +210,7 @@
       "title": "Forsyth County kids are being encouraged to try the world of dog sports - here's how",
       "url": "https://www.forsythnews.com/life/animals/forsyth-county-kids-are-being-encouraged-to-try-the-world-of-dog-sports-heres-how",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:05+00:00",
+      "fetched_at": "2026-10-13T19:32:23+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -224,25 +225,24 @@
       "title": "New manager, kitchen upgrades at this Forsyth County restaurant following failed inspection",
       "url": "https://www.forsythnews.com/life/food-drink/new-manager-kitchen-upgrades-at-this-forsyth-county-restaurant-following-failed-inspection",
       "published": null,
-      "fetched_at": "2026-10-13T14:01:02+00:00",
+      "fetched_at": "2026-10-13T19:32:20+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": ""
     },
     {
-      "id": "bc4169aeb61140ea70bc9fc3",
+      "id": "446d3ec0b38dc83049819a3b",
       "source": "Forsyth County News",
       "source_scope": "broad",
       "category": "news",
       "item_type": "listing_or_page",
-      "title": "2026 Glow Run to raise money for Forsyth County Schools staff scholarships. Here's how you can take part",
-      "url": "https://www.forsythnews.com/news/education/2026-glow-run-to-raise-money-for-forsyth-county-schools-staff-scholarships-heres-how-you-can-take-part",
+      "title": "SpaceX rocket launch streaks through Forsyth County sky",
+      "url": "https://www.forsythnews.com/life/outdoors/spacex-rocket-launch-streaks-through-forsyth-county-sky",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:59+00:00",
+      "fetched_at": "2026-10-13T19:32:18+00:00",
       "matched_keywords": [
-        "Forsyth County",
-        "Forsyth County Schools"
+        "Forsyth County"
       ],
       "text": ""
     },
@@ -255,7 +255,7 @@
       "title": "No Kings groups to hold event in Forsyth County",
       "url": "https://www.forsythnews.com/news/politics/no-kings-groups-to-hold-event-in-forsyth-county",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:57+00:00",
+      "fetched_at": "2026-10-13T19:32:16+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -270,7 +270,7 @@
       "title": "Forsyth County Voter Guide: What to know before the November 2026 election",
       "url": "https://www.forsythnews.com/news/politics/forsyth-county-voter-guide-what-to-know-before-the-november-2026-election",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:55+00:00",
+      "fetched_at": "2026-10-13T19:32:13+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -285,7 +285,7 @@
       "title": "Forsyth County grand jury indicts Buford man in $65K check fraud case",
       "url": "https://www.forsythnews.com/news/crime-courts/forsyth-county-grand-jury-indicts-buford-man-in-65k-check-fraud-case",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:52+00:00",
+      "fetched_at": "2026-10-13T19:32:10+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -300,14 +300,29 @@
       "title": "How you can weigh in on extending Forsyth County’s pause on residential development",
       "url": "https://www.forsythnews.com/news/government/how-you-can-weigh-in-on-extending-forsyth-countys-pause-on-residential-development",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:50+00:00",
+      "fetched_at": "2026-10-13T19:32:08+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
       "text": ""
     },
     {
-      "id": "10b737f86813d576f3331976",
+      "id": "151eed61110c4d69fe24d835",
+      "source": "Forsyth County News",
+      "source_scope": "broad",
+      "category": "news",
+      "item_type": "listing_or_page",
+      "title": "Near-record October heat forecast in Forsyth County before cold front hits",
+      "url": "https://www.forsythnews.com/news/weather/near-record-october-heat-forecast-in-forsyth-county-before-cold-front-hits",
+      "published": null,
+      "fetched_at": "2026-10-13T19:32:05+00:00",
+      "matched_keywords": [
+        "Forsyth County"
+      ],
+      "text": ""
+    },
+    {
+      "id": "4427b0f191b82bd54a1c7f22",
       "source": "Forsyth County News",
       "source_scope": "broad",
       "category": "news",
@@ -315,11 +330,11 @@
       "title": "Forsyth County News",
       "url": "https://www.forsythnews.com",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:46+00:00",
+      "fetched_at": "2026-10-13T19:32:01+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Homepage\nSubscribe For more great content\nNews\nElections\nLife\nSports\nJournalism Fund\nObituaries\nOpinion\nMagazines\nSponsored Content\nClassifieds Marketplace\nLegal Notices\nPuzzles\nCalendar\nPrivacy Policy\nTerms of Service\nMore\nHow you can weigh in on extending Forsyth County’s pause on residential development\nForsyth County grand jury indicts Buford man in $65K check fraud case\nForsyth County Voter Guide: What to know before the November 2026 election\nNo Kings groups to hold event in Forsyth County"
+      "text": "Homepage\nSubscribe For more great content\nNews\nElections\nLife\nSports\nJournalism Fund\nObituaries\nOpinion\nMagazines\nSponsored Content\nClassifieds Marketplace\nLegal Notices\nPuzzles\nCalendar\nPrivacy Policy\nTerms of Service\nMore\nNear-record October heat forecast in Forsyth County before cold front hits\nNew manager, kitchen upgrades at this Forsyth County restaurant following failed inspection\nHow you can weigh in on extending Forsyth County’s pause on residential development\nForsyth County grand jury indicts Buford man in $65K check fraud case"
     },
     {
       "id": "86c27091e8f735371dc32abb",
@@ -330,7 +345,7 @@
       "title": "Forsyth County Public Library Website",
       "url": "https://www.forsythpl.org",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:44+00:00",
+      "fetched_at": "2026-10-13T19:31:59+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -345,7 +360,7 @@
       "title": "Press Releases | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/district-services/communications/press-release",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:43+00:00",
+      "fetched_at": "2026-10-13T19:31:58+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -360,7 +375,7 @@
       "title": "About Us | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us/inside-fcs/about-us/overview",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:39+00:00",
+      "fetched_at": "2026-10-13T19:31:54+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -375,7 +390,7 @@
       "title": "Home | Forsyth County School District",
       "url": "https://www.forsyth.k12.ga.us",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:37+00:00",
+      "fetched_at": "2026-10-13T19:31:52+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -390,7 +405,7 @@
       "title": "Community Outreach",
       "url": "https://www.forsythsheriff.org/law-enforcement/community-outreach",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:35+00:00",
+      "fetched_at": "2026-10-13T19:31:49+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -405,7 +420,7 @@
       "title": "Rezoning",
       "url": "https://www.cityofcumming.net/rezoning",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:32+00:00",
+      "fetched_at": "2026-10-13T19:31:46+00:00",
       "matched_keywords": [
         "rezoning"
       ],
@@ -420,7 +435,7 @@
       "title": "Home",
       "url": "https://www.cityofcumming.net",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:31+00:00",
+      "fetched_at": "2026-10-13T19:31:44+00:00",
       "matched_keywords": [
         "rezoning"
       ],
@@ -435,14 +450,14 @@
       "title": "Water & Sewer Rates",
       "url": "https://www.forsythco.com/government/departments/water-sewer/water-sewer-rates",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:26+00:00",
+      "fetched_at": "2026-10-13T19:31:41+00:00",
       "matched_keywords": [
         "sewer rate"
       ],
       "text": "Water & Sewer Rates\nGovernment\nDepartments A-Z\nWater & Sewer\nRates and Information\nWater Rate Calculator (2026)\nBackflow Prevention\nEducational Resources About PFAS About Wastewater Don’t Flush It! Fats, Oils and Grease (FOG) Fix a Leak Week Keeping Your Water Meter Accessible Pressure Reducing Valves Pretreatment Requirements Reuse Water & Hydrants Septic System Care & Maintenance Septic Systems and Tanks Swimming Pool Draining & Discharge Water Service Line Inventory Water Source Water Taste & Odor WaterFirst Community\nAbout PFAS\nAbout Wastewater\nDon’t Flush It!\nFats, Oils and Grease (FOG)\nFix a Leak Week\nKeeping Your Water Meter Accessible\nPressure Reducing Valves\nPretreatment Requirements\nReuse Water & Hydrants\nSeptic System Care & Maintenance\nSeptic Systems and Tanks\nSwimming Pool Draining & Discharge\nWater Service Line Inventory\nWater Source\nWater Taste & Odor\nWaterFirst Community\nFacilities & Tours\nOutdoor Watering & Conservation Water Conservation Kit Why Saving Water Matters\nWater Conservation Kit\nWhy Saving Water Matters\nPay Water Bill & Billing Information\nReport a Problem\nSeptic Tank Pump-Out Septic Tank Pump-Out Application\nSeptic Tank Pump-Out Application\nStart, Stop or Restore Water Service\nWater & Sewer Engineering\nWater & Sewer Projects\nWater Quality\nWaterSmart Portal\nPhone\nHours\nMonday - Friday 8:30 a.m. - 5 p.m.\nAddress\n2435 Freedom Parkway, Suite 1200 Cumming, GA 30041"
     },
     {
-      "id": "e2806b084708cd8842655bbb",
+      "id": "2d1ba3d224d4efe57c6a5bec",
       "source": "Forsyth County Government",
       "source_scope": "broad",
       "category": "government",
@@ -450,11 +465,11 @@
       "title": "Forsyth County Meetings",
       "url": "https://www.forsythco.com/government/forsyth-county-meetings",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:20+00:00",
+      "fetched_at": "2026-10-13T19:31:37+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
-      "text": "Forsyth County Meetings\nFind information about upcoming and past meetings for Forsyth County boards and committees.\nBOC Meeting Minutes Library\nMeeting Video Archive\nLive Broadcast\nPublic Participation Procedures\nUpcoming Meetings\nOctober 15, 2026\nDevelopment Authority Regular Meeting\nRegular Meeting\n9:30 AM\nAdministration Building\nDocuments\nBoard of Commissioners Regular Meeting / Public Hearings\nRegular Meeting/Public Hearings\n5:00 PM\nBoard of Commissioners Building\nOctober 20, 2026\nBoard of Commissioners Work Session Meeting\nWork Session\n2:00 PM\nPlanning Commission Work Session\n6:30 PM\nOctober 27, 2026\nPlanning Commission Regular Meeting/Public Hearings\nNovember 3, 2026\nZoning Board of Appeals Work Session\nZoning Board of Appeals Regular Meeting/Public Hearings\n7:00 PM\nNovember 5, 2026\nNovember 10, 2026\nNovember 12, 2026\nCivil Service Board – Regular Meeting 10:00 AM\n10:00 AM\nForsyth County Juvenile Court Building"
+      "text": "Forsyth County Meetings\nFind information about upcoming and past meetings for Forsyth County boards and committees.\nBOC Meeting Minutes Library\nMeeting Video Archive\nLive Broadcast\nPublic Participation Procedures\nUpcoming Meetings\nOctober 15, 2026\nDevelopment Authority Regular Meeting\nRegular Meeting\n9:30 AM\nAdministration Building\nDocuments\nBoard of Commissioners Regular Meeting / Public Hearings\nRegular Meeting/Public Hearings\n5:00 PM\nBoard of Commissioners Building\nOctober 20, 2026\nBoard of Commissioners Work Session Meeting\nWork Session\n2:00 PM\nPlanning Commission Work Session\n6:30 PM\nOctober 27, 2026\nPlanning Commission Regular Meeting/Public Hearings\nNovember 3, 2026\nZoning Board of Appeals Work Session\nBoard of Voter Registrations & Elections\nSpecial Called Meeting\n7:00 PM\nVoter Registrations & Elections\nZoning Board of Appeals Regular Meeting/Public Hearings\nNovember 5, 2026\nNovember 9, 2026\nRegular Meeting/Special Called Meeting\n9:00 AM"
     },
     {
       "id": "a24edd90dbddae34cb23d265",
@@ -465,7 +480,7 @@
       "title": "Building Permitting",
       "url": "https://www.forsythco.com/government/departments/building-licensing/building-permitting",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:18+00:00",
+      "fetched_at": "2026-10-13T19:31:35+00:00",
       "matched_keywords": [
         "building permit"
       ],
@@ -480,7 +495,7 @@
       "title": "Forsyth County App",
       "url": "https://www.forsythco.com/residents/forsyth-county-app",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:14+00:00",
+      "fetched_at": "2026-10-13T19:31:32+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -495,7 +510,7 @@
       "title": "Home",
       "url": "https://www.forsythco.com",
       "published": null,
-      "fetched_at": "2026-10-13T14:00:10+00:00",
+      "fetched_at": "2026-10-13T19:31:30+00:00",
       "matched_keywords": [
         "Forsyth County",
         "Forsyth County Court",
