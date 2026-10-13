@@ -46,4 +46,82 @@ jobs:
           git diff --cached --quiet || git commit -m "Update output file"
 
           git push
+
+      # Step 6: Ask Gemini to select and draft posts from the latest digest
+      - name: Generate Gemini Report
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+
+          api_key = os.environ.get("GOOGLE_API_KEY")
+          if not api_key:
+              raise SystemExit("The GOOGLE_API_KEY repository secret is required.")
+
+          digest_path = Path("output/digest_latest.json")
+          digest = json.loads(digest_path.read_text(encoding="utf-8"))
+          prompt = """Act as the editor of a concise Southside Indianapolis local-news account.
+          Do not summarize everything. Review every item in this JSON, merge duplicate
+          stories, and choose only items that a meaningful number of Southside residents
+          would care about. Prioritize major development, roads/closures, restaurants
+          and recognizable businesses, taxes, schools, school-board decisions, public
+          safety, major local government decisions, significant sports results and
+          unusual community news. When in doubt, skip it. For each selected item, give
+          me a short X/Facebook-ready post and preserve the original source URL."""
+
+          payload = {
+              "contents": [{
+                  "parts": [
+                      {"text": prompt},
+                      {
+                          "text": (
+                              "Review the contents of output/digest_latest.json:\n"
+                              + json.dumps(digest, ensure_ascii=False)
+                          )
+                      },
+                  ]
+              }]
+          }
+          request = Request(
+              "https://generativelanguage.googleapis.com/v1beta/"
+              "models/gemini-2.5-flash:generateContent",
+              data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+              headers={
+                  "Content-Type": "application/json",
+                  "x-goog-api-key": api_key,
+              },
+              method="POST",
+          )
+          with urlopen(request, timeout=120) as response:
+              result = json.load(response)
+
+          candidates = result.get("candidates", [])
+          if not candidates:
+              raise SystemExit(
+                  "Gemini returned no candidates: "
+                  + json.dumps(result.get("promptFeedback", result), ensure_ascii=False)
+              )
+
+          text = "".join(
+              part.get("text", "")
+              for part in candidates[0].get("content", {}).get("parts", [])
+          ).strip()
+          if not text:
+              raise SystemExit("Gemini returned an empty report.")
+
+          report_path = Path("output/gemini_latest.md")
+          report_path.write_text(text + "\n", encoding="utf-8")
+          PY
+
+      - name: Upload Gemini Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: gemini-report
+          path: output/gemini_latest.md
+          if-no-files-found: error
+          retention-days: 14
           
