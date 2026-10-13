@@ -17,8 +17,6 @@
       "patch.com/georgia/cumming",
       "theplaceofforsyth.org", 
       "agewellforsyth.com", 
-      "caes.uga.edu/extension/forsyth", 
-      "forsyth-cummingoptimistclub.com", 
       "fpforsyth.org", 
       "forsythchamber.com", 
       "ymcaatlanta.org"
@@ -239,30 +237,6 @@
   {
     "name": "Age Well Forsyth",
     "url": "https://www.agewellforsyth.com",
-    "scope": "broad",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 20000,
-    "is_feed": false
-  },
-  {
-    "name": "UGA Extension Forsyth County",
-    "url": "https://www.caes.uga.edu/extension/forsyth",
-    "scope": "broad",
-    "category": "nonprofit",
-    "refresh_minutes": 1440,
-    "crawl_depth": 3,
-    "max_pages": 10,
-    "max_item_age_days": 30,
-    "max_text_chars": 20000,
-    "is_feed": false
-  },
-  {
-    "name": "Forsyth-Cumming Optimist Club",
-    "url": "https://www.forsyth-cummingoptimistclub.com",
     "scope": "broad",
     "category": "nonprofit",
     "refresh_minutes": 1440,
