@@ -41,6 +41,7 @@ flowchart TD
   Step4.1 --> Step4.2
   Step4.2 --> Step5.1
   Step5.1 --> Step6.1
+  Step6.1 --> Step6.2
   Step6.1 --> Step7.1
   Step6.2 --> Step8.1
 ```
