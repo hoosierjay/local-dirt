@@ -61,7 +61,6 @@ jobs:
 
           git add output/report_latest.md
           git diff --cached --quiet || git commit -m "Update report"
-          git pull --rebase
           git push
 
       # Step 8: Open an issue with the report; GitHub emails it to the assignee
