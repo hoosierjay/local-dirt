@@ -31,7 +31,7 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 flowchart TD
   subgraph "Scheduled Workflow (run.yml)"
     Step4.1@{ shape: rect, label: "Generate Digest (local_dirt.py)" }
-    Step4.2@{ shape: doc, label: "Digest File (digest_latest.json)" }
+    Step4.2@{ shape: doc, label: "Digest File<br>(digest_latest.json)" }
     Step5.1@{ shape: rect, label: "Push Digest File to Repo" }
     Step6.1@{ shape: rect, label: "Analyze Digest and Generate Report (local_dirt_ai_report.py)" }
     Step6.2@{ shape: doc, label: "Analysis Report (report_latest.json)" }
