@@ -7,9 +7,10 @@ This project collects publicly available local government and community news ite
 
 The process is intentionally a collector, not an editor:
 
-- Python gathers and normalizes items.
-- The script tracks seen items to avoid re-emitting duplicates.
-- A later step can pass the digest to an AI model for editorial analysis.
+- News items are gathered and normalized.
+- Items that have already been seen are ignored to avoid duplicates.
+- A digest is created.
+- The digest is passed to an AI model for editorial analysis.
 
 The collection loop is designed to be efficient. Each configured source has its own refresh interval, and the master run only checks sources whose interval has elapsed.
 
@@ -128,12 +129,12 @@ The project currently writes two main artifacts to the `output` folder:
 ## Automation
 The GitHub Actions workflow defined in `.github/workflows/run.yml` runs on a scheduled cron trigger and also supports manual runs from the Actions tab. It collects the latest items, then sends the digest to Groq for a concise editorial pass.
 
-#### Required Repository Secret
+#### Repository Secrets
 - `GROQ_API_KEY`
 - `GROQ_MODEL` (optional environment setting, defaults to `openai/gpt-oss-120b`)
 
-#### Prompt Used for AI
-Upload `output/digest_latest.json` and say:
+#### AI Prompting Approach
+Upload `output/digest_latest.json` and prompt with:
 
 "Act as the editor of a concise Forsyth County local-news account.
 Do not summarize everything. Review every item in this JSON, merge duplicate
@@ -145,7 +146,7 @@ results and unusual community news. When in doubt, skip it. For each selected
 item, give me a short X/Facebook-ready post and preserve the original source
 URL."
 
-This prompt is used in `local_dirt_ai_report.py` and reflects the current configuration.
+NOTE: this prompt is used in `local_dirt_ai_report.py`.
 
 
 
