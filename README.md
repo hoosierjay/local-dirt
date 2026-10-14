@@ -30,10 +30,12 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 ```mermaid
 flowchart TD
   subgraph Scheduled Workflow
-    Step4[Generate Digest]
-    Step5[\digest_latest.json/]
+    Step4.1[Generate Digest]
+    Step4.2[\Digest File digest_latest.json/]
+    Step5.1[Push Digest File to Repo]
   end
-  Step4 --> Step5
+  Step4.1 --> Step4.2
+  Step4.2 --> Step5.1
 ```
 
 ## CONFIGURATION
