@@ -30,24 +30,12 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 ```mermaid
 flowchart LR
   subgraph Client
-    UI[Web app]
-    Cache[(Local cache)]
+    Step4[Generate Digest]
+    Step5[(digest_latest.json)]
   end
-  subgraph Services
-    API[API gateway]
-    Auth[Auth service]
-    Orders[Order service]
-  end
-  subgraph Storage
-    DB[(Orders DB)]
-  end
-  UI --> API
-  UI --> Cache
-  API --> Auth
-  API --> Orders
-  Orders --> DB
-  Auth -. token .-> UI
+  Step4 --> Step5
 ```
+
 ## CONFIGURATION
 Normally you edit `config.json`, not the Python code.
 
