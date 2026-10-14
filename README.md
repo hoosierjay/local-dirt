@@ -26,6 +26,23 @@ Example refresh defaults from the project configuration:
 
 If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
+## PROCESS FLOW
+```mermaid
+flowchart LR
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
+```
+
+```mermaid
+graph TD;
+    A[Start] --> B{Is it working?};
+    B -- Yes --> C[Great!];
+    B -- No --> D[Debug Code];
+    D --> B;
+```
+
 ## CONFIGURATION
 Normally you edit `config.json`, not the Python code.
 
