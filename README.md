@@ -27,6 +27,14 @@ Example refresh defaults from the project configuration:
 If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
 ## PROCESS FLOW
+The workflow is configured in `.github/workflows/run.yml` and does the following:
+
+1. Run python script to generate digest
+2. Commit the digest to the repo output folder
+3. Run python script to generate analysis report
+4. Commit the analysis report to the repo output folder
+5. Email analysis report to repo owner (opened as GitHub issue)
+
 ```mermaid
 flowchart TD
   subgraph "Scheduled Workflow (run.yml)"
@@ -34,7 +42,7 @@ flowchart TD
     Step4.2@{ shape: doc, label: "Digest File<br>(digest_latest.json)" }
     Step5.1@{ shape: rect, label: "Push Digest File to Repo" }
     Step6.1@{ shape: rect, label: "Analyze Digest and Generate Report<br>(local_dirt_ai_report.py)" }
-    Step6.2@{ shape: doc, label: "Analysis Report<br>(report_latest.json)" }
+    Step6.2@{ shape: doc, label: "Analysis Report<br>(report_latest.md)" }
     Step7.1@{ shape: rect, label: "Push Analysis to Repo" }
     Step8.1@{ shape: rect, label: "Email Analysis to Repo Owner" }
     Step9.0@{ shape: docs, label: "Repo" }
@@ -50,7 +58,7 @@ flowchart TD
 ```
 
 ## CONFIGURATION
-Normally you edit `config.json`, not the Python code.
+To configure, just edit `config.json`, not the Python code.
 
 The configuration includes:
 
@@ -168,13 +176,7 @@ Optional environment setting:
 
 - `GROQ_MODEL` (defaults to `openai/gpt-oss-120b`)
 
-The workflow is configured in `.github/workflows/run.yml` and does the following:
 
-1. Runs `python local_dirt.py`
-2. Commits the digest to the repo output folder
-3. Runs `python local_dirt_ai_report.py`
-4. Commits the report to `output/report_latest.md`
-5. Opens a GitHub issue containing the AI-generated report
 
 ## LIMITATIONS
 No generic scraper can guarantee every website forever. Some sites change,
