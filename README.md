@@ -31,7 +31,7 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 flowchart TD
   subgraph Scheduled Workflow
     Step4.1[Generate Digest]
-    Step4.2[\Digest File digest_latest.json/]
+    Step4.2@{ shape: doc, label: "Digest File (digest_latest.json)" }
     Step5.1[Push Digest File to Repo]
   end
   Step4.1 --> Step4.2
