@@ -29,7 +29,7 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 ## PROCESS FLOW
 ```mermaid
 flowchart LR
-  subgraph Scheduled Workflow (run.yml)
+  subgraph Scheduled Workflow, run.yml
     Step4[Generate Digest]
     Step5[\digest_latest.json/]
   end
