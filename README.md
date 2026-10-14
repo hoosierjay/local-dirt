@@ -70,77 +70,55 @@ The configuration includes:
 
 Each source can override the category default with its own `refresh_minutes` value.
 
-Example source entry:
-
-    {
-      "name": "Forsyth County Sheriff's Office",
-      "url": "https://www.forsythsheriff.org",
-      "scope": "local",
-      "category": "government",
-      "refresh_minutes": 300,
-      "crawl_depth": 3,
-      "max_pages": 6,
-      "max_item_age_days": 30,
-      "is_feed": false
-    }
-
-Example broader-news entry:
-
-    {
-      "name": "Patch Cumming",
-      "url": "https://patch.com/georgia/cumming",
-      "scope": "local",
-      "category": "news",
-      "refresh_minutes": 120,
-      "crawl_depth": 3,
-      "max_pages": 6,
-      "max_item_age_days": 30,
-      "is_feed": false
-    }
-
-You can adjust the crawl intervals, categories, and keywords in `config.json` whenever needed.
-
-
-## STATE FILES
-`seen_items.json`
-    Prevents old stories or items from being repeatedly emitted as new.
-
-`last_checked.json`
-    Remembers when each source was last checked, so a master run does not hammer every website on every cycle.
-
-## IMPORTANT BEHAVIOR
-A source that fails is not marked as successfully checked. That means it can retry on the next master run instead of waiting several hours or days.
-
-## ADDING OR REMOVING SITES
 Add a local site:
-
     {
       "name": "Example Town",
       "url": "https://example.gov/",
       "scope": "local",
       "category": "town",
       "refresh_minutes": 120
+      "crawl_depth": 3,
+      "max_pages": 6,
+      "max_item_age_days": 30,
+      "is_feed": false
     }
 
 Add a broad site where only local matches should survive:
-
     {
       "name": "Example News",
       "url": "https://example.com/",
       "scope": "local",
       "category": "news",
       "refresh_minutes": 30
+      "crawl_depth": 3,
+      "max_pages": 6,
+      "max_item_age_days": 30,
+      "is_feed": false
     }
 
 Add or remove local keywords under:
-
     "broad_source_keywords"
+
+You can adjust the crawl intervals, categories, and keywords in `config.json` whenever needed.
+
+
+## State Files
+`seen_items.json`
+    Prevents old stories or items from being repeatedly emitted as new.
+
+`last_checked.json`
+    Remembers when each source was last checked, so a master run does not hammer every website on every cycle.
+
+## Important Behavior
+A source that fails is not marked as successfully checked. That means it can retry on the next master run instead of waiting several hours or days.
+
 
 ## Output
 The project currently writes two main artifacts to the `output` folder:
 
 - `output/digest_latest.json` — the latest collected items in a JSON digest format
 - `output/report_latest.md` — the AI-edited summary report generated from the digest
+
 
 ## AI REPORT WORKFLOW
 The GitHub Actions workflow defined in `.github/workflows/run.yml` runs on a scheduled cron trigger and also supports manual runs from the Actions tab. It collects the latest items, then sends the digest to Groq for a concise editorial pass.
@@ -153,11 +131,6 @@ Optional environment setting:
 
 - `GROQ_MODEL` (defaults to `openai/gpt-oss-120b`)
 
-
-## Limitations
-No generic scraper can guarantee every website forever. Some sites change, block automated requests, use JavaScript, or put documents inside special systems.
-
-Failures are recorded in the JSON `errors` section and do not stop the rest of the collection.
 
 ## Prompt Used for AI
 Upload `output/digest_latest.json` and say:
@@ -173,3 +146,8 @@ item, give me a short X/Facebook-ready post and preserve the original source
 URL."
 
 This prompt is used in `local_dirt_ai_report.py` and reflects the current configuration.
+
+## Limitations
+No generic scraper can guarantee every website forever. Some sites change, block automated requests, use JavaScript, or put documents inside special systems.
+
+Failures are recorded in the JSON `errors` section and do not stop the rest of the collection.
