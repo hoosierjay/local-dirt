@@ -9,21 +9,11 @@ The process is intentionally a collector, not an editor:
 
 - Python gathers and normalizes items.
 - The script tracks seen items to avoid re-emitting duplicates.
-- A later step can pass the digest to an AI model for editorial sorting.
+- A later step can pass the digest to an AI model for editorial analysis.
 
 The collection loop is designed to be efficient. Each configured source has its own refresh interval, and the master run only checks sources whose interval has elapsed.
 
-Example refresh defaults from the project configuration:
 
-    Sports:                 120 minutes
-    School/news:            360 minutes
-    News:                   120 minutes
-    Government/council:     360 minutes
-    Planning/development:   360 minutes
-    Transportation:         360 minutes
-    Weather:                360 minutes
-
-If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
 ## Process Flow
 The workflow is configured in `.github/workflows/run.yml` and does the following:
@@ -71,6 +61,7 @@ The configuration includes:
 Each source can override the category default with its own `refresh_minutes` value.
 
 Add a local site:
+
     {
       "name": "Example Town",
       "url": "https://example.gov/",
@@ -84,6 +75,7 @@ Add a local site:
     }
 
 Add a broad site where only local matches should survive:
+
     {
       "name": "Example News",
       "url": "https://example.com/",
@@ -96,10 +88,19 @@ Add a broad site where only local matches should survive:
       "is_feed": false
     }
 
-Add or remove local keywords under:
-    "broad_source_keywords"
-
 You can adjust the crawl intervals, categories, and keywords in `config.json` whenever needed.
+
+Example refresh defaults from the project configuration:
+
+    Sports:                 120 minutes
+    School/news:            360 minutes
+    News:                   120 minutes
+    Government/council:     360 minutes
+    Planning/development:   360 minutes
+    Transportation:         360 minutes
+    Weather:                360 minutes
+
+If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
 
 ## State Files
@@ -109,7 +110,7 @@ You can adjust the crawl intervals, categories, and keywords in `config.json` wh
 `last_checked.json`
     Remembers when each source was last checked, so a master run does not hammer every website on every cycle.
 
-## Important Behavior
+### Important Behavior
 A source that fails is not marked as successfully checked. That means it can retry on the next master run instead of waiting several hours or days.
 
 
@@ -120,19 +121,14 @@ The project currently writes two main artifacts to the `output` folder:
 - `output/report_latest.md` — the AI-edited summary report generated from the digest
 
 
-## AI REPORT WORKFLOW
+## Automation
 The GitHub Actions workflow defined in `.github/workflows/run.yml` runs on a scheduled cron trigger and also supports manual runs from the Actions tab. It collects the latest items, then sends the digest to Groq for a concise editorial pass.
 
-Required repository secret:
-
+### Required Repository Secret
 - `GROQ_API_KEY`
+- `GROQ_MODEL` (optional environment setting, defaults to `openai/gpt-oss-120b`)
 
-Optional environment setting:
-
-- `GROQ_MODEL` (defaults to `openai/gpt-oss-120b`)
-
-
-## Prompt Used for AI
+### Prompt Used for AI
 Upload `output/digest_latest.json` and say:
 
 "Act as the editor of a concise Forsyth County local-news account.
