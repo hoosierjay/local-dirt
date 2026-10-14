@@ -1,12 +1,11 @@
 # local-dirt
-Local Government Data Analysis Tool
+"Local Dirt" is the local government data analysis tool!
 
-LOCAL DIRT — LOCAL GOVERNMENT DATA COLLECTOR
 
-## WHAT THIS DOES
-This project collects publicly available local-government and community-news items from configured websites, filters them for relevance, and writes a compact JSON digest that can be reviewed by an AI assistant or a human editor.
+## Project Summary
+This project collects publicly available local government and community news items from configured websites, filters them for relevance, and writes a compact digest in JSON format. That digest is then analyzed by an AI assistant and a compelling post is created ready for social media.
 
-The script is intentionally a collector, not an editor:
+The process is intentionally a collector, not an editor:
 
 - Python gathers and normalizes items.
 - The script tracks seen items to avoid re-emitting duplicates.
@@ -26,7 +25,7 @@ Example refresh defaults from the project configuration:
 
 If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
-## PROCESS FLOW
+## Process Flow
 The workflow is configured in `.github/workflows/run.yml` and does the following:
 
 1. Run python script to generate digest
@@ -57,7 +56,7 @@ flowchart TD
   Step7.1 --> Step9.0
 ```
 
-## CONFIGURATION
+## Configuration
 To configure, just edit `config.json`, not the Python code.
 
 The configuration includes:
@@ -101,28 +100,6 @@ Example broader-news entry:
 
 You can adjust the crawl intervals, categories, and keywords in `config.json` whenever needed.
 
-## INSTALL
-Open Command Prompt / PowerShell in this folder:
-
-    py -m pip install -r requirements.txt
-
-## MANUAL RUN
-    py local_dirt.py
-
-This writes the latest digest to:
-
-    output\digest_latest.json
-
-A timestamped copy is also written on each run.
-
-## FORCE EVERYTHING TO RUN NOW
-If you want to ignore the normal refresh timers:
-
-    py local_dirt.py --force-refresh
-
-If you also want previously seen items included:
-
-    py local_dirt.py --force-refresh --all
 
 ## STATE FILES
 `seen_items.json`
@@ -159,7 +136,7 @@ Add or remove local keywords under:
 
     "broad_source_keywords"
 
-## OUTPUTS
+## Output
 The project currently writes two main artifacts to the `output` folder:
 
 - `output/digest_latest.json` — the latest collected items in a JSON digest format
@@ -177,15 +154,12 @@ Optional environment setting:
 - `GROQ_MODEL` (defaults to `openai/gpt-oss-120b`)
 
 
-
-## LIMITATIONS
-No generic scraper can guarantee every website forever. Some sites change,
-block automated requests, use JavaScript, or put documents inside special
-systems.
+## Limitations
+No generic scraper can guarantee every website forever. Some sites change, block automated requests, use JavaScript, or put documents inside special systems.
 
 Failures are recorded in the JSON `errors` section and do not stop the rest of the collection.
 
-## SUGGESTED AI PROMPT
+## Prompt Used for AI
 Upload `output/digest_latest.json` and say:
 
 "Act as the editor of a concise Forsyth County local-news account.
@@ -198,6 +172,4 @@ results and unusual community news. When in doubt, skip it. For each selected
 item, give me a short X/Facebook-ready post and preserve the original source
 URL."
 
-This matches the prompt used by `local_dirt_ai_report.py` and reflects the
-current Forsyth County configuration rather than the earlier Southside Indianapolis
-example.
+This prompt is used in `local_dirt_ai_report.py` and reflects the current configuration.
