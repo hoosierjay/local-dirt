@@ -4,54 +4,71 @@ Local Government Data Analysis Tool
 LOCAL DIRT — LOCAL GOVERNMENT DATA COLLECTOR
 
 ## WHAT THIS DOES
-This is intentionally a COLLECTOR, not an editor.
+This project collects publicly available local-government and community-news items from configured websites, filters them for relevance, and writes a compact JSON digest that can be reviewed by an AI assistant or a human editor.
 
-Python gathers.
-AI decides what deserves a post.
+The script is intentionally a collector, not an editor:
 
-The recommended setup is now:
+- Python gathers and normalizes items.
+- The script tracks seen items to avoid re-emitting duplicates.
+- A later step can pass the digest to an AI model for editorial sorting.
 
-    MASTER SCRIPT: every 15 minutes
+The collection loop is designed to be efficient. Each configured source has its own refresh interval, and the master run only checks sources whose interval has elapsed.
 
-But the script DOES NOT scrape every source every 15 minutes.
+Example refresh defaults from the project configuration:
 
-Each source has a configurable refresh interval. Example defaults:
+    Sports:                 120 minutes
+    School/news:            360 minutes
+    News:                   120 minutes
+    Government/council:     360 minutes
+    Planning/development:   360 minutes
+    Transportation:         360 minutes
+    Weather:                360 minutes
 
-    Sports:                 15 minutes
-    Weather:                15 minutes
-    News sites:             30 minutes
-    Transportation/roads:   30 minutes
-    School district/news:   30 minutes
-    City/town pages:        120 minutes
-    Planning/zoning:        180 minutes
-    Councils/agendas:       360 minutes
-
-If the script runs at 8:00 and checks a council page, then runs again at
-8:15, 8:30, 8:45, etc., it simply skips that council page until its configured
-refresh period has elapsed.
+If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
 ## CONFIGURATION
-Normally you edit config.json, NOT the Python file.
+Normally you edit `config.json`, not the Python code.
 
-The top-level "scheduler" section contains category defaults:
+The configuration includes:
 
-    "default_refresh_minutes_by_category"
+- `sources`: the list of websites to crawl
+- `scheduler.master_run_minutes`: how often the master loop runs
+- `scheduler.default_refresh_minutes_by_category`: default refresh intervals by category
+- `broad_source_keywords`: keywords used to keep only relevant local items from broader news sources
+- `request`: HTTP and crawler settings
+- `limits`: crawl and extraction caps
 
-Each individual source can override the default with:
+Each source can override the category default with its own `refresh_minutes` value.
 
-    "refresh_minutes": 15
-
-Example:
+Example source entry:
 
     {
-      "name": "Franklin Central Athletics",
-      "url": "https://fcflashes.org/",
-      "scope": "southside",
-      "category": "sports",
-      "refresh_minutes": 15
+      "name": "Forsyth County Sheriff's Office",
+      "url": "https://www.forsythsheriff.org",
+      "scope": "local",
+      "category": "government",
+      "refresh_minutes": 300,
+      "crawl_depth": 3,
+      "max_pages": 6,
+      "max_item_age_days": 30,
+      "is_feed": false
     }
 
-You can change 15 to 10, 30, 60, 360, etc. whenever you want.
+Example broader-news entry:
+
+    {
+      "name": "Patch Cumming",
+      "url": "https://patch.com/georgia/cumming",
+      "scope": "local",
+      "category": "news",
+      "refresh_minutes": 120,
+      "crawl_depth": 3,
+      "max_pages": 6,
+      "max_item_age_days": 30,
+      "is_feed": false
+    }
+
+You can adjust the crawl intervals, categories, and keywords in `config.json` whenever needed.
 
 ## INSTALL
 Open Command Prompt / PowerShell in this folder:
@@ -61,55 +78,38 @@ Open Command Prompt / PowerShell in this folder:
 ## MANUAL RUN
     py local_dirt.py
 
-The output is:
+This writes the latest digest to:
 
     output\digest_latest.json
 
-A timestamped copy is also written each run.
+A timestamped copy is also written on each run.
 
 ## FORCE EVERYTHING TO RUN NOW
-If you want to ignore all refresh timers:
+If you want to ignore the normal refresh timers:
 
     py local_dirt.py --force-refresh
 
-If you also want previously-seen items included:
+If you also want previously seen items included:
 
     py local_dirt.py --force-refresh --all
 
 ## STATE FILES
-seen_items.json
-    Prevents old stories/items from being repeatedly emitted as new.
+`seen_items.json`
+    Prevents old stories or items from being repeatedly emitted as new.
 
-last_checked.json
-    Remembers when each source was last checked, so a 15-minute master run
-    does not hammer every website every 15 minutes.
+`last_checked.json`
+    Remembers when each source was last checked, so a master run does not hammer every website on every cycle.
 
 ## IMPORTANT BEHAVIOR
-A source that fails is NOT marked as successfully checked. That means it
-can retry on the next 15-minute master run instead of waiting several hours.
+A source that fails is not marked as successfully checked. That means it can retry on the next master run instead of waiting several hours or days.
 
-## AUTOMATING WINDOWS
-The simplest Windows setup is Task Scheduler:
-
-1. Create Basic Task
-2. Trigger: Daily
-3. Repeat task every: 15 minutes
-4. Action: Start a program
-5. Program/script: py
-6. Arguments:
-       local_dirt.py
-7. Start in:
-       the folder containing this script
-
-The script itself decides which websites are actually due.
-
-## ADDING/REMOVING SITES
+## ADDING OR REMOVING SITES
 Add a local site:
 
     {
       "name": "Example Town",
       "url": "https://example.gov/",
-      "scope": "southside",
+      "scope": "local",
       "category": "town",
       "refresh_minutes": 120
     }
@@ -119,37 +119,60 @@ Add a broad site where only local matches should survive:
     {
       "name": "Example News",
       "url": "https://example.com/",
-      "scope": "broad",
+      "scope": "local",
       "category": "news",
       "refresh_minutes": 30
     }
 
-Add/remove locations, schools, roads, neighborhoods, etc. under:
+Add or remove local keywords under:
 
     "broad_source_keywords"
+
+## OUTPUTS
+The project currently writes two main artifacts to the `output` folder:
+
+- `output/digest_latest.json` — the latest collected items in a JSON digest format
+- `output/report_latest.md` — the AI-edited summary report generated from the digest
+
+## AI REPORT WORKFLOW
+The GitHub Actions workflow defined in `.github/workflows/run.yml` runs on a scheduled cron trigger and also supports manual runs from the Actions tab. It collects the latest items, then sends the digest to Groq for a concise editorial pass.
+
+Required repository secret:
+
+- `GROQ_API_KEY`
+
+Optional environment setting:
+
+- `GROQ_MODEL` (defaults to `openai/gpt-oss-120b`)
+
+The workflow is configured in `.github/workflows/run.yml` and does the following:
+
+1. Runs `python local_dirt.py`
+2. Commits the digest to the repo output folder
+3. Runs `python local_dirt_ai_report.py`
+4. Commits the report to `output/report_latest.md`
+5. Opens a GitHub issue containing the AI-generated report
 
 ## LIMITATIONS
 No generic scraper can guarantee every website forever. Some sites change,
 block automated requests, use JavaScript, or put documents inside special
 systems.
 
-Failures are recorded in the JSON "errors" section and do not stop the
-rest of the collection.
+Failures are recorded in the JSON `errors` section and do not stop the rest of the collection.
 
 ## SUGGESTED AI PROMPT
-Upload output\digest_latest.json and say:
+Upload `output/digest_latest.json` and say:
 
-"Act as the editor of a concise Southside Indianapolis local-news account.
+"Act as the editor of a concise Forsyth County local-news account.
 Do not summarize everything. Review every item in this JSON, merge duplicate
-stories, and choose only items that a meaningful number of Southside residents
-would care about. Prioritize major development, roads/closures, restaurants
-and recognizable businesses, taxes, schools, school-board decisions, public
-safety, major local government decisions, significant sports results and
-unusual community news. When in doubt, skip it. For each selected item, give
-me a short X/Facebook-ready post and preserve the original source URL."
+stories, and choose only items that a meaningful number of Forsyth County
+residents would care about. Prioritize major development, roads/closures,
+restaurants and recognizable businesses, taxes, schools, school-board
+decisions, public safety, major local government decisions, significant sports
+results and unusual community news. When in doubt, skip it. For each selected
+item, give me a short X/Facebook-ready post and preserve the original source
+URL."
 
-The GitHub Actions workflow sends this prompt and `output/digest_latest.json` to
-Gemini after each scheduled or manual run. Add a `GOOGLE_API_KEY` repository
-secret in the repository's Settings to enable it. The generated report is
-available as the `gemini-report` workflow artifact for 14 days; it is not
-committed to the repository.
+This matches the prompt used by `local_dirt_ai_report.py` and reflects the
+current Forsyth County configuration rather than the earlier Southside Indianapolis
+example.
