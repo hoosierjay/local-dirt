@@ -30,12 +30,19 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 ```mermaid
 flowchart TD
   subgraph Scheduled Workflow
-    Step4.1[Generate Digest]
+    Step4.1@{ shape: rect, label: "Generate Digest (local_dirt.py)" }
     Step4.2@{ shape: doc, label: "Digest File (digest_latest.json)" }
-    Step5.1[Push Digest File to Repo]
+    Step5.1@{ shape: rect, label: "Push Digest File to Repo" }
+    Step6.1@{ shape: rect, label: "Analyze Digest and Generate Report" }
+    Step6.2@{ shape: doc, label: "Analysis Report (report_latest.json)" }
+    Step7.1@{ shape: rect, label: "Push Analysis to Repo" }
+    Step8.1@{ shape: rect, label: "Email Analysis to Repo Owner" }
   end
   Step4.1 --> Step4.2
   Step4.2 --> Step5.1
+  Step5.1 --> Step6.1
+  Step6.1 --> Step7.1
+  Step6.2 --> Step8.1
 ```
 
 ## CONFIGURATION
