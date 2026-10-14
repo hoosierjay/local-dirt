@@ -29,20 +29,12 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 ## PROCESS FLOW
 ```mermaid
 flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
+  subgraph Scheduled Job
+    Step4[Generate Digest]
+    Step5[(digest_latest.json)]
+  end
+  Step4 --> Step5
 ```
-
-```mermaid
-graph TD;
-    A[Start] --> B{Is it working?};
-    B -- Yes --> C[Great!];
-    B -- No --> D[Debug Code];
-    D --> B;
-```
-
 
 ## CONFIGURATION
 Normally you edit `config.json`, not the Python code.
