@@ -46,3 +46,110 @@ jobs:
           git diff --cached --quiet || git commit -m "Update output file"
 
           git push
+
+      # Step 6: Ask Groq to select and draft posts from the latest digest
+      - name: Generate Report
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          api_key = os.environ.get("GROQ_API_KEY")
+          if not api_key:
+              raise SystemExit("The GROQ_API_KEY repository secret is required.")
+          model = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
+
+          # Free tier allows ~8K tokens/minute for input + output combined,
+          # so the digest has to be squeezed into a single small request.
+          EXCERPT_CHARS = 400
+          MAX_INPUT_CHARS = 12000
+
+          digest = json.loads(Path("output/digest_latest.json").read_text(encoding="utf-8"))
+
+          lines, total = [], 0
+          for it in digest.get("items", []):  # already sorted newest first
+              line = json.dumps({
+                  "source": it.get("source"),
+                  "title": it.get("title"),
+                  "url": it.get("url"),
+                  "published": it.get("published"),
+                  "text": (it.get("text") or "")[:EXCERPT_CHARS],
+              }, ensure_ascii=False)
+              if total + len(line) > MAX_INPUT_CHARS:
+                  break
+              lines.append(line)
+              total += len(line) + 1
+          print(f"Sending {len(lines)} of {len(digest.get('items', []))} items")
+
+          prompt = """Act as the editor of a concise Forsyth County local-news account.
+          Do not summarize everything. Review every item in this JSON, merge duplicate
+          stories, and choose only items that a meaningful number of Forsyth County residents
+          would care about. Prioritize major development, roads/closures, restaurants
+          and recognizable businesses, taxes, schools, school-board decisions, public
+          safety, major local government decisions, significant sports results and
+          unusual community news. When in doubt, skip it. For each selected item, give
+          me a short X/Facebook-ready post and preserve the original source URL."""
+
+          payload = {
+              "model": model,
+              "temperature": 0.3,
+              "max_completion_tokens": 2000,
+              "messages": [
+                  {"role": "system", "content": prompt},
+                  {"role": "user", "content": "Review these digest items (one JSON object per line):\n" + "\n".join(lines)},
+              ],
+          }
+          if model.startswith("openai/gpt-oss"):
+              payload["reasoning_effort"] = "low"  # reasoning tokens count toward the limit
+
+          def send():
+              request = Request(
+                  "https://api.groq.com/openai/v1/chat/completions",
+                  data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+                  headers={
+                      "Content-Type": "application/json",
+                      "Authorization": f"Bearer {api_key}",
+                      "User-Agent": "local-dirt-workflow/1.0",
+                  },
+                  method="POST",
+              )
+              with urlopen(request, timeout=120) as response:
+                  return json.load(response)
+
+          try:
+              try:
+                  result = send()
+              except HTTPError as e:
+                  if e.code != 429:
+                      raise
+                  wait = float(e.headers.get("retry-after") or 60) + 1
+                  print(f"Rate limited; retrying in {wait:.0f}s")
+                  time.sleep(wait)
+                  result = send()
+          except HTTPError as e:
+              raise SystemExit(f"Groq API error {e.code}: {e.read().decode('utf-8', 'ignore')[:800]}")
+
+          choices = result.get("choices", [])
+          if not choices:
+              raise SystemExit("Groq returned no choices: " + json.dumps(result)[:500])
+          text = (choices[0].get("message", {}).get("content") or "").strip()
+          if not text:
+              raise SystemExit("Groq returned an empty report.")
+
+          Path("output/report_latest.md").write_text(text + "\n", encoding="utf-8")
+          PY
+
+      - name: Upload Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-report
+          path: output/report_latest.md
+          if-no-files-found: error
+          retention-days: 14
