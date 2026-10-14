@@ -42,9 +42,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add output/digest_latest.json
-
           git diff --cached --quiet || git commit -m "Update output file"
-
           git push
 
       # Step 6: Ask Groq to select and draft posts from the latest digest
@@ -153,3 +151,15 @@ jobs:
           path: output/report_latest.md
           if-no-files-found: error
           retention-days: 14
+
+      # Step 7: Commit and push the report to the output folder
+      - name: Commit and Push Report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add output/report_latest.md
+
+          git diff --cached --quiet || git commit -m "Update report"
+          git pull --rebase
+          git push
