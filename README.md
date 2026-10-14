@@ -46,6 +46,7 @@ flowchart TD
   Step7.1 --> Step9.0
 ```
 
+
 ## Configuration
 To configure, just edit `config.json`, not the Python code.
 
@@ -103,6 +104,7 @@ Example refresh defaults from the project configuration:
 If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8:30, 8:45, etc., it skips that source until its configured refresh period has elapsed.
 
 
+
 ## State Files
 `seen_items.json`
     Prevents old stories or items from being repeatedly emitted as new.
@@ -110,8 +112,9 @@ If the script runs at 8:00 and checks a council page, then runs again at 8:15, 8
 `last_checked.json`
     Remembers when each source was last checked, so a master run does not hammer every website on every cycle.
 
-### Important Behavior
+#### Important Behavior
 A source that fails is not marked as successfully checked. That means it can retry on the next master run instead of waiting several hours or days.
+
 
 
 ## Output
@@ -121,14 +124,15 @@ The project currently writes two main artifacts to the `output` folder:
 - `output/report_latest.md` — the AI-edited summary report generated from the digest
 
 
+
 ## Automation
 The GitHub Actions workflow defined in `.github/workflows/run.yml` runs on a scheduled cron trigger and also supports manual runs from the Actions tab. It collects the latest items, then sends the digest to Groq for a concise editorial pass.
 
-### Required Repository Secret
+#### Required Repository Secret
 - `GROQ_API_KEY`
 - `GROQ_MODEL` (optional environment setting, defaults to `openai/gpt-oss-120b`)
 
-### Prompt Used for AI
+#### Prompt Used for AI
 Upload `output/digest_latest.json` and say:
 
 "Act as the editor of a concise Forsyth County local-news account.
@@ -142,6 +146,8 @@ item, give me a short X/Facebook-ready post and preserve the original source
 URL."
 
 This prompt is used in `local_dirt_ai_report.py` and reflects the current configuration.
+
+
 
 ## Limitations
 No generic scraper can guarantee every website forever. Some sites change, block automated requests, use JavaScript, or put documents inside special systems.
