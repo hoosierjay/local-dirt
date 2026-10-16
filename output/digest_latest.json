@@ -1,7 +1,7 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-14T01:23:38+00:00",
-  "finished_at": "2026-10-14T01:23:50+00:00",
+  "started_at": "2026-10-15T23:45:22+00:00",
+  "finished_at": "2026-10-15T23:45:37+00:00",
   "item_count": 7,
   "error_count": 0,
   "checked_source_count": 3,
@@ -20,46 +20,46 @@
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 300,
-      "checked_at": "2026-10-14T01:23:40+00:00"
+      "checked_at": "2026-10-15T23:45:25+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 120,
-      "checked_at": "2026-10-14T01:23:48+00:00"
+      "checked_at": "2026-10-15T23:45:34+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 120,
-      "checked_at": "2026-10-14T01:23:50+00:00"
+      "checked_at": "2026-10-15T23:45:37+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
     {
-      "id": "0018b0add3cf6542a0ca429f",
+      "id": "9bcbc62a983375b0f94c8c07",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
-      "title": "Cumming Events Calendar for October 14, 2026 - Cumming, GA Patch",
+      "title": "Cumming Events Calendar for October 15, 2026 - Cumming, GA Patch",
       "url": "https://patch.com/georgia/cumming/calendar",
       "published": "2026-10-19T23:30:00.000Z",
-      "fetched_at": "2026-10-14T01:23:50+00:00",
+      "fetched_at": "2026-10-15T23:45:37+00:00",
       "matched_keywords": [],
       "text": ""
     },
     {
-      "id": "4f814f1d7b24461e054305cc",
+      "id": "f9d1bf67094d7e41038d8dba",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
       "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/cumming",
-      "published": "2026-10-13T17:05:39Z",
-      "fetched_at": "2026-10-14T01:23:49+00:00",
+      "published": "2026-10-15T13:54:45Z",
+      "fetched_at": "2026-10-15T23:45:36+00:00",
       "matched_keywords": [],
-      "text": "Man Fatally Ejected From Roller Coaster At Six Flags Over GA ID'd\nPolice say the man hit other riders when he was ejected from a roller coaster at Six Flags Over Georgia."
+      "text": "New Details Revealed In Fatal Fall At Six Flags Over GA\nPolice have released new details regarding the four passengers who were injured after a man's fatal fall at Six Flags Over Georgia."
     },
     {
       "id": "2d471d0faa1af91866c7d208",
@@ -70,7 +70,7 @@
       "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
       "published": "2025-03-14T14:25:00-0400",
-      "fetched_at": "2026-10-14T01:23:44+00:00",
+      "fetched_at": "2026-10-15T23:45:29+00:00",
       "matched_keywords": [],
       "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affec"
     },
@@ -83,7 +83,7 @@
       "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
       "published": "2025-02-18T12:24:00-0500",
-      "fetched_at": "2026-10-14T01:23:46+00:00",
+      "fetched_at": "2026-10-15T23:45:33+00:00",
       "matched_keywords": [],
       "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy "
     },
@@ -96,7 +96,7 @@
       "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
       "published": "2025-02-10T16:00:55-0500",
-      "fetched_at": "2026-10-14T01:23:47+00:00",
+      "fetched_at": "2026-10-15T23:45:34+00:00",
       "matched_keywords": [],
       "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, art"
     },
@@ -109,7 +109,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-14T01:23:41+00:00",
+      "fetched_at": "2026-10-15T23:45:26+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -124,7 +124,7 @@
       "title": "Home",
       "url": "https://www.forsythsheriff.org",
       "published": null,
-      "fetched_at": "2026-10-14T01:23:40+00:00",
+      "fetched_at": "2026-10-15T23:45:25+00:00",
       "matched_keywords": [],
       "text": "The Edward Byrne Memorial Justice Assistance Grant (JAG) – FY26\nGrant Details and citizen comment form… [READ MORE]"
     }
