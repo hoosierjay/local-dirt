@@ -28,13 +28,13 @@ The workflow is configured in `.github/workflows/run.yml` and does the following
 ```mermaid
 flowchart TD
   subgraph "Scheduled Workflow (run.yml)"
-    Step4.1@{ shape: rect, label: "Generate Digest<br>(local_dirt.py)" }
+    Step4.1@{ shape: rect, label: "Review Sites and Generate Digest<br>(local_dirt.py)" }
     Step4.2@{ shape: doc, label: "Digest File<br>(digest_latest.json)" }
     Step5.1@{ shape: rect, label: "Push Digest File to Repo" }
     Step6.1@{ shape: rect, label: "Analyze Digest and Generate Report<br>(local_dirt_ai_report.py)" }
     Step6.2@{ shape: doc, label: "Analysis Report<br>(report_latest.md)" }
-    Step7.1@{ shape: rect, label: "Push Analysis to Repo" }
-    Step8.1@{ shape: rect, label: "Email Analysis to Repo Owner" }
+    Step7.1@{ shape: rect, label: "Push Analysis Report to Repo" }
+    Step8.1@{ shape: rect, label: "Email Analysis Report to Repo Owner" }
     Step9.0@{ shape: docs, label: "Repo" }
   end
   Step4.1 --> Step4.2
