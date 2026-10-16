@@ -28,7 +28,7 @@ The workflow is configured in `.github/workflows/run.yml` and does the following
 ```mermaid
 flowchart TD
   subgraph "Scheduled Workflow (run.yml)"
-    Step4.1@{ shape: rect, label: "Review Sites and Generate Digest<br>(local_dirt.py)" }
+    Step4.1@{ shape: rect, label: "Gather News and Generate Digest<br>(local_dirt.py)" }
     Step4.2@{ shape: doc, label: "Digest File<br>(digest_latest.json)" }
     Step5.1@{ shape: rect, label: "Push Digest File to Repo" }
     Step6.1@{ shape: rect, label: "Analyze Digest and Generate Report<br>(local_dirt_ai_report.py)" }
