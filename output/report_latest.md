@@ -1,1 +1,1 @@
-**No local news items met the selection criteria for a concise Forsyth County update.**
+After reviewing the list, none of the items constitute current, Forsyth‑County‑specific news that would interest local residents (they’re either generic event calendars, unrelated municipal stories, or generic corporate pages). No posts are needed.
