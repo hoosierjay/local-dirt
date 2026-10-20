@@ -1,4 +1,3 @@
-**Forsyth County – Public‑Safety Grant Notice**  
-The Edward Byrne Memorial Justice Assistance Grant (FY 26) is now open for public comment. This state‑funded grant supports local law‑enforcement initiatives, from community‑policing programs to equipment upgrades. Residents can review the details and submit feedback through the county sheriff’s website.  
-
-🔗 Read more & comment: https://www.forsythsheriff.org
+**⚠️ Health Alert – Possible Measles Exposure at Popular Local Restaurant**  
+Georgia health officials say a confirmed measles case visited a well‑known eatery in the Cumming area. Anyone who dined there in the past 7 days should watch for symptoms (fever, rash, cough) and contact their doctor or the county health department right away. Stay safe, Forsyth!  
+🔗 https://patch.com/georgia/cumming
