@@ -1,4 +1,6 @@
-**Forsyth County – Public‑Safety Grant Update**  
-The Edward Byrne Memorial Justice Assistance Grant (JAG) for FY 2026 is now open for comment. This state‑funded grant supports local law‑enforcement initiatives, from community policing to crime‑prevention programs. Residents can review the grant details and submit feedback through the Forsyth Sheriff’s Office website.  
+**🚨 New Funding Opportunity for Forsyth County Residents 🚨**  
+The Edward Byrne Memorial Justice Assistance Grant (FY 26) is now open for public comment. This state‑funded grant supports local law‑enforcement initiatives, from community‑policing programs to crime‑prevention projects.  
+🗓 Comment deadline: [Check the website]  
+💬 Your input helps shape how the money is used to keep our neighborhoods safe.  
 
-🔗 [Read more & comment here](https://www.forsythsheriff.org)
+🔗 Learn more and submit comments here: https://www.forsythsheriff.org
