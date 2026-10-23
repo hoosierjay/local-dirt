@@ -1,6 +1,5 @@
-**🚨 New Funding Opportunity for Forsyth County Residents 🚨**  
-The Edward Byrne Memorial Justice Assistance Grant (FY 26) is now open for public comment. This state‑funded grant supports local law‑enforcement initiatives, from community‑policing programs to crime‑prevention projects.  
-🗓 Comment deadline: [Check the website]  
-💬 Your input helps shape how the money is used to keep our neighborhoods safe.  
+**Chick‑Fil‑A to close its Dwarf House location in Metro Atlanta**  
+The popular Chick‑Fil‑A is shutting down a local Dwarf House restaurant to make way for a new Truett’s. Residents can check the exact site and timeline on the Patch Cumming page.  
+🔗 https://patch.com/georgia/cumming  
 
-🔗 Learn more and submit comments here: https://www.forsythsheriff.org
+*Stay tuned for updates on the new Truett’s opening!*
