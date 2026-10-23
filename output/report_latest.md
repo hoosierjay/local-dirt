@@ -1,5 +1,3 @@
-**Chick‑Fil‑A to close its Dwarf House location in Metro Atlanta**  
-The popular Chick‑Fil‑A is shutting down a local Dwarf House restaurant to make way for a new Truett’s. Residents can check the exact site and timeline on the Patch Cumming page.  
-🔗 https://patch.com/georgia/cumming  
-
-*Stay tuned for updates on the new Truett’s opening!*
+**🚨 Police Shooting in Nearby Woodstock**  
+Two Woodstock police officers and a suspect were injured after shots were fired during a call response. The incident is under investigation. Stay tuned for updates and any safety advisories.  
+🔗 https://patch.com/georgia/cumming
