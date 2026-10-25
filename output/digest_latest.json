@@ -1,7 +1,7 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-10-24T23:32:34+00:00",
-  "finished_at": "2026-10-24T23:32:49+00:00",
+  "started_at": "2026-10-25T23:27:28+00:00",
+  "finished_at": "2026-10-25T23:27:44+00:00",
   "item_count": 7,
   "error_count": 0,
   "checked_source_count": 3,
@@ -20,46 +20,46 @@
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 300,
-      "checked_at": "2026-10-24T23:32:35+00:00"
+      "checked_at": "2026-10-25T23:27:30+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 120,
-      "checked_at": "2026-10-24T23:32:46+00:00"
+      "checked_at": "2026-10-25T23:27:41+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 120,
-      "checked_at": "2026-10-24T23:32:49+00:00"
+      "checked_at": "2026-10-25T23:27:44+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
     {
-      "id": "6745a817f33b3e69f0f093fe",
+      "id": "938a84f84d59a235d9d74be4",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
-      "title": "Cumming Events Calendar for October 24, 2026 - Cumming, GA Patch",
+      "title": "Cumming Events Calendar for October 25, 2026 - Cumming, GA Patch",
       "url": "https://patch.com/georgia/cumming/calendar",
-      "published": "2026-10-24T20:00:00.000Z",
-      "fetched_at": "2026-10-24T23:32:49+00:00",
+      "published": "2026-10-25T22:00:00.000Z",
+      "fetched_at": "2026-10-25T23:27:44+00:00",
       "matched_keywords": [],
       "text": ""
     },
     {
-      "id": "39222ee11d2426ef1ffae01e",
+      "id": "d02a74f6d12f0ee14b898aaf",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
       "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/cumming",
-      "published": "2026-10-23T20:05:01Z",
-      "fetched_at": "2026-10-24T23:32:48+00:00",
+      "published": "2026-10-22T20:30:25Z",
+      "fetched_at": "2026-10-25T23:27:42+00:00",
       "matched_keywords": [],
-      "text": "Boy Fatally Ejected From ATV | WNBA Finals | Shooting Injures 2 Officers: GA News\nYouth College Fair, Brunch | Atlanta Tech Shooting Kills 1, Injures 1 | Molotov Cocktail Thrown At ICE Building | Officer Dragged By Car"
+      "text": "New Hotel Adds Luxury To Lawrenceville\n\"Seeing it finally come to life has been remarkable,\" representatives told Patch of The Lawrence Hotel."
     },
     {
       "id": "2d471d0faa1af91866c7d208",
@@ -70,7 +70,7 @@
       "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
       "published": "2025-03-14T14:25:00-0400",
-      "fetched_at": "2026-10-24T23:32:40+00:00",
+      "fetched_at": "2026-10-25T23:27:35+00:00",
       "matched_keywords": [],
       "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affec"
     },
@@ -83,7 +83,7 @@
       "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
       "published": "2025-02-18T12:24:00-0500",
-      "fetched_at": "2026-10-24T23:32:44+00:00",
+      "fetched_at": "2026-10-25T23:27:39+00:00",
       "matched_keywords": [],
       "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy "
     },
@@ -96,7 +96,7 @@
       "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
       "published": "2025-02-10T16:00:55-0500",
-      "fetched_at": "2026-10-24T23:32:46+00:00",
+      "fetched_at": "2026-10-25T23:27:41+00:00",
       "matched_keywords": [],
       "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, art"
     },
@@ -109,7 +109,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-10-24T23:32:37+00:00",
+      "fetched_at": "2026-10-25T23:27:31+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -124,7 +124,7 @@
       "title": "Home",
       "url": "https://www.forsythsheriff.org",
       "published": null,
-      "fetched_at": "2026-10-24T23:32:35+00:00",
+      "fetched_at": "2026-10-25T23:27:30+00:00",
       "matched_keywords": [],
       "text": "The Edward Byrne Memorial Justice Assistance Grant (JAG) – FY26\nGrant Details and citizen comment form… [READ MORE]"
     }
