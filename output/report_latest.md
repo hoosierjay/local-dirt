@@ -1,4 +1,1 @@
-**Forsyth County Sheriff’s Office – New Justice‑Assistance Grant (FY 26)**  
-The Sheriff’s Office is accepting public comments on the Edward Byrne Memorial Justice Assistance Grant for FY 26. This funding supports local law‑enforcement initiatives and community safety programs. Residents can review the grant details and submit feedback through the Sheriff’s website.  
-
-🔗 https://www.forsythsheriff.org   (see “Edward Byrne Memorial Justice Assistance Grant – FY26”)
+After reviewing the feed, none of the items meet the criteria for a Forsyth‑County‑focused news post (they’re either generic site links, events calendars, or stories about other municipalities). No update will be posted today.
