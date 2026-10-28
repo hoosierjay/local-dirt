@@ -1,1 +1,1 @@
-After reviewing the feed, none of the items meet the criteria for a Forsyth‑County‑focused news post (they’re either generic site links, events calendars, or stories about other municipalities). No update will be posted today.
+*No news items met the criteria for a concise Forsyth County local‑news post.*
