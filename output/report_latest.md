@@ -1,1 +1,1 @@
-After reviewing the list, none of the items meet the criteria for a Forsyth‑County‑focused news post (they’re either generic site homepages, out‑of‑area stories, or internal media‑company announcements). No Facebook‑ready updates are needed at this time.
+*No news items met the criteria for a concise Forsyth County local‑news post.*
