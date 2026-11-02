@@ -1,9 +1,6 @@
-**🛂 Need a police report, citation payment, or public‑records request?**  
-Forsyth County Sheriff’s Office now lets you handle everything online – file incident reports, pay citations, request records, and even submit employee compliments or complaints from the comfort of your home.  
-🔗 https://www.forsythsheriff.org  
+**📚 Georgia Lottery Boosts School Funding**  
+The Georgia Lottery reports that **over 4.6 million students** have benefited from lottery‑derived education dollars. The funds are earmarked for classroom resources, scholarships, and school improvements across the state—including our own Forsyth County schools.  
 
----  
+🔗 https://patch.com/georgia/cumming  
 
-**📅 Looking for something to do this weekend?**  
-Check the Cumming Events Calendar for the latest community festivals, farmers markets, concerts and more happening in and around Forsyth County.  
-🔗 https://patch.com/georgia/cumming/calendar
+*Stay tuned for how these dollars are impacting local classrooms!*
