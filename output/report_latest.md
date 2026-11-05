@@ -1,6 +1,6 @@
-**🗳️ Georgia 2026 Election Update – What Forsyth Voters Need to Know**  
-The statewide primary is underway today. Voters in Forsyth County are heading to the polls to choose a new governor and to decide the fate of U.S. Sen. Jon Ossoff, who is currently projected to win re‑election. Make sure you’re registered, know your polling location, and cast your ballot before the polls close.  
+**🍽️ 3 Georgia Restaurants Make America’s 100 Best List!**  
+Three local eateries have earned a spot on the nation’s top‑100 restaurant list, putting Georgia on the culinary map.  Residents can now brag that some of the best food in the country is right here in our backyard.  
 
-🔗 Source: https://patch.com/georgia/cumming  
+🔗 https://patch.com/georgia/cumming  
 
-*Stay informed, stay involved – every vote counts!*
+*#ForsythCounty #LocalEats #Foodie*
