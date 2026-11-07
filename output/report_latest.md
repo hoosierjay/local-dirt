@@ -1,5 +1,3 @@
-**🚨 Storm Rescue in Forsyth County**  
-Several residents were rescued after rising floodwaters forced them onto their roofs during tonight’s severe storms. Local police confirmed the rescues and are urging anyone still in danger to call 911 immediately. Stay safe and avoid flooded roads.  
-🔗 https://patch.com/georgia/cumming  
-
-*— Your Forsyth County News Feed*
+**Public Safety Alert**  
+🚨 A mass shooting at a Georgia block party has left 2 dead and 44 injured. Authorities say 10 people have been charged, and 2 suspects are still at large. Stay tuned for updates and follow safety guidelines.  
+🔗 https://patch.com/georgia/cumming
