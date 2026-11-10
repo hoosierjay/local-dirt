@@ -1,4 +1,1 @@
-**Taco Bell Foundation Gives $528,000 to Georgia Youth Non‑profits**  
-The Taco Bell Foundation has awarded $528,000 in community grants to nine youth‑focused nonprofits across Georgia, helping programs that serve kids in our area. Read more: https://patch.com/georgia/cumming  
-
-*#ForsythCounty #CommunityGrants #YouthPrograms*
+After reviewing the list, none of the items constitute current, Forsyth‑County‑specific news that would interest local residents (no road closures, school board actions, major developments, public‑safety alerts, or notable community events). Therefore, there are no posts to publish at this time.
