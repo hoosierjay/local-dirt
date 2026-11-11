@@ -1,1 +1,1 @@
-After reviewing the list, none of the items constitute current, Forsyth‑County‑specific news that would interest local residents (no road closures, school board actions, major developments, public‑safety alerts, or notable community events). Therefore, there are no posts to publish at this time.
+After reviewing the list, none of the items meet the criteria for a Forsyth County‑focused news post (major developments, road closures, schools, public safety, etc.). No posts will be published today.
