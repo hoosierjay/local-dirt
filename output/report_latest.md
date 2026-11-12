@@ -1,1 +1,1 @@
-After reviewing the list, none of the items meet the criteria for a Forsyth County‑focused news post (major developments, road closures, schools, public safety, etc.). No posts will be published today.
+**No news items met the criteria for a Forsyth County‑focused post today.**
