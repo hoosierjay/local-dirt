@@ -1,23 +1,7 @@
-**🚧 6‑Month Interstate Lane Closure**  
-A major lane on I‑85 will be closed for six months beginning next week for construction. Expect longer travel times and plan alternate routes. Stay safe!  
+**🧁 New Frozen‑Yogurt Spot Opens in Cumming!**  
+TCBY just opened its first Georgia location right here in Cumming.  “Everyone can create something uniquely their own,” says the owner.  Stop by for a swirl and try the seasonal flavors!  
 🔗 https://patch.com/georgia/cumming  
 
-**🍽️ 4 New Chipotle Locations Coming to Forsyth**  
-Chipotle is opening four new restaurants in the county this winter – two in Cumming, one in Alpharetta and one in Milton. More quick‑service Mexican‑style meals (and job opportunities) are on the way!  
-🔗 https://patch.com/georgia/cumming  
-
-**⚠️ Threats Reported at Local Schools**  
-Several Forsyth County schools received anonymous threats this week. Police are investigating and increased security measures are in place. Parents are urged to stay alert and follow school communications.  
-🔗 https://patch.com/georgia/cumming  
-
-**✈️ Deadly Plane Crash Near Cumming**  
-A small aircraft crashed just outside Cumming early Thursday morning, killing all aboard. Emergency crews responded quickly; investigators are on scene. Our thoughts are with the families.  
-🔗 https://patch.com/georgia/cumming  
-
-**👮 Officer Arrested in Drug Probe**  
-A Forsyth County sheriff’s deputy was arrested Thursday on charges related to a statewide drug investigation. The department says the case is being handled by the state attorney’s office.  
-🔗 https://patch.com/georgia/cumming  
-
-**🧊 Freeze Watch Issued**  
-The National Weather Service has placed a freeze watch over Forsyth County for the weekend. Residents should protect plants and be prepared for icy roads.  
-🔗 https://patch.com/georgia/cumming
+**🎄 5th Annual Holiday/Winter Market – Nov 21**  
+Shop local gifts, handmade crafts, and tasty treats at the Cumming City Center (423 Canton Rd) from 9 a.m. onward.  Perfect for getting a head‑start on holiday shopping!  
+🔗 https://patch.com/georgia/cumming/calendar
