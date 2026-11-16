@@ -1,7 +1,7 @@
 {
   "project": "Local Dirt Forsyth County",
-  "started_at": "2026-11-15T01:11:40+00:00",
-  "finished_at": "2026-11-15T01:11:55+00:00",
+  "started_at": "2026-11-16T01:17:40+00:00",
+  "finished_at": "2026-11-16T01:17:55+00:00",
   "item_count": 7,
   "error_count": 0,
   "checked_source_count": 3,
@@ -20,33 +20,33 @@
     {
       "source": "Forsyth County Sheriff's Office",
       "refresh_minutes": 300,
-      "checked_at": "2026-11-15T01:11:42+00:00"
+      "checked_at": "2026-11-16T01:17:42+00:00"
     },
     {
       "source": "Appen Media Group (Forsyth Herald)",
       "refresh_minutes": 120,
-      "checked_at": "2026-11-15T01:11:52+00:00"
+      "checked_at": "2026-11-16T01:17:52+00:00"
     },
     {
       "source": "Patch Cumming",
       "refresh_minutes": 120,
-      "checked_at": "2026-11-15T01:11:55+00:00"
+      "checked_at": "2026-11-16T01:17:55+00:00"
     }
   ],
   "skipped_sources": [],
   "items": [
     {
-      "id": "6bcdf9cdec26b68bfcba1eca",
+      "id": "e3ab60587d6a7f60124caf44",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
       "title": "Cumming, GA Patch - Breaking News, Local News, Events, Schools, Weather, Sports and Shopping",
       "url": "https://patch.com/georgia/cumming",
-      "published": "2026-11-13T23:31:02Z",
-      "fetched_at": "2026-11-15T01:11:53+00:00",
+      "published": "2026-11-10T20:13:15Z",
+      "fetched_at": "2026-11-16T01:17:54+00:00",
       "matched_keywords": [],
-      "text": "Schools Receive Threats | Fatal Floods Emerge | 4 New Chipotle Stores: GA News\nHoliday Market | Deadly Plane Crash | Officer Arrested In Drug Probe | 6-Month Interstate Lane Closure | Whipped Cream Recall | Freeze Watch"
+      "text": "New Frozen Yogurt Shop Opens 1st GA Location\n\"One of the things that makes TCBY special is that everyone can create something uniquely their own,\" the shop's owner told Patch."
     },
     {
       "id": "2d471d0faa1af91866c7d208",
@@ -57,7 +57,7 @@
       "title": "Appeals court rejects previous ruling in Sandy Springs police records suit — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/appeals-court-rejects-previous-ruling-in-sandy-springs-police-records-suit",
       "published": "2025-03-14T14:25:00-0400",
-      "fetched_at": "2026-11-15T01:11:46+00:00",
+      "fetched_at": "2026-11-16T01:17:47+00:00",
       "matched_keywords": [],
       "text": "Appeals court rejects previous ruling in Sandy Springs police records suit\nThe Georgia Court of Appeals ruled March 13 that a lower-court decision favoring the City of Sandy Springs in an Open Records lawsuit was premature.\nThe ruling is a setback for Sandy Springs and its practice of tailoring police reports released to the public to include nothing but the barest of data.\nResponding to the ruling, Sandy Springs Mayor Rusty Paul said the appellate court’s procedural determination does not affec"
     },
@@ -70,7 +70,7 @@
       "title": "Alpharetta native Sarah Coyne joins Appen reporting team — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/3/15/alpharetta-native-sarah-coyne-joins-appen-reporting-team",
       "published": "2025-02-18T12:24:00-0500",
-      "fetched_at": "2026-11-15T01:11:50+00:00",
+      "fetched_at": "2026-11-16T01:17:50+00:00",
       "matched_keywords": [],
       "text": "Alpharetta native Sarah Coyne joins Appen reporting team\nAppen Media Group announced Feb. 14 that Sarah Coyne will join its staff as a reporter. Coyne will immediately begin covering local government and business in North Fulton. She will report to Carl Appen, director of content and development, and will be based in Alpharetta.\n“Having an Alpharetta native come home to cover her community is a special gift for us,” Appen said. “Sarah hit the ground running this week already covering some heavy "
     },
@@ -83,22 +83,22 @@
       "title": "Appen Media, Decaturish to launch print newspaper — Appen Media Group",
       "url": "https://www.appenmediagroup.com/news/2025/2/10/appen-media-decaturish-to-launch-print-newspaper",
       "published": "2025-02-10T16:00:55-0500",
-      "fetched_at": "2026-11-15T01:11:51+00:00",
+      "fetched_at": "2026-11-16T01:17:52+00:00",
       "matched_keywords": [],
       "text": "Appen Media, Decaturish to launch print newspaper\nDecaturish.com, a trusted source for hyperlocal news in Decatur and surrounding communities, will launch a new publication, Decaturish Ink. The newspaper will provide readers with high-quality, in-depth journalism in a professionally designed print and digital format.\nWith the same commitment to transparency and thoughtful reporting, Decaturish Ink will elevate community storytelling by featuring long-form articles, profiles of local leaders, art"
     },
     {
-      "id": "4d1bef04eeeb7cc0169ad1f7",
+      "id": "f0d5fdea7e2513b86ae9fd55",
       "source": "Patch Cumming",
       "source_scope": "local",
       "category": "news",
       "item_type": "listing_or_page",
-      "title": "Cumming Events Calendar for November 15, 2026 - Cumming, GA Patch",
+      "title": "Cumming Events Calendar for November 16, 2026 - Cumming, GA Patch",
       "url": "https://patch.com/georgia/cumming/calendar",
       "published": null,
-      "fetched_at": "2026-11-15T01:11:55+00:00",
+      "fetched_at": "2026-11-16T01:17:55+00:00",
       "matched_keywords": [],
-      "text": "Events and Things to Do in Cumming, GA\nSaturday, November 14\nCumming Farmers Market 8:00 am Cumming Farmers Market, 423 Canton Rd, Cumming, GA, 30040\nCumming Farmers Market, 423 Canton Rd, Cumming, GA, 30040\n23rd Annual Christmas Arts & Crafts Festival 9:00 am Lanier Tech\nLanier Tech\nPinecrest Academy Fall Open House 10:00 am Pinecrest Academy, 955 Peachtree Pkwy, Cumming\nPinecrest Academy, 955 Peachtree Pkwy, Cumming\nT-Mobile Fiber Launch Event in Macon, GA 1:00 pm T-Mobile, 5080 Riverside Dr, "
+      "text": "Events and Things to Do in Cumming, GA\nSaturday, November 21\n5th Annual Holiday/Winter Market 9:00 am Cumming City Center, 423 Canton Rd, Cumming\nCumming City Center, 423 Canton Rd, Cumming\nTuesday, December 8\nPuppy Yoga + Hot Cocoa 6:00 pm 5235 Union Hill Rd, Cumming\n5235 Union Hill Rd, Cumming\nTuesday, December 15\nTurn Sweet Dreams Into Second Chances 9:00 am PeachSkinSheets HQ, 1225 Old Alpharetta Rd, Alpharetta, GA, 30005\nPeachSkinSheets HQ, 1225 Old Alpharetta Rd, Alpharetta, GA, 30005"
     },
     {
       "id": "96c6fde82f58577a777cf141",
@@ -109,7 +109,7 @@
       "title": "Appen Media Group",
       "url": "https://www.appenmediagroup.com",
       "published": null,
-      "fetched_at": "2026-11-15T01:11:43+00:00",
+      "fetched_at": "2026-11-16T01:17:44+00:00",
       "matched_keywords": [
         "Forsyth County"
       ],
@@ -124,7 +124,7 @@
       "title": "Home",
       "url": "https://www.forsythsheriff.org",
       "published": null,
-      "fetched_at": "2026-11-15T01:11:42+00:00",
+      "fetched_at": "2026-11-16T01:17:42+00:00",
       "matched_keywords": [],
       "text": "File Online\nFile an Incident Report\nPay a Citation\nRequest Public Records\nRequest a Vacation Check\nSubmit an Employee Complaint or Compliment"
     }
