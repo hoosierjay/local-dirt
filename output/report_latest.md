@@ -1,10 +1,10 @@
-**🎉 5th Annual Holiday/Winter Market – Saturday, Nov 21, 9 AM**  
-Head to the Cumming City Center (423 Canton Rd) for the newest edition of our beloved holiday market. Local artisans, food trucks, live music, and festive fun for the whole family. 🎁✨  
+**🎉 Holiday Fun in Cumming! 🎉**  
+Mark your calendars for these family‑friendly events happening this weekend in Forsyth County:  
 
-📅 Date: Saturday, November 21  
-🕘 Time: 9:00 a.m. – (ends late afternoon)  
-📍 Location: Cumming City Center, 423 Canton Rd, Cumming  
+- **Friday, Dec 4 – Furkids Holiday Open House** @ 4 PM, 5235 Union Hill Rd.  
+- **Saturday, Dec 5 – Symphony Orchestra of Georgia Holiday Concert** @ 4 PM, Greater Heights Church (3790 Post Rd).  
+- **Tuesday, Dec 8 – Puppy Yoga + Hot Cocoa** @ 6 PM, 5235 Union Hill Rd.  
 
-Don’t miss a chance to shop unique gifts while supporting Forsyth County businesses!  
+Enjoy music, furry friends, and festive vibes right here in Cumming!  
 
 🔗 More details: https://patch.com/georgia/cumming/calendar
