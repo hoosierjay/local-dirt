@@ -1,10 +1,6 @@
-**🎉 Holiday Fun in Cumming! 🎉**  
-Mark your calendars for these family‑friendly events happening this weekend in Forsyth County:  
+**⚠️ Thanksgiving‑Season Storms Could Disrupt Travel Across Georgia**  
+The National Weather Service warns that a strong system moving into the Southeast this weekend may bring heavy rain, strong winds, and possible tornadoes.  Expect flight delays or cancellations at Atlanta‑area airports and hazardous road conditions on I‑75, I‑285 and GA‑400.  If you’re heading out for Thanksgiving, plan extra travel time, check airline updates, and keep an eye on local road‑closure alerts.  
 
-- **Friday, Dec 4 – Furkids Holiday Open House** @ 4 PM, 5235 Union Hill Rd.  
-- **Saturday, Dec 5 – Symphony Orchestra of Georgia Holiday Concert** @ 4 PM, Greater Heights Church (3790 Post Rd).  
-- **Tuesday, Dec 8 – Puppy Yoga + Hot Cocoa** @ 6 PM, 5235 Union Hill Rd.  
+🔗 https://patch.com/georgia/cumming  
 
-Enjoy music, furry friends, and festive vibes right here in Cumming!  
-
-🔗 More details: https://patch.com/georgia/cumming/calendar
+*Stay safe and travel smart, Forsyth!*
