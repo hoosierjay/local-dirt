@@ -1,3 +1,4 @@
-**Forsyth County Sheriff’s Office – Online Services Now Available**  
-Residents can now file incident reports, pay citations, request public records, and more directly from the Sheriff’s Office website. Save time by handling these tasks online.  
-🔗 https://www.forsythsheriff.org
+**⚡️ Thanksgiving Weather Alert for Forsyth County**  
+Rain is expected on Thanksgiving Day, so plan for wet conditions if you’re heading out for turkey‑time festivities. Keep an eye on local forecasts and consider indoor activities or a backup plan for any outdoor gatherings. Stay dry and enjoy the holiday!  
+
+🔗 Source: https://patch.com/georgia/cumming  (Nov 25 2026)
